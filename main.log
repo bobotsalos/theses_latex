@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2025.9.20)  3 JUN 2026 21:18
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2025.9.20)  5 JUN 2026 13:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1330,25 +1330,28 @@ Class scrreprt Warning: Redefinition of \@makeschapterhead detected.
 (scrreprt)              KOMA-Script and will not work with a coming version,
 (scrreprt)              that will remove this deprecated code.
 
-(./main.toc
-LaTeX Info: Redefining \anw@print on input line 18.
-
-
-Package tocbasic Warning: number width of chapter toc entries should be increased!
-(tocbasic)                Currently used number width = 18.156pt,
-(tocbasic)                Wanted number separation    = 4.79993pt,
-(tocbasic)                Reserved number width       = 18.0pt on input line 18.
-
-LaTeX Info: Redefining \anw@print on input line 18.
-)
-\tf@toc=\write6
-\openout6 = `main.toc'.
-
- [5
+(./main.toc [5
 
 
 
 ]
+Underfull \hbox (badness 7238) in paragraph at lines 35--35
+ [][] [][][]\TU/CMUSerif(0)/m/n/12 Αξιολόγηση σε Χρονοσειρές: Combinatorial Purged Cross- 
+ []
+
+LaTeX Info: Redefining \anw@print on input line 39.
+
+Package tocbasic Warning: number width of chapter toc entries should be increased!
+(tocbasic)                Currently used number width = 18.156pt,
+(tocbasic)                Wanted number separation    = 4.79993pt,
+(tocbasic)                Reserved number width       = 18.0pt on input line 39.
+
+LaTeX Info: Redefining \anw@print on input line 39.
+)
+\tf@toc=\write6
+\openout6 = `main.toc'.
+
+ [6]
 
 Class scrreprt Warning: Redefinition of \@makeschapterhead detected.
 (scrreprt)              Note: KOMA-Script does use styles for commands like
@@ -1364,7 +1367,7 @@ Class scrreprt Warning: Redefinition of \@makeschapterhead detected.
 \tf@lof=\write7
 \openout7 = `main.lof'.
 
- [6
+ [7
 
 
 ]
@@ -1383,7 +1386,7 @@ Class scrreprt Warning: Redefinition of \@makeschapterhead detected.
 \tf@lot=\write8
 \openout8 = `main.lot'.
 
- [7
+ [8
 
 
 ]
@@ -1417,24 +1420,52 @@ Class scrreprt Warning: Redefinition of \@makechapterhead detected.
 (scrreprt)              KOMA-Script and will not work with a coming version,
 (scrreprt)              that will remove this deprecated code.
 
+
+LaTeX Warning: Citation `ref1' on page 1 undefined on input line 17.
+
+
+LaTeX Warning: Citation `ref2' on page 1 undefined on input line 17.
+
+
+LaTeX Warning: Citation `ref3' on page 1 undefined on input line 17.
+
+
+LaTeX Warning: Citation `ref4' on page 1 undefined on input line 17.
+
+
+LaTeX Warning: Citation `ref5' on page 1 undefined on input line 19.
+
+
+LaTeX Warning: Citation `ref6' on page 1 undefined on input line 19.
+
 [1
 
 
 
 
 
-] [2]
-Underfull \hbox (badness 1097) in paragraph at lines 55--56
+]
+
+LaTeX Warning: Citation `ref7' on page 2 undefined on input line 21.
+
+
+LaTeX Warning: Citation `ref8' on page 2 undefined on input line 23.
+
+
+LaTeX Warning: Citation `ref9' on page 2 undefined on input line 23.
+
+
+LaTeX Warning: Citation `ref10' on page 2 undefined on input line 25.
+
+[2] [3]
+Underfull \hbox (badness 1097) in paragraph at lines 59--60
 []\TU/CMUSerif(0)/m/n/12 Εφαρμόζεται διαδικασία επιλογής υπερπαραμέτρων βασισμένη σε Combinatorial
  []
 
-) [3] [4]
+) [4] [5]
 \openout2 = `chapter2/chapter2.aux'.
 
- (./chapter2/chapter2.tex)
-\openout2 = `chapter3/chapter3.aux'.
-
- (./chapter3/chapter3.tex
+ (./chapter2/chapter2.tex
 chapter 2.
 
 Class scrreprt Warning: Redefinition of \@makechapterhead detected.
@@ -1447,18 +1478,65 @@ Class scrreprt Warning: Redefinition of \@makechapterhead detected.
 (scrreprt)              KOMA-Script and will not work with a coming version,
 (scrreprt)              that will remove this deprecated code.
 
-) [5
+
+LaTeX Warning: Citation `mnih2015' on page 6 undefined on input line 44.
 
 
+LaTeX Warning: Citation `silver2016' on page 6 undefined on input line 44.
 
+
+LaTeX Warning: Citation `kober2013' on page 6 undefined on input line 46.
+
+
+LaTeX Warning: Citation `schulman2017' on page 6 undefined on input line 48.
+
+[6
 
 
 
 
 ]
-\openout2 = `chapter4/chapter4.aux'.
 
- (./chapter4/chapter4.tex
+LaTeX Warning: Citation `ref_classic_ml' on page 7 undefined on input line 53.
+
+
+LaTeX Warning: Citation `ref_lstm_finance' on page 7 undefined on input line 60.
+
+
+LaTeX Warning: Citation `ref_cnn_finance' on page 7 undefined on input line 60.
+
+[7]
+
+LaTeX Warning: Citation `ref_drl_trading' on page 8 undefined on input line 67.
+
+
+LaTeX Warning: Citation `ref_ppo_trading' on page 8 undefined on input line 67.
+
+
+LaTeX Warning: Citation `ref_news_sentiment' on page 8 undefined on input line 77.
+
+
+LaTeX Warning: Citation `ref_social_sentiment' on page 8 undefined on input line 78.
+
+
+Underfull \hbox (badness 1127) in paragraph at lines 78--79
+[]\TU/CMUSerif(0)/b/n/12 Μέσα Κοινωνικής Δικτύωσης (Social Media): \TU/CMUSerif(0)/m/n/12 Πλατφόρμες όπως το
+ []
+
+[8]
+
+LaTeX Warning: Citation `ref_loughran' on page 9 undefined on input line 82.
+
+
+LaTeX Warning: Citation `ref_finbert' on page 9 undefined on input line 84.
+
+
+LaTeX Warning: Citation `ref_fingpt' on page 9 undefined on input line 84.
+
+) [9]
+\openout2 = `chapter3/chapter3.aux'.
+
+ (./chapter3/chapter3.tex
 chapter 3.
 
 Class scrreprt Warning: Redefinition of \@makechapterhead detected.
@@ -1471,15 +1549,28 @@ Class scrreprt Warning: Redefinition of \@makechapterhead detected.
 (scrreprt)              KOMA-Script and will not work with a coming version,
 (scrreprt)              that will remove this deprecated code.
 
-) [6
+[10
 
 
 
 
-]
-\openout2 = `chapter5/chapter5.aux'.
+] [11] [12] [13]
+Underfull \hbox (badness 1412) in paragraph at lines 122--124
+[]\TU/CMUSerif(0)/b/n/12 3. Εντροπία (Entropy Bonus): \TU/CMUSerif(0)/m/n/12 Για να διασφαλιστεί η επαρκής εξερεύνηση
+ []
 
- (./chapter5/chapter5.tex
+[14]
+
+Package fancyhdr Warning: \headheight is too small (18.125pt): 
+(fancyhdr)                Make it at least 27.38203pt, for example:
+(fancyhdr)                \setlength{\headheight}{27.38203pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-9.25703pt}.
+
+[15]) [16]
+\openout2 = `chapter4/chapter4.aux'.
+
+ (./chapter4/chapter4.tex
 chapter 4.
 
 Class scrreprt Warning: Redefinition of \@makechapterhead detected.
@@ -1492,7 +1583,28 @@ Class scrreprt Warning: Redefinition of \@makechapterhead detected.
 (scrreprt)              KOMA-Script and will not work with a coming version,
 (scrreprt)              that will remove this deprecated code.
 
-) [7
+) [17
+
+
+
+
+]
+\openout2 = `chapter5/chapter5.aux'.
+
+ (./chapter5/chapter5.tex
+chapter 5.
+
+Class scrreprt Warning: Redefinition of \@makechapterhead detected.
+(scrreprt)              Note: KOMA-Script does use styles for commands like
+(scrreprt)              \chapter. Currently it internally still provides and
+(scrreprt)              uses \@makechapterhead, but a completely different
+(scrreprt)              definition compared to the standard classes.
+(scrreprt)              So redefining or using internal \@makechapterhead
+(scrreprt)              by users or package authors may already break
+(scrreprt)              KOMA-Script and will not work with a coming version,
+(scrreprt)              that will remove this deprecated code.
+
+) [18
 
 
 
@@ -1516,7 +1628,7 @@ Class scrreprt Warning: Redefinition of \@makeschapterhead detected.
 
 LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
-) [8
+) [19
 
 
 
@@ -1538,7 +1650,7 @@ Class scrreprt Warning: Redefinition of \@makechapterhead detected.
 
 LaTeX Info: Redefining \anw@print on input line 7.
 Missing character: There is no ʹ (U+0374) in font [lmroman17-regular]:mapping=tex-text;!
-) [9
+) [20
 
 
 
@@ -1551,18 +1663,21 @@ L3 programming layer <2020/03/25>
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package rerunfilecheck Info: File `main.brf' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+(rerunfilecheck)             Checksum: F4C6DBCF8234367C69867F4F01A74267;1097.
  ) 
 Here is how much of TeX's memory you used:
- 38070 strings out of 474878
- 780595 string characters out of 5762516
- 1927627 words of memory out of 5000000
- 59407 multiletter control sequences out of 15000+600000
- 564482 words of font info for 110 fonts, out of 8000000 for 9000
+ 38140 strings out of 474878
+ 781844 string characters out of 5762516
+ 1929627 words of memory out of 5000000
+ 59476 multiletter control sequences out of 15000+600000
+ 564490 words of font info for 111 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 131i,11n,125p,10954b,924s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 131i,12n,125p,10954b,924s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (19 pages).
+Output written on main.pdf (31 pages).
