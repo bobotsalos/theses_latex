@@ -1,6 +1,11 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Ο βασικός βρόχος αλληλεπίδρασης πράκτορα/περιβάλλοντος στην Ενισχυτική Μάθηση. Ο πράκτορας εκτελεί δράσεις και το περιβάλλον αποκρίνεται με νέα κατάσταση και ανταμοιβή.}}{13}{figure.caption.9}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Πολυεπίπεδο Δίκτυο Πρόσθιας Τροφοδότησης (Multi-Layer Perceptron) με ένα κρυφό στρώμα. Η πληροφορία ρέει μονόδρομα από την είσοδο προς την έξοδο.}}{14}{figure.caption.14}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Αρχιτεκτονική Actor/Critic. Ο Critic εκτιμά την αξία της κατάστασης και τροφοδοτεί τον Actor με το σήμα πλεονεκτήματος $A_t$, το οποίο κατευθύνει την ενημέρωση της πολιτικής.}}{25}{figure.caption.54}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Δομή ενός ανοδικού (αριστερά) και ενός πτωτικού (δεξιά) κεριού. Το σώμα ορίζεται από το άνοιγμα και το κλείσιμο, ενώ οι σκιές δείχνουν το εύρος υψηλότερης--χαμηλότερης τιμής εντός του διαστήματος.}}{32}{figure.caption.72}%
+\addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }

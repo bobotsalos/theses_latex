@@ -1,3 +1,339 @@
-\begin{thebibliography}{}
+\begin{thebibliography}{10}
+
+\bibitem{altman1999cmdp}
+Eitan Altman.
+\newblock {\em Constrained Markov Decision Processes}.
+\newblock Chapman and Hall/CRC, Boca Raton, FL, 1999.
+
+\bibitem{araci2019finbert}
+Dogu Araci.
+\newblock Finbert: Financial sentiment analysis with pre-trained language
+  models.
+\newblock {\em arXiv preprint arXiv:1908.10063}, 2019.
+
+\bibitem{arulkumaran2017drlsurvey}
+Kai Arulkumaran, Marc~Peter Deisenroth, Miles Brundage, and Anil~Anthony
+  Bharath.
+\newblock Deep reinforcement learning: A brief survey.
+\newblock {\em IEEE Signal Processing Magazine}, 34(6):26--38, 2017.
+
+\bibitem{bekiros2010}
+Stelios~D. Bekiros.
+\newblock Fuzzy adaptive decision-making for boundedly rational traders in
+  speculative stock markets.
+\newblock {\em European Journal of Operational Research}, 202(1):285--293,
+  2010.
+
+\bibitem{bellman1957}
+Richard Bellman.
+\newblock {\em Dynamic Programming}.
+\newblock Princeton University Press, Princeton, NJ, 1957.
+
+\bibitem{bengio1994vanishing}
+Yoshua Bengio, Patrice Simard, and Paolo Frasconi.
+\newblock Learning long-term dependencies with gradient descent is difficult.
+\newblock {\em IEEE Transactions on Neural Networks}, 5(2):157--166, 1994.
+
+\bibitem{bernard1989pead}
+Victor~L. Bernard and Jacob~K. Thomas.
+\newblock Post-earnings-announcement drift: Delayed price response or risk
+  premium?
+\newblock {\em Journal of Accounting Research}, 27:1--36, 1989.
+
+\bibitem{bishop2006}
+Christopher~M. Bishop.
+\newblock {\em Pattern Recognition and Machine Learning}.
+\newblock Springer, New York, 2006.
+
+\bibitem{bollen2011twitter}
+Johan Bollen, Huina Mao, and Xiaojun Zeng.
+\newblock Twitter mood predicts the stock market.
+\newblock {\em Journal of Computational Science}, 2(1):1--8, 2011.
+
+\bibitem{brown2020gpt3}
+Tom~B. Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared Kaplan,
+  Prafulla Dhariwal, Arvind Neelakantan, Pranav Shyam, Girish Sastry, Amanda
+  Askell, et~al.
+\newblock Language models are few-shot learners.
+\newblock In {\em Advances in Neural Information Processing Systems (NeurIPS)},
+  volume~33, pages 1877--1901, 2020.
+
+\bibitem{cho2014gru}
+Kyunghyun Cho, Bart van Merri{\"e}nboer, Caglar Gulcehre, Dzmitry Bahdanau,
+  Fethi Bougares, Holger Schwenk, and Yoshua Bengio.
+\newblock Learning phrase representations using rnn encoder--decoder for
+  statistical machine translation.
+\newblock In {\em Proceedings of the 2014 Conference on Empirical Methods in
+  Natural Language Processing (EMNLP)}, pages 1724--1734, 2014.
+
+\bibitem{cybenko1989}
+George Cybenko.
+\newblock Approximation by superpositions of a sigmoidal function.
+\newblock {\em Mathematics of Control, Signals and Systems}, 2(4):303--314,
+  1989.
+
+\bibitem{deng2016drltrading}
+Yue Deng, Feng Bao, Youyong Kong, Zhiquan Ren, and Qionghai Dai.
+\newblock Deep direct reinforcement learning for financial signal
+  representation and trading.
+\newblock {\em IEEE Transactions on Neural Networks and Learning Systems},
+  28(3):653--664, 2017.
+
+\bibitem{devlin2019bert}
+Jacob Devlin, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova.
+\newblock Bert: Pre-training of deep bidirectional transformers for language
+  understanding.
+\newblock In {\em Proceedings of the 2019 Conference of the North American
+  Chapter of the Association for Computational Linguistics (NAACL-HLT)}, pages
+  4171--4186, 2019.
+
+\bibitem{elfwing2018silu}
+Stefan Elfwing, Eiji Uchibe, and Kenji Doya.
+\newblock Sigmoid-weighted linear units for neural network function
+  approximation in reinforcement learning.
+\newblock {\em Neural Networks}, 107:3--11, 2018.
+
+\bibitem{fama1970emh}
+Eugene~F. Fama.
+\newblock Efficient capital markets: A review of theory and empirical work.
+\newblock {\em The Journal of Finance}, 25(2):383--417, 1970.
+
+\bibitem{fischer2018lstm}
+Thomas Fischer and Christopher Krauss.
+\newblock Deep learning with long short-term memory networks for financial
+  market predictions.
+\newblock {\em European Journal of Operational Research}, 270(2):654--669,
+  2018.
+
+\bibitem{goodfellow2016}
+Ian Goodfellow, Yoshua Bengio, and Aaron Courville.
+\newblock {\em Deep Learning}.
+\newblock MIT Press, Cambridge, MA, 2016.
+
+\bibitem{hastie2009}
+Trevor Hastie, Robert Tibshirani, and Jerome Friedman.
+\newblock {\em The Elements of Statistical Learning: Data Mining, Inference,
+  and Prediction}.
+\newblock Springer, New York, 2nd edition, 2009.
+
+\bibitem{hausknecht2015drqn}
+Matthew Hausknecht and Peter Stone.
+\newblock Deep recurrent q-learning for partially observable mdps.
+\newblock In {\em AAAI Fall Symposium Series}, 2015.
+
+\bibitem{hendrycks2016gelu}
+Dan Hendrycks and Kevin Gimpel.
+\newblock Gaussian error linear units (gelus).
+\newblock {\em arXiv preprint arXiv:1606.08415}, 2016.
+
+\bibitem{hochreiter1997lstm}
+Sepp Hochreiter and J{\"u}rgen Schmidhuber.
+\newblock Long short-term memory.
+\newblock {\em Neural Computation}, 9(8):1735--1780, 1997.
+
+\bibitem{hornik1989}
+Kurt Hornik, Maxwell Stinchcombe, and Halbert White.
+\newblock Multilayer feedforward networks are universal approximators.
+\newblock {\em Neural Networks}, 2(5):359--366, 1989.
+
+\bibitem{hu2021lora}
+Edward~J. Hu, Yelong Shen, Phillip Wallis, Zeyuan Allen-Zhu, Yuanzhi Li, Shean
+  Wang, Lu~Wang, and Weizhu Chen.
+\newblock Lora: Low-rank adaptation of large language models.
+\newblock In {\em 10th International Conference on Learning Representations
+  (ICLR)}, 2022.
+
+\bibitem{ioffe2015batchnorm}
+Sergey Ioffe and Christian Szegedy.
+\newblock Batch normalization: Accelerating deep network training by reducing
+  internal covariate shift.
+\newblock In {\em Proceedings of the 32nd International Conference on Machine
+  Learning (ICML)}, pages 448--456, 2015.
+
+\bibitem{jensen1968alpha}
+Michael~C. Jensen.
+\newblock The performance of mutual funds in the period 1945--1964.
+\newblock {\em The Journal of Finance}, 23(2):389--416, 1968.
+
+\bibitem{jiang2017cryptoportfolio}
+Zhengyao Jiang and Jinjun Liang.
+\newblock Cryptocurrency portfolio management with deep reinforcement learning.
+\newblock In {\em 2017 Intelligent Systems Conference (IntelliSys)}, pages
+  905--913. IEEE, 2017.
+
+\bibitem{kaelbling1998pomdp}
+Leslie~Pack Kaelbling, Michael~L. Littman, and Anthony~R. Cassandra.
+\newblock Planning and acting in partially observable stochastic domains.
+\newblock {\em Artificial Intelligence}, 101(1--2):99--134, 1998.
+
+\bibitem{kingma2014adam}
+Diederik~P. Kingma and Jimmy Ba.
+\newblock Adam: A method for stochastic optimization.
+\newblock In {\em 3rd International Conference on Learning Representations
+  (ICLR)}, 2015.
+
+\bibitem{kober2013robotics}
+Jens Kober, J.~Andrew Bagnell, and Jan Peters.
+\newblock Reinforcement learning in robotics: A survey.
+\newblock {\em The International Journal of Robotics Research},
+  32(11):1238--1274, 2013.
+
+\bibitem{lecun2015deeplearning}
+Yann LeCun, Yoshua Bengio, and Geoffrey Hinton.
+\newblock Deep learning.
+\newblock {\em Nature}, 521(7553):436--444, 2015.
+
+\bibitem{liu2018finrl}
+Xiao-Yang Liu, Zhuoran Xiong, Shan Zhong, Hongyang Yang, and Anwar Walid.
+\newblock Practical deep reinforcement learning approach for stock trading.
+\newblock {\em arXiv preprint arXiv:1811.07522}, 2018.
+
+\bibitem{lopezdeprado2018}
+Marcos L{\'o}pez~de Prado.
+\newblock {\em Advances in Financial Machine Learning}.
+\newblock John Wiley \& Sons, Hoboken, NJ, 2018.
+
+\bibitem{loughran2011}
+Tim Loughran and Bill McDonald.
+\newblock When is a liability not a liability? textual analysis, dictionaries,
+  and 10-ks.
+\newblock {\em The Journal of Finance}, 66(1):35--65, 2011.
+
+\bibitem{mitchell1997}
+Tom~M. Mitchell.
+\newblock {\em Machine Learning}.
+\newblock McGraw-Hill, New York, 1997.
+
+\bibitem{mnih2016a3c}
+Volodymyr Mnih, Adri{\`a}~Puigdom{\`e}nech Badia, Mehdi Mirza, Alex Graves,
+  Timothy Lillicrap, Tim Harley, David Silver, and Koray Kavukcuoglu.
+\newblock Asynchronous methods for deep reinforcement learning.
+\newblock In {\em Proceedings of the 33rd International Conference on Machine
+  Learning (ICML)}, pages 1928--1937, 2016.
+
+\bibitem{mnih2015dqn}
+Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Andrei~A. Rusu, Joel Veness,
+  Marc~G. Bellemare, Alex Graves, Martin Riedmiller, Andreas~K. Fidjeland,
+  Georg Ostrovski, et~al.
+\newblock Human-level control through deep reinforcement learning.
+\newblock {\em Nature}, 518(7540):529--533, 2015.
+
+\bibitem{moody2001rltrading}
+John Moody and Matthew Saffell.
+\newblock Learning to trade via direct reinforcement.
+\newblock {\em IEEE Transactions on Neural Networks}, 12(4):875--889, 2001.
+
+\bibitem{nair2010relu}
+Vinod Nair and Geoffrey~E. Hinton.
+\newblock Rectified linear units improve restricted boltzmann machines.
+\newblock In {\em Proceedings of the 27th International Conference on Machine
+  Learning (ICML)}, pages 807--814, 2010.
+
+\bibitem{patel2015}
+Jigar Patel, Sahil Shah, Priyank Thakkar, and K.~Kotecha.
+\newblock Predicting stock and stock price index movement using trend
+  deterministic data preparation and machine learning techniques.
+\newblock {\em Expert Systems with Applications}, 42(1):259--268, 2015.
+
+\bibitem{ramachandran2017swish}
+Prajit Ramachandran, Barret Zoph, and Quoc~V. Le.
+\newblock Searching for activation functions.
+\newblock {\em arXiv preprint arXiv:1710.05941}, 2017.
+
+\bibitem{rosenblatt1958}
+Frank Rosenblatt.
+\newblock The perceptron: A probabilistic model for information storage and
+  organization in the brain.
+\newblock {\em Psychological Review}, 65(6):386--408, 1958.
+
+\bibitem{rumelhart1986backprop}
+David~E. Rumelhart, Geoffrey~E. Hinton, and Ronald~J. Williams.
+\newblock Learning representations by back-propagating errors.
+\newblock {\em Nature}, 323(6088):533--536, 1986.
+
+\bibitem{schulman2015trpo}
+John Schulman, Sergey Levine, Pieter Abbeel, Michael Jordan, and Philipp
+  Moritz.
+\newblock Trust region policy optimization.
+\newblock In {\em Proceedings of the 32nd International Conference on Machine
+  Learning (ICML)}, pages 1889--1897, 2015.
+
+\bibitem{schulman2015gae}
+John Schulman, Philipp Moritz, Sergey Levine, Michael Jordan, and Pieter
+  Abbeel.
+\newblock High-dimensional continuous control using generalized advantage
+  estimation.
+\newblock In {\em 4th International Conference on Learning Representations
+  (ICLR)}, 2016.
+
+\bibitem{schulman2017ppo}
+John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, and Oleg Klimov.
+\newblock Proximal policy optimization algorithms.
+\newblock {\em arXiv preprint arXiv:1707.06347}, 2017.
+
+\bibitem{sharpe1966}
+William~F. Sharpe.
+\newblock Mutual fund performance.
+\newblock {\em The Journal of Business}, 39(1):119--138, 1966.
+
+\bibitem{silver2016alphago}
+David Silver, Aja Huang, Chris~J. Maddison, Arthur Guez, Laurent Sifre, George
+  van~den Driessche, Julian Schrittwieser, Ioannis Antonoglou, Veda
+  Panneershelvam, Marc Lanctot, et~al.
+\newblock Mastering the game of go with deep neural networks and tree search.
+\newblock {\em Nature}, 529(7587):484--489, 2016.
+
+\bibitem{srivastava2014dropout}
+Nitish Srivastava, Geoffrey Hinton, Alex Krizhevsky, Ilya Sutskever, and Ruslan
+  Salakhutdinov.
+\newblock Dropout: A simple way to prevent neural networks from overfitting.
+\newblock {\em Journal of Machine Learning Research}, 15(1):1929--1958, 2014.
+
+\bibitem{sutton2018rl}
+Richard~S. Sutton and Andrew~G. Barto.
+\newblock {\em Reinforcement Learning: An Introduction}.
+\newblock MIT Press, Cambridge, MA, 2nd edition, 2018.
+
+\bibitem{teall2022financial}
+John~L. Teall.
+\newblock {\em Financial Trading and Investing}.
+\newblock Academic Press, 2022.
+
+\bibitem{tetlock2007}
+Paul~C. Tetlock.
+\newblock Giving content to investor sentiment: The role of media in the stock
+  market.
+\newblock {\em The Journal of Finance}, 62(3):1139--1168, 2007.
+
+\bibitem{vaswani2017attention}
+Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones,
+  Aidan~N. Gomez, {\L}ukasz Kaiser, and Illia Polosukhin.
+\newblock Attention is all you need.
+\newblock In {\em Advances in Neural Information Processing Systems (NeurIPS)},
+  volume~30, 2017.
+
+\bibitem{williams1992reinforce}
+Ronald~J. Williams.
+\newblock Simple statistical gradient-following algorithms for connectionist
+  reinforcement learning.
+\newblock {\em Machine Learning}, 8(3--4):229--256, 1992.
+
+\bibitem{yang2023fingpt}
+Hongyang Yang, Xiao-Yang Liu, and Christina~Dan Wang.
+\newblock Fingpt: Open-source financial large language models.
+\newblock {\em arXiv preprint arXiv:2306.06031}, 2023.
+
+\bibitem{yang2020ensemble}
+Hongyang Yang, Xiao-Yang Liu, Shan Zhong, and Anwar Walid.
+\newblock Deep reinforcement learning for automated stock trading: An ensemble
+  strategy.
+\newblock In {\em Proceedings of the First ACM International Conference on AI
+  in Finance (ICAIF)}, pages 1--8, 2020.
+
+\bibitem{zhang2019deeplob}
+Zihao Zhang, Stefan Zohren, and Stephen Roberts.
+\newblock Deeplob: Deep convolutional neural networks for limit order books.
+\newblock {\em IEEE Transactions on Signal Processing}, 67(11):3001--3012,
+  2019.
 
 \end{thebibliography}

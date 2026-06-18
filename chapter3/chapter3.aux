@@ -1,31 +1,261 @@
 \relax 
 \providecommand\hyper@newdestlabel[2]{}
+\citation{mitchell1997}
+\citation{bishop2006}
 \@writefile{toc}{\contentsline {chapter}{\numberline {3}Θεωρητικό Υπόβαθρο}{10}{chapter.3}\protected@file@percent }
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
 \@writefile{loa}{\addvspace {10\p@ }}
-\newlabel{ch:theoretical_background}{{3}{10}{Θεωρητικό Υπόβαθρο}{chapter.3}{}}
+\newlabel{ch:theory}{{3}{10}{Θεωρητικό Υπόβαθρο}{chapter.3}{}}
 \@writefile{toc}{\contentsline {section}{\numberline {3.1}Μηχανική Μάθηση}{10}{section.3.1}\protected@file@percent }
-\newlabel{sec:machine_learning}{{3.1}{10}{Μηχανική Μάθηση}{section.3.1}{}}
-\@writefile{toc}{\contentsline {section}{\numberline {3.2}Νευρωνικά Δίκτυα και Βαθιά Μάθηση}{11}{section.3.2}\protected@file@percent }
-\newlabel{sec:neural_networks}{{3.2}{11}{Νευρωνικά Δίκτυα και Βαθιά Μάθηση}{section.3.2}{}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {3.2.1}Συναρτήσεις Ενεργοποίησης}{11}{subsection.3.2.1}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {3.2.2}Βελτιστοποίηση και Αλγόριθμος Adam}{12}{subsection.3.2.2}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {3.2.3}Δίκτυα Μακράς Βραχύχρονης Μνήμης (LSTM)}{12}{subsection.3.2.3}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {3.3}Βαθιά Ενισχυτική Μάθηση}{13}{section.3.3}\protected@file@percent }
-\newlabel{sec:drl}{{3.3}{13}{Βαθιά Ενισχυτική Μάθηση}{section.3.3}{}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {3.3.1}Μέθοδοι Δρώντος-Κριτή (Actor-Critic)}{13}{subsection.3.3.1}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {3.3.2}Βελτιστοποίηση Εγγύς Πολιτικής (Proximal Policy Optimization - PPO)}{14}{subsection.3.3.2}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {3.4}Επεξεργασία Φυσικής Γλώσσας και Μεγάλα Γλωσσικά Μοντέλα (LLMs)}{15}{section.3.4}\protected@file@percent }
-\newlabel{sec:llms_lora}{{3.4}{15}{Επεξεργασία Φυσικής Γλώσσας και Μεγάλα Γλωσσικά Μοντέλα (LLMs)}{section.3.4}{}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {3.4.1}Αποδοτική Μικρο-προσαρμογή: Low-Rank Adaptation (LoRA)}{15}{subsection.3.4.1}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {3.5}Χρηματοοικονομικές Συναλλαγές και Αξιολόγηση Μοντέλων}{15}{section.3.5}\protected@file@percent }
-\newlabel{sec:financial_trading_evaluation}{{3.5}{15}{Χρηματοοικονομικές Συναλλαγές και Αξιολόγηση Μοντέλων}{section.3.5}{}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {3.5.1}Χρηματοοικονομικά Δεδομένα και Ανάλυση}{16}{subsection.3.5.1}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {3.5.2}Αξιολόγηση σε Χρονοσειρές: Combinatorial Purged Cross-Validation (CPCV)}{16}{subsection.3.5.2}\protected@file@percent }
+\newlabel{sec:ml}{{3.1}{10}{Μηχανική Μάθηση}{section.3.1}{}}
+\citation{hastie2009}
+\citation{bishop2006}
+\@writefile{brf}{\backcite{mitchell1997,bishop2006}{{11}{3.1}{section.3.1}}}
+\newlabel{eq:expected-risk}{{3.1}{11}{Μηχανική Μάθηση}{equation.3.1.1}{}}
+\newlabel{eq:empirical-risk}{{3.2}{11}{Μηχανική Μάθηση}{equation.3.1.2}{}}
+\@writefile{brf}{\backcite{hastie2009}{{11}{3.1}{equation.3.1.2}}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.1.1}Επιβλεπόμενη Μάθηση}{11}{subsection.3.1.1}\protected@file@percent }
+\newlabel{subsec:supervised}{{3.1.1}{11}{Επιβλεπόμενη Μάθηση}{subsection.3.1.1}{}}
+\@writefile{brf}{\backcite{bishop2006}{{11}{3.1.1}{subsection.3.1.1}}}
+\citation{hastie2009}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.1.2}Μη Επιβλεπόμενη Μάθηση}{12}{subsection.3.1.2}\protected@file@percent }
+\newlabel{subsec:unsupervised}{{3.1.2}{12}{Μη Επιβλεπόμενη Μάθηση}{subsection.3.1.2}{}}
+\@writefile{brf}{\backcite{hastie2009}{{12}{3.1.2}{subsection.3.1.2}}}
+\citation{sutton2018rl}
+\citation{goodfellow2016}
+\citation{lecun2015deeplearning}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.1.3}Ενισχυτική Μάθηση}{13}{subsection.3.1.3}\protected@file@percent }
+\newlabel{subsec:rl-intro}{{3.1.3}{13}{Ενισχυτική Μάθηση}{subsection.3.1.3}{}}
+\@writefile{brf}{\backcite{sutton2018rl}{{13}{3.1.3}{subsection.3.1.3}}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.1}{\ignorespaces Ο βασικός βρόχος αλληλεπίδρασης πράκτορα/περιβάλλοντος στην Ενισχυτική Μάθηση. Ο πράκτορας εκτελεί δράσεις και το περιβάλλον αποκρίνεται με νέα κατάσταση και ανταμοιβή.}}{13}{figure.caption.9}\protected@file@percent }
+\providecommand*\caption@xref[2]{\@setref\relax\@undefined{#1}}
+\newlabel{fig:rl-loop}{{3.1}{13}{Ο βασικός βρόχος αλληλεπίδρασης πράκτορα/περιβάλλοντος στην Ενισχυτική Μάθηση. Ο πράκτορας εκτελεί δράσεις και το περιβάλλον αποκρίνεται με νέα κατάσταση και ανταμοιβή}{figure.caption.9}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.2}Νευρωνικά Δίκτυα και Βαθιά Μάθηση}{13}{section.3.2}\protected@file@percent }
+\newlabel{sec:nn}{{3.2}{13}{Νευρωνικά Δίκτυα και Βαθιά Μάθηση}{section.3.2}{}}
+\@writefile{brf}{\backcite{goodfellow2016,lecun2015deeplearning}{{13}{3.2}{section.3.2}}}
+\citation{rosenblatt1958}
+\citation{cybenko1989}
+\citation{hornik1989}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2.1}Μονοεπίπεδα και Πολυεπίπεδα Δίκτυα Πρόσθιας Τροφοδότησης}{14}{subsection.3.2.1}\protected@file@percent }
+\newlabel{subsec:mlp}{{3.2.1}{14}{Μονοεπίπεδα και Πολυεπίπεδα Δίκτυα Πρόσθιας Τροφοδότησης}{subsection.3.2.1}{}}
+\@writefile{toc}{\contentsline {paragraph}{\nonumberline Ο τεχνητός νευρώνας.}{14}{paragraph*.11}\protected@file@percent }
+\newlabel{eq:neuron}{{3.3}{14}{Ο τεχνητός νευρώνας}{equation.3.2.3}{}}
+\@writefile{brf}{\backcite{rosenblatt1958}{{14}{3.2.1}{equation.3.2.3}}}
+\@writefile{toc}{\contentsline {paragraph}{\nonumberline Ο περιορισμός της γραμμικής διαχωρισιμότητας.}{14}{paragraph*.13}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {3.2}{\ignorespaces Πολυεπίπεδο Δίκτυο Πρόσθιας Τροφοδότησης (Multi-Layer Perceptron) με ένα κρυφό στρώμα. Η πληροφορία ρέει μονόδρομα από την είσοδο προς την έξοδο.}}{14}{figure.caption.14}\protected@file@percent }
+\newlabel{fig:mlp}{{3.2}{14}{Πολυεπίπεδο Δίκτυο Πρόσθιας Τροφοδότησης (Multi-Layer Perceptron) με ένα κρυφό στρώμα. Η πληροφορία ρέει μονόδρομα από την είσοδο προς την έξοδο}{figure.caption.14}{}}
+\@writefile{toc}{\contentsline {paragraph}{\nonumberline Πολυεπίπεδα Δίκτυα Πρόσθιας Τροφοδότησης.}{14}{paragraph*.16}\protected@file@percent }
+\newlabel{eq:mlp-z}{{3.4}{14}{Πολυεπίπεδα Δίκτυα Πρόσθιας Τροφοδότησης}{equation.3.2.4}{}}
+\newlabel{eq:mlp-h}{{3.5}{14}{Πολυεπίπεδα Δίκτυα Πρόσθιας Τροφοδότησης}{equation.3.2.5}{}}
+\@writefile{toc}{\contentsline {paragraph}{\nonumberline Θεώρημα Καθολικής Προσέγγισης.}{14}{paragraph*.18}\protected@file@percent }
+\@writefile{brf}{\backcite{cybenko1989,hornik1989}{{14}{3.2.1}{paragraph*.18}}}
+\citation{nair2010relu}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2.2}Συναρτήσεις Ενεργοποίησης}{15}{subsection.3.2.2}\protected@file@percent }
+\newlabel{subsec:activations}{{3.2.2}{15}{Συναρτήσεις Ενεργοποίησης}{subsection.3.2.2}{}}
+\@writefile{toc}{\contentsline {paragraph}{\nonumberline Λογιστική / Σιγμοειδής (Sigmoid).}{15}{paragraph*.20}\protected@file@percent }
+\newlabel{eq:sigmoid}{{3.6}{15}{Λογιστική / Σιγμοειδής (Sigmoid)}{equation.3.2.6}{}}
+\@writefile{toc}{\contentsline {paragraph}{\nonumberline Υπερβολική Εφαπτομένη (Tanh).}{15}{paragraph*.22}\protected@file@percent }
+\newlabel{eq:tanh}{{3.7}{15}{Υπερβολική Εφαπτομένη (Tanh)}{equation.3.2.7}{}}
+\@writefile{toc}{\contentsline {paragraph}{\nonumberline Διορθωμένη Γραμμική Μονάδα (ReLU).}{15}{paragraph*.24}\protected@file@percent }
+\newlabel{eq:relu}{{3.8}{15}{Διορθωμένη Γραμμική Μονάδα (ReLU)}{equation.3.2.8}{}}
+\@writefile{brf}{\backcite{nair2010relu}{{15}{3.2.2}{equation.3.2.8}}}
+\citation{elfwing2018silu}
+\citation{ramachandran2017swish}
+\citation{hendrycks2016gelu}
+\@writefile{toc}{\contentsline {paragraph}{\nonumberline Σιγμοειδής Γραμμική Μονάδα (SiLU / Swish).}{16}{paragraph*.26}\protected@file@percent }
+\newlabel{eq:silu}{{3.9}{16}{Σιγμοειδής Γραμμική Μονάδα (SiLU / Swish)}{equation.3.2.9}{}}
+\@writefile{brf}{\backcite{elfwing2018silu,ramachandran2017swish}{{16}{3.2.2}{equation.3.2.9}}}
+\@writefile{toc}{\contentsline {paragraph}{\nonumberline GELU και Softmax.}{16}{paragraph*.28}\protected@file@percent }
+\@writefile{brf}{\backcite{hendrycks2016gelu}{{16}{3.2.2}{paragraph*.28}}}
+\newlabel{eq:softmax}{{3.10}{16}{GELU και Softmax}{equation.3.2.10}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {3.1}{\ignorespaces Σύνοψη βασικών συναρτήσεων ενεργοποίησης και των ιδιοτήτων τους.}}{16}{table.caption.29}\protected@file@percent }
+\newlabel{tab:activations}{{3.1}{16}{Σύνοψη βασικών συναρτήσεων ενεργοποίησης και των ιδιοτήτων τους}{table.caption.29}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2.3}Συναρτήσεις Σφάλματος / Κόστους}{16}{subsection.3.2.3}\protected@file@percent }
+\newlabel{subsec:loss}{{3.2.3}{16}{Συναρτήσεις Σφάλματος / Κόστους}{subsection.3.2.3}{}}
+\@writefile{toc}{\contentsline {paragraph}{\nonumberline Προβλήματα παλινδρόμησης.}{17}{paragraph*.31}\protected@file@percent }
+\newlabel{eq:mse}{{3.11}{17}{Προβλήματα παλινδρόμησης}{equation.3.2.11}{}}
+\newlabel{eq:huber}{{3.12}{17}{Προβλήματα παλινδρόμησης}{equation.3.2.12}{}}
+\@writefile{toc}{\contentsline {paragraph}{\nonumberline Προβλήματα ταξινόμησης.}{17}{paragraph*.33}\protected@file@percent }
+\newlabel{eq:bce}{{3.13}{17}{Προβλήματα ταξινόμησης}{equation.3.2.13}{}}
+\newlabel{eq:ce}{{3.14}{17}{Προβλήματα ταξινόμησης}{equation.3.2.14}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2.4}Εκπαίδευση Νευρωνικών Δικτύων}{17}{subsection.3.2.4}\protected@file@percent }
+\newlabel{subsec:training}{{3.2.4}{17}{Εκπαίδευση Νευρωνικών Δικτύων}{subsection.3.2.4}{}}
+\citation{rumelhart1986backprop}
+\citation{kingma2014adam}
+\@writefile{toc}{\contentsline {paragraph}{\nonumberline Κατάβαση Κλίσης και Οπισθοδιάδοση.}{18}{paragraph*.35}\protected@file@percent }
+\newlabel{eq:gd}{{3.15}{18}{Κατάβαση Κλίσης και Οπισθοδιάδοση}{equation.3.2.15}{}}
+\@writefile{brf}{\backcite{rumelhart1986backprop}{{18}{3.2.4}{equation.3.2.15}}}
+\newlabel{eq:backprop}{{3.16}{18}{Κατάβαση Κλίσης και Οπισθοδιάδοση}{equation.3.2.16}{}}
+\@writefile{toc}{\contentsline {paragraph}{\nonumberline Στοχαστική και κατά παρτίδες κατάβαση.}{18}{paragraph*.37}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{\nonumberline Ο βελτιστοποιητής Adam.}{18}{paragraph*.39}\protected@file@percent }
+\@writefile{brf}{\backcite{kingma2014adam}{{18}{3.2.4}{paragraph*.39}}}
+\newlabel{eq:adam-m}{{3.17}{18}{Ο βελτιστοποιητής Adam}{equation.3.2.17}{}}
+\newlabel{eq:adam-v}{{3.18}{18}{Ο βελτιστοποιητής Adam}{equation.3.2.18}{}}
+\newlabel{eq:adam-update}{{3.19}{18}{Ο βελτιστοποιητής Adam}{equation.3.2.19}{}}
+\@writefile{toc}{\contentsline {paragraph}{\nonumberline Κανονικοποίηση και αντιμετώπιση της υπερπροσαρμογής.}{18}{paragraph*.41}\protected@file@percent }
+\citation{srivastava2014dropout}
+\citation{ioffe2015batchnorm}
+\citation{bengio1994vanishing}
+\citation{hochreiter1997lstm}
+\@writefile{brf}{\backcite{srivastava2014dropout}{{19}{3.2.4}{paragraph*.41}}}
+\@writefile{brf}{\backcite{ioffe2015batchnorm}{{19}{3.2.4}{paragraph*.41}}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2.5}Αναδρομικά Δίκτυα και Δίκτυα Μακράς Βραχύχρονης Μνήμης (LSTM)}{19}{subsection.3.2.5}\protected@file@percent }
+\newlabel{subsec:lstm}{{3.2.5}{19}{Αναδρομικά Δίκτυα και Δίκτυα Μακράς Βραχύχρονης Μνήμης (LSTM)}{subsection.3.2.5}{}}
+\@writefile{toc}{\contentsline {paragraph}{\nonumberline Αναδρομικά Νευρωνικά Δίκτυα.}{19}{paragraph*.43}\protected@file@percent }
+\newlabel{eq:rnn}{{3.20}{19}{Αναδρομικά Νευρωνικά Δίκτυα}{equation.3.2.20}{}}
+\@writefile{brf}{\backcite{bengio1994vanishing}{{19}{3.2.5}{equation.3.2.20}}}
+\@writefile{toc}{\contentsline {paragraph}{\nonumberline Η αρχιτεκτονική LSTM.}{19}{paragraph*.45}\protected@file@percent }
+\@writefile{brf}{\backcite{hochreiter1997lstm}{{19}{3.2.5}{paragraph*.45}}}
+\newlabel{eq:lstm-f}{{3.21}{19}{Η αρχιτεκτονική LSTM}{equation.3.2.21}{}}
+\citation{cho2014gru}
+\newlabel{eq:lstm-i}{{3.22}{20}{Η αρχιτεκτονική LSTM}{equation.3.2.22}{}}
+\newlabel{eq:lstm-ctilde}{{3.23}{20}{Η αρχιτεκτονική LSTM}{equation.3.2.23}{}}
+\newlabel{eq:lstm-c}{{3.24}{20}{Η αρχιτεκτονική LSTM}{equation.3.2.24}{}}
+\newlabel{eq:lstm-o}{{3.25}{20}{Η αρχιτεκτονική LSTM}{equation.3.2.25}{}}
+\newlabel{eq:lstm-h}{{3.26}{20}{Η αρχιτεκτονική LSTM}{equation.3.2.26}{}}
+\@writefile{brf}{\backcite{cho2014gru}{{20}{3.2.5}{equation.3.2.26}}}
+\@writefile{toc}{\contentsline {paragraph}{\nonumberline Σημασία για την παρούσα εργασία.}{20}{paragraph*.47}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {3.3}Βαθιά Ενισχυτική Μάθηση}{20}{section.3.3}\protected@file@percent }
+\newlabel{sec:drl}{{3.3}{20}{Βαθιά Ενισχυτική Μάθηση}{section.3.3}{}}
+\citation{sutton2018rl}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3.1}Μαρκοβιανές Διαδικασίες Απόφασης (MDP)}{21}{subsection.3.3.1}\protected@file@percent }
+\newlabel{subsec:mdp}{{3.3.1}{21}{Μαρκοβιανές Διαδικασίες Απόφασης (MDP)}{subsection.3.3.1}{}}
+\@writefile{brf}{\backcite{sutton2018rl}{{21}{3.3.1}{subsection.3.3.1}}}
+\newlabel{eq:markov}{{3.27}{21}{Μαρκοβιανές Διαδικασίες Απόφασης (MDP)}{equation.3.3.27}{}}
+\newlabel{eq:return}{{3.28}{21}{Μαρκοβιανές Διαδικασίες Απόφασης (MDP)}{equation.3.3.28}{}}
+\citation{bellman1957}
+\citation{kaelbling1998pomdp}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3.2}Εξισώσεις Bellman}{22}{subsection.3.3.2}\protected@file@percent }
+\newlabel{subsec:bellman}{{3.3.2}{22}{Εξισώσεις Bellman}{subsection.3.3.2}{}}
+\newlabel{eq:vfunc}{{3.29}{22}{Εξισώσεις Bellman}{equation.3.3.29}{}}
+\newlabel{eq:qfunc}{{3.30}{22}{Εξισώσεις Bellman}{equation.3.3.30}{}}
+\@writefile{brf}{\backcite{bellman1957}{{22}{3.3.2}{equation.3.3.30}}}
+\newlabel{eq:bellman-exp}{{3.31}{22}{Εξισώσεις Bellman}{equation.3.3.31}{}}
+\newlabel{eq:bellman-opt-v}{{3.32}{22}{Εξισώσεις Bellman}{equation.3.3.32}{}}
+\newlabel{eq:bellman-opt-q}{{3.33}{22}{Εξισώσεις Bellman}{equation.3.3.33}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3.3}Μερικώς Παρατηρήσιμη Μαρκοβιανή Διαδικασία Απόφασης (POMDP)}{22}{subsection.3.3.3}\protected@file@percent }
+\newlabel{subsec:pomdp}{{3.3.3}{22}{Μερικώς Παρατηρήσιμη Μαρκοβιανή Διαδικασία Απόφασης (POMDP)}{subsection.3.3.3}{}}
+\@writefile{brf}{\backcite{kaelbling1998pomdp}{{22}{3.3.3}{subsection.3.3.3}}}
+\citation{hausknecht2015drqn}
+\citation{altman1999cmdp}
+\newlabel{eq:belief-update}{{3.34}{23}{Μερικώς Παρατηρήσιμη Μαρκοβιανή Διαδικασία Απόφασης (POMDP)}{equation.3.3.34}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3.4}Πράκτορες που Λαμβάνουν Υπόψη τη Μερική Παρατηρησιμότητα}{23}{subsection.3.3.4}\protected@file@percent }
+\newlabel{subsec:pomdp-agents}{{3.3.4}{23}{Πράκτορες που Λαμβάνουν Υπόψη τη Μερική Παρατηρησιμότητα}{subsection.3.3.4}{}}
+\@writefile{brf}{\backcite{hausknecht2015drqn}{{23}{3.3.4}{subsection.3.3.4}}}
+\citation{mnih2015dqn}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3.5}Περιορισμένες Μαρκοβιανές Διαδικασίες Απόφασης (CMDP)}{24}{subsection.3.3.5}\protected@file@percent }
+\newlabel{subsec:cmdp}{{3.3.5}{24}{Περιορισμένες Μαρκοβιανές Διαδικασίες Απόφασης (CMDP)}{subsection.3.3.5}{}}
+\@writefile{brf}{\backcite{altman1999cmdp}{{24}{3.3.5}{subsection.3.3.5}}}
+\newlabel{eq:cmdp}{{3.35}{24}{Περιορισμένες Μαρκοβιανές Διαδικασίες Απόφασης (CMDP)}{equation.3.3.35}{}}
+\newlabel{eq:cmdp-lagrangian}{{3.36}{24}{Περιορισμένες Μαρκοβιανές Διαδικασίες Απόφασης (CMDP)}{equation.3.3.36}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3.6}Μέθοδοι Βαθιάς Ενισχυτικής Μάθησης}{24}{subsection.3.3.6}\protected@file@percent }
+\newlabel{subsec:drl-methods}{{3.3.6}{24}{Μέθοδοι Βαθιάς Ενισχυτικής Μάθησης}{subsection.3.3.6}{}}
+\@writefile{toc}{\contentsline {paragraph}{\nonumberline Μέθοδοι βασισμένες στην αξία.}{24}{paragraph*.49}\protected@file@percent }
+\@writefile{brf}{\backcite{mnih2015dqn}{{24}{3.3.6}{paragraph*.49}}}
+\newlabel{eq:dqn-loss}{{3.37}{24}{Μέθοδοι βασισμένες στην αξία}{equation.3.3.37}{}}
+\citation{williams1992reinforce}
+\citation{mnih2016a3c}
+\citation{schulman2015gae}
+\citation{schulman2015trpo}
+\@writefile{toc}{\contentsline {paragraph}{\nonumberline Μέθοδοι βασισμένες στην πολιτική.}{25}{paragraph*.51}\protected@file@percent }
+\newlabel{eq:policy-gradient}{{3.38}{25}{Μέθοδοι βασισμένες στην πολιτική}{equation.3.3.38}{}}
+\@writefile{brf}{\backcite{williams1992reinforce}{{25}{3.3.6}{equation.3.3.38}}}
+\@writefile{toc}{\contentsline {paragraph}{\nonumberline Μέθοδοι Actor/Critic}{25}{paragraph*.53}\protected@file@percent }
+\newlabel{eq:advantage}{{3.39}{25}{Μέθοδοι Actor/Critic}{equation.3.3.39}{}}
+\@writefile{brf}{\backcite{mnih2016a3c}{{25}{3.3.6}{equation.3.3.39}}}
+\@writefile{brf}{\backcite{schulman2015gae}{{25}{3.3.6}{equation.3.3.39}}}
+\newlabel{eq:gae}{{3.40}{25}{Μέθοδοι Actor/Critic}{equation.3.3.40}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.3}{\ignorespaces Αρχιτεκτονική Actor/Critic. Ο Critic εκτιμά την αξία της κατάστασης και τροφοδοτεί τον Actor με το σήμα πλεονεκτήματος $A_t$, το οποίο κατευθύνει την ενημέρωση της πολιτικής.}}{25}{figure.caption.54}\protected@file@percent }
+\newlabel{fig:actor-critic}{{3.3}{25}{Αρχιτεκτονική Actor/Critic. Ο Critic εκτιμά την αξία της κατάστασης και τροφοδοτεί τον Actor με το σήμα πλεονεκτήματος $A_t$, το οποίο κατευθύνει την ενημέρωση της πολιτικής}{figure.caption.54}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {3.2}{\ignorespaces Ταξινόμηση βασικών οικογενειών αλγορίθμων Ενισχυτικής Μάθησης.}}{25}{table.caption.55}\protected@file@percent }
+\newlabel{tab:rl-taxonomy}{{3.2}{25}{Ταξινόμηση βασικών οικογενειών αλγορίθμων Ενισχυτικής Μάθησης}{table.caption.55}{}}
+\citation{schulman2017ppo}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3.7}Αλγόριθμος Proximal Policy Optimization (PPO)}{26}{subsection.3.3.7}\protected@file@percent }
+\newlabel{subsec:ppo}{{3.3.7}{26}{Αλγόριθμος Proximal Policy Optimization (PPO)}{subsection.3.3.7}{}}
+\@writefile{brf}{\backcite{schulman2015trpo}{{26}{3.3.7}{subsection.3.3.7}}}
+\@writefile{brf}{\backcite{schulman2017ppo}{{26}{3.3.7}{subsection.3.3.7}}}
+\@writefile{toc}{\contentsline {paragraph}{\nonumberline 1.\ Αποκομμένη υποκατάστατη απώλεια (Actor).}{26}{paragraph*.57}\protected@file@percent }
+\newlabel{eq:ppo-ratio}{{3.41}{26}{1.\ Αποκομμένη υποκατάστατη απώλεια (Actor)}{equation.3.3.41}{}}
+\newlabel{eq:ppo-clip}{{3.42}{26}{1.\ Αποκομμένη υποκατάστατη απώλεια (Actor)}{equation.3.3.42}{}}
+\@writefile{toc}{\contentsline {paragraph}{\nonumberline 2.\ Απώλεια αξίας (Critic).}{26}{paragraph*.59}\protected@file@percent }
+\newlabel{eq:ppo-vf}{{3.43}{26}{2.\ Απώλεια αξίας (Critic)}{equation.3.3.43}{}}
+\@writefile{toc}{\contentsline {paragraph}{\nonumberline 3.\ Όρος εντροπίας.}{26}{paragraph*.61}\protected@file@percent }
+\newlabel{eq:ppo-ent}{{3.44}{26}{3.\ Όρος εντροπίας}{equation.3.3.44}{}}
+\citation{vaswani2017attention}
+\@writefile{toc}{\contentsline {paragraph}{\nonumberline Συνολική αντικειμενική συνάρτηση.}{27}{paragraph*.63}\protected@file@percent }
+\newlabel{eq:ppo-total}{{3.45}{27}{Συνολική αντικειμενική συνάρτηση}{equation.3.3.45}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.4}Μεγάλα Γλωσσικά Μοντέλα και Ανάλυση Συναισθήματος}{27}{section.3.4}\protected@file@percent }
+\newlabel{sec:llm}{{3.4}{27}{Μεγάλα Γλωσσικά Μοντέλα και Ανάλυση Συναισθήματος}{section.3.4}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.4.1}Επεξεργασία Φυσικής Γλώσσας και η Αρχιτεκτονική Transformer}{27}{subsection.3.4.1}\protected@file@percent }
+\newlabel{subsec:nlp-transformer}{{3.4.1}{27}{Επεξεργασία Φυσικής Γλώσσας και η Αρχιτεκτονική Transformer}{subsection.3.4.1}{}}
+\@writefile{brf}{\backcite{vaswani2017attention}{{27}{3.4.1}{subsection.3.4.1}}}
+\newlabel{eq:attention}{{3.46}{27}{Επεξεργασία Φυσικής Γλώσσας και η Αρχιτεκτονική Transformer}{equation.3.4.46}{}}
+\citation{brown2020gpt3}
+\citation{devlin2019bert}
+\@writefile{toc}{\contentsline {paragraph}{\nonumberline Θεωρητική δικαιολόγηση και επιλογή για χρηματοοικονομικό κείμενο.}{28}{paragraph*.65}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{\nonumberline Περιορισμοί και γνωστά αδύναμα σημεία.}{28}{paragraph*.67}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.4.2}Μεγάλα Γλωσσικά Μοντέλα (LLMs)}{28}{subsection.3.4.2}\protected@file@percent }
+\newlabel{subsec:llm}{{3.4.2}{28}{Μεγάλα Γλωσσικά Μοντέλα (LLMs)}{subsection.3.4.2}{}}
+\@writefile{brf}{\backcite{brown2020gpt3}{{28}{1}{Item.5}}}
+\@writefile{brf}{\backcite{devlin2019bert}{{28}{1}{Item.5}}}
+\citation{loughran2011}
+\citation{araci2019finbert}
+\citation{yang2023fingpt}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.4.3}Ανάλυση Συναισθήματος}{29}{subsection.3.4.3}\protected@file@percent }
+\newlabel{subsec:sentiment}{{3.4.3}{29}{Ανάλυση Συναισθήματος}{subsection.3.4.3}{}}
+\@writefile{brf}{\backcite{loughran2011}{{29}{1}{Item.7}}}
+\@writefile{brf}{\backcite{araci2019finbert}{{29}{2}{Item.8}}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.4.4}Ανάλυση Συναισθήματος με LLM}{29}{subsection.3.4.4}\protected@file@percent }
+\newlabel{subsec:llm-sentiment}{{3.4.4}{29}{Ανάλυση Συναισθήματος με LLM}{subsection.3.4.4}{}}
+\@writefile{brf}{\backcite{yang2023fingpt}{{29}{3.4.4}{subsection.3.4.4}}}
+\citation{hu2021lora}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.4.5}Αποδοτική Μικρο-προσαρμογή: Low-Rank Adaptation (LoRA)}{30}{subsection.3.4.5}\protected@file@percent }
+\newlabel{subsec:lora}{{3.4.5}{30}{Αποδοτική Μικρο-προσαρμογή: Low-Rank Adaptation (LoRA)}{subsection.3.4.5}{}}
+\@writefile{brf}{\backcite{hu2021lora}{{30}{3.4.5}{subsection.3.4.5}}}
+\newlabel{eq:lora}{{3.47}{30}{Αποδοτική Μικρο-προσαρμογή: Low-Rank Adaptation (LoRA)}{equation.3.4.47}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.5}Χρηματοοικονομικές Συναλλαγές}{30}{section.3.5}\protected@file@percent }
+\newlabel{sec:finance}{{3.5}{30}{Χρηματοοικονομικές Συναλλαγές}{section.3.5}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.5.1}Βασικές Έννοιες στις Χρηματοοικονομικές Αγορές}{30}{subsection.3.5.1}\protected@file@percent }
+\newlabel{subsec:market-basics}{{3.5.1}{30}{Βασικές Έννοιες στις Χρηματοοικονομικές Αγορές}{subsection.3.5.1}{}}
+\citation{fama1970emh}
+\newlabel{eq:returns}{{3.48}{31}{Βασικές Έννοιες στις Χρηματοοικονομικές Αγορές}{equation.3.5.48}{}}
+\@writefile{toc}{\contentsline {paragraph}{\nonumberline Υπόθεση Αποτελεσματικής Αγοράς.}{31}{paragraph*.69}\protected@file@percent }
+\@writefile{brf}{\backcite{fama1970emh}{{31}{3.5.1}{paragraph*.69}}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.5.2}Χρηματοοικονομικά Δεδομένα, Κεριά και Θέσεις}{32}{subsection.3.5.2}\protected@file@percent }
+\newlabel{subsec:data-candles}{{3.5.2}{32}{Χρηματοοικονομικά Δεδομένα, Κεριά και Θέσεις}{subsection.3.5.2}{}}
+\@writefile{toc}{\contentsline {paragraph}{\nonumberline Δεδομένα OHLCV και κεριά.}{32}{paragraph*.71}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {3.4}{\ignorespaces Δομή ενός ανοδικού (αριστερά) και ενός πτωτικού (δεξιά) κεριού. Το σώμα ορίζεται από το άνοιγμα και το κλείσιμο, ενώ οι σκιές δείχνουν το εύρος υψηλότερης--χαμηλότερης τιμής εντός του διαστήματος.}}{32}{figure.caption.72}\protected@file@percent }
+\newlabel{fig:candlestick}{{3.4}{32}{Δομή ενός ανοδικού (αριστερά) και ενός πτωτικού (δεξιά) κεριού. Το σώμα ορίζεται από το άνοιγμα και το κλείσιμο, ενώ οι σκιές δείχνουν το εύρος υψηλότερης--χαμηλότερης τιμής εντός του διαστήματος}{figure.caption.72}{}}
+\@writefile{toc}{\contentsline {paragraph}{\nonumberline Θέσεις.}{32}{paragraph*.74}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.5.3}Κέρδος και Ζημία (Profit and Loss)}{32}{subsection.3.5.3}\protected@file@percent }
+\newlabel{subsec:pnl}{{3.5.3}{32}{Κέρδος και Ζημία (Profit and Loss)}{subsection.3.5.3}{}}
+\citation{jensen1968alpha}
+\citation{sharpe1966}
+\newlabel{eq:pnl-gross}{{3.49}{33}{Κέρδος και Ζημία (Profit and Loss)}{equation.3.5.49}{}}
+\newlabel{eq:pnl-net}{{3.50}{33}{Κέρδος και Ζημία (Profit and Loss)}{equation.3.5.50}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.5.4}Ενεργό Κέρδος (Alpha) και Μέτρα Προσαρμοσμένα στον Κίνδυνο}{33}{subsection.3.5.4}\protected@file@percent }
+\newlabel{subsec:alpha}{{3.5.4}{33}{Ενεργό Κέρδος (Alpha) και Μέτρα Προσαρμοσμένα στον Κίνδυνο}{subsection.3.5.4}{}}
+\@writefile{toc}{\contentsline {paragraph}{\nonumberline Ενεργό κέρδος (alpha).}{33}{paragraph*.76}\protected@file@percent }
+\newlabel{eq:alpha}{{3.51}{33}{Ενεργό κέρδος (alpha)}{equation.3.5.51}{}}
+\@writefile{brf}{\backcite{jensen1968alpha}{{33}{3.5.4}{equation.3.5.51}}}
+\@writefile{toc}{\contentsline {paragraph}{\nonumberline Μέτρα προσαρμοσμένα στον κίνδυνο.}{33}{paragraph*.78}\protected@file@percent }
+\citation{moody2001rltrading}
+\citation{deng2016drltrading}
+\citation{lopezdeprado2018}
+\@writefile{brf}{\backcite{sharpe1966}{{34}{3.5.4}{paragraph*.78}}}
+\newlabel{eq:sharpe}{{3.52}{34}{Μέτρα προσαρμοσμένα στον κίνδυνο}{equation.3.5.52}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {3.3}{\ignorespaces Βασικά μέτρα αξιολόγησης απόδοσης στρατηγικών συναλλαγών.}}{34}{table.caption.79}\protected@file@percent }
+\newlabel{tab:metrics}{{3.3}{34}{Βασικά μέτρα αξιολόγησης απόδοσης στρατηγικών συναλλαγών}{table.caption.79}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.5.5}Τεχνητή Νοημοσύνη στις Συναλλαγές}{34}{subsection.3.5.5}\protected@file@percent }
+\newlabel{subsec:ai-trading}{{3.5.5}{34}{Τεχνητή Νοημοσύνη στις Συναλλαγές}{subsection.3.5.5}{}}
+\@writefile{brf}{\backcite{moody2001rltrading,deng2016drltrading}{{34}{3.5.5}{subsection.3.5.5}}}
+\@writefile{brf}{\backcite{lopezdeprado2018}{{34}{3.5.5}{subsection.3.5.5}}}
+\citation{lopezdeprado2018}
+\@writefile{brf}{\backcite{lopezdeprado2018}{{35}{3.5.5}{subsection.3.5.5}}}
 \@setckpt{chapter3/chapter3}{
-\setcounter{page}{17}
-\setcounter{equation}{17}
+\setcounter{page}{36}
+\setcounter{equation}{52}
 \setcounter{enumi}{3}
 \setcounter{enumii}{0}
 \setcounter{enumiii}{0}
@@ -35,15 +265,15 @@
 \setcounter{part}{0}
 \setcounter{chapter}{3}
 \setcounter{section}{5}
-\setcounter{subsection}{2}
+\setcounter{subsection}{5}
 \setcounter{subsubsection}{0}
 \setcounter{paragraph}{0}
 \setcounter{subparagraph}{0}
-\setcounter{figure}{0}
-\setcounter{table}{0}
+\setcounter{figure}{4}
+\setcounter{table}{3}
 \setcounter{float@type}{4}
 \setcounter{parentequation}{0}
-\setcounter{caption@flags}{0}
+\setcounter{caption@flags}{2}
 \setcounter{continuedfloat}{0}
 \setcounter{FancyVerbLine}{0}
 \setcounter{r@tfl@t}{0}
@@ -60,7 +290,7 @@
 \setcounter{algocfproc}{0}
 \setcounter{algocf}{0}
 \setcounter{section@level}{2}
-\setcounter{Item}{7}
+\setcounter{Item}{9}
 \setcounter{Hfootnote}{0}
 \setcounter{Hy@AnnotLevel}{0}
 \setcounter{bookmark@seq@number}{0}
