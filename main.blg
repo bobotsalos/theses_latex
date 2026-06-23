@@ -16,45 +16,45 @@ A level-1 auxiliary file: appendix/appendix.aux
 Database file #1: references.bib
 Warning--can't use both volume and number fields in dabney2018qrdqn
 Warning--can't use both volume and number fields in henderson2018deep
-You've used 91 entries,
+You've used 97 entries,
             2118 wiz_defined-function locations,
-            996 strings with 19853 characters,
-and the built_in function-call counts, 32828 in all, are:
-= -- 3158
-> -- 1796
-< -- 18
-+ -- 718
-- -- 618
-* -- 2374
-:= -- 5483
-add.period$ -- 277
-call.type$ -- 91
-change.case$ -- 567
+            1027 strings with 21049 characters,
+and the built_in function-call counts, 35186 in all, are:
+= -- 3391
+> -- 1904
+< -- 20
++ -- 762
+- -- 654
+* -- 2534
+:= -- 5853
+add.period$ -- 296
+call.type$ -- 97
+change.case$ -- 603
 chr.to.int$ -- 0
-cite$ -- 93
-duplicate$ -- 1192
-empty$ -- 2430
-format.name$ -- 618
-if$ -- 6769
+cite$ -- 99
+duplicate$ -- 1285
+empty$ -- 2620
+format.name$ -- 654
+if$ -- 7274
 int.to.chr$ -- 0
-int.to.str$ -- 91
-missing$ -- 101
-newline$ -- 455
-num.names$ -- 184
-pop$ -- 617
+int.to.str$ -- 97
+missing$ -- 107
+newline$ -- 486
+num.names$ -- 196
+pop$ -- 656
 preamble$ -- 1
-purify$ -- 485
+purify$ -- 515
 quote$ -- 0
-skip$ -- 846
+skip$ -- 917
 stack$ -- 0
-substring$ -- 1858
-swap$ -- 255
-text.length$ -- 18
+substring$ -- 2028
+swap$ -- 282
+text.length$ -- 20
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 338
+type$ -- 362
 warning$ -- 2
-while$ -- 299
-width$ -- 93
-write$ -- 983
+while$ -- 322
+width$ -- 99
+write$ -- 1050
 (There were 2 warnings)

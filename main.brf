@@ -3,10 +3,12 @@
 \backcite {mitchell1997}{{1}{1.1}{section.1.1}}
 \backcite {lecun2015deeplearning}{{1}{1.1}{section.1.1}}
 \backcite {sutton2018rl}{{1}{1.1}{section.1.1}}
-\backcite {arulkumaran2017drlsurvey, henderson2018deep}{{1}{1.1}{section.1.1}}
+\backcite {arulkumaran2017drlsurvey, henderson2018deep, kober2013robotics}{{1}{1.1}{section.1.1}}
 \backcite {goodfellow2016}{{1}{1.1}{section.1.1}}
 \backcite {hambly2023rlfinance, lopezdeprado2018}{{1}{1.1}{section.1.1}}
+\backcite {lopezdeprado2018, hambly2023rlfinance}{{2}{1.1}{section.1.1}}
 \backcite {moody2001rltrading}{{2}{1.1}{section.1.1}}
+\backcite {kaelbling1998pomdp}{{2}{1.1}{section.1.1}}
 \backcite {jiang2017cryptoportfolio}{{2}{1.1}{section.1.1}}
 \backcite {bollen2011twitter}{{2}{1.1}{section.1.1}}
 \backcite {brown2020gpt3}{{2}{1.1}{section.1.1}}
@@ -15,24 +17,32 @@
 \backcite {mnih2015dqn}{{5}{2.1}{section.2.1}}
 \backcite {silver2016alphago}{{5}{2.1}{section.2.1}}
 \backcite {kober2013robotics}{{5}{2.1}{section.2.1}}
+\backcite {hausknecht2015drqn}{{5}{2.1}{section.2.1}}
 \backcite {schulman2017ppo}{{5}{2.1}{section.2.1}}
 \backcite {boxjenkins1976}{{6}{2.2}{section.2.2}}
 \backcite {engle1982arch, bollerslev1986garch}{{6}{2.2}{section.2.2}}
 \backcite {boxjenkins1976, benjamin2003generalized, zheng2022generalized}{{6}{2.2}{section.2.2}}
 \backcite {patel2015}{{6}{2.2}{section.2.2}}
+\backcite {lopezdeprado2018, hambly2023rlfinance}{{6}{2.2}{section.2.2}}
 \backcite {fischer2018lstm}{{6}{2.3}{section.2.3}}
+\backcite {sezer2018cnn}{{6}{2.3}{section.2.3}}
 \backcite {zhang2019deeplob}{{6}{2.3}{section.2.3}}
+\backcite {moody2001rltrading}{{6}{2.3}{section.2.3}}
+\backcite {moody2001rltrading}{{7}{2.4}{section.2.4}}
 \backcite {liu2018finrl}{{7}{2.4}{section.2.4}}
 \backcite {yang2020ensemble}{{7}{2.4}{section.2.4}}
+\backcite {kaelbling1998pomdp, hausknecht2015drqn, gort2022finrlcrypto}{{7}{2.4}{section.2.4}}
 \backcite {tetlock2007, benhenda2025finrldeepseek}{{7}{2.5}{section.2.5}}
 \backcite {fama1970emh, fama1969adjustment, malkiel2003efficient, brilhante2024efficient}{{7}{2.5}{section.2.5}}
 \backcite {bernard1989pead}{{7}{2.5}{section.2.5}}
 \backcite {tetlock2007}{{8}{1}{Item.3}}
-\backcite {bollen2011twitter}{{8}{2}{Item.4}}
+\backcite {bollen2011twitter, kraaijeveld2020twitter}{{8}{2}{Item.4}}
 \backcite {loughran2011}{{8}{2.5.2}{subsection.2.5.2}}
 \backcite {araci2019finbert}{{8}{2.5.2}{subsection.2.5.2}}
 \backcite {yang2023fingpt}{{8}{2.5.2}{subsection.2.5.2}}
+\backcite {hu2021lora}{{8}{2.5.2}{subsection.2.5.2}}
 \backcite {yang2023fingpt}{{8}{2.5.2}{subsection.2.5.2}}
+\backcite {benhenda2025finrldeepseek, yang2023fingpt}{{9}{2.5.2}{subsection.2.5.2}}
 \backcite {mitchell1997,bishop2006}{{11}{3.1}{section.3.1}}
 \backcite {bishop2006,hastie2009}{{11}{3.1}{equation.3.1.2}}
 \backcite {goodfellow2016}{{11}{3.1}{equation.3.1.2}}
@@ -143,14 +153,17 @@
 \backcite {gort2022finrlcrypto}{{49}{4}{chapter.4}}
 \backcite {benhenda2025finrldeepseek}{{49}{4}{chapter.4}}
 \backcite {yang2023fingpt}{{49}{4}{chapter.4}}
-\backcite {yang2023fingpt}{{50}{4.1}{section.4.1}}
-\backcite {benhenda2025finrldeepseek}{{50}{4.1}{paragraph*.97}}
-\backcite {liu2018finrl}{{50}{4.1}{paragraph*.97}}
-\backcite {yang2023fingpt}{{52}{4.2}{section*.99}}
-\backcite {hu2021lora}{{52}{4.2}{section*.99}}
-\backcite {kaelbling1998pomdp}{{53}{4.4}{section.4.4}}
-\backcite {altman1999cmdp}{{55}{4.4}{section*.105}}
-\backcite {schulman2017ppo}{{55}{4.5}{section.4.5}}
-\backcite {schulman2015gae}{{56}{4.5}{section*.107}}
-\backcite {lopezdeprado2018}{{57}{4.6}{section.4.6}}
-\backcite {gort2022finrlcrypto}{{57}{4.6}{section.4.6}}
+\backcite {yang2023fingpt}{{51}{4.1}{section*.97}}
+\backcite {benhenda2025finrldeepseek}{{51}{4.1}{paragraph*.99}}
+\backcite {liu2018finrl}{{51}{4.1}{paragraph*.99}}
+\backcite {yang2023fingpt}{{53}{4.2}{section*.101}}
+\backcite {hu2021lora}{{53}{4.2}{section*.101}}
+\backcite {kaelbling1998pomdp}{{55}{4.4}{section.4.4}}
+\backcite {sutton2018rl}{{56}{4.4}{section*.106}}
+\backcite {garcia2015safe,tessler2018rcpo}{{56}{4.4}{section*.106}}
+\backcite {altman1999cmdp}{{57}{4.4}{section*.108}}
+\backcite {tessler2018rcpo,achiam2017cpo}{{58}{4.4}{equation.4.4.7}}
+\backcite {schulman2017ppo}{{59}{4.5}{section.4.5}}
+\backcite {lopezdeprado2018}{{60}{4.6}{section.4.6}}
+\backcite {gort2022finrlcrypto}{{60}{4.6}{section.4.6}}
+\backcite {akiba2019optuna}{{60}{4.6}{section.4.6}}

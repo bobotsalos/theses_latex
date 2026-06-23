@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2025.9.20)  23 JUN 2026 20:45
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2025.9.20)  24 JUN 2026 02:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1203,14 +1203,7 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 211.
 Package hyperref Info: Option `bookmarksopen' set `true' on input line 217.
 )
 Package translations Info: No language package found. I am going to use `english' as default language. on input line 9.
- (./main.aux (./title/title.aux) (./declaration/declaration.aux) (./abstract/abstract.aux) (./acknowledgements/acknowledgements.aux) (./chapter1/chapter1.aux) (./chapter2/chapter2.aux) (./chapter3/chapter3.aux) (./chapter4/chapter4.aux
-
-LaTeX Warning: Label `eq:cmdp' multiply defined.
-
-
-LaTeX Warning: Label `eq:ppo-clip' multiply defined.
-
-) (./chapter5/chapter5.aux) (./chapter6/chapter6.aux) (./appendix/appendix.aux))
+ (./main.aux (./title/title.aux) (./declaration/declaration.aux) (./abstract/abstract.aux) (./acknowledgements/acknowledgements.aux) (./chapter1/chapter1.aux) (./chapter2/chapter2.aux) (./chapter3/chapter3.aux) (./chapter4/chapter4.aux) (./chapter5/chapter5.aux) (./chapter6/chapter6.aux) (./appendix/appendix.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
@@ -1619,7 +1612,7 @@ Class scrreprt Warning: Redefinition of \@makechapterhead detected.
 File: ./figures/supervised.png Graphic file (type bmp)
 <./figures/supervised.png>
 LaTeX Font Info:    Font shape `TU/CMUSerif(0)/m/sl' in size <10.95> not available
-(Font)              Font shape `TU/CMUSerif(0)/m/it' tried instead on input line 140.
+(Font)              Font shape `TU/CMUSerif(0)/m/it' tried instead on input line 139.
  [12]
 File: ./figures/unsupervised.png Graphic file (type bmp)
 <./figures/unsupervised.png>
@@ -1635,29 +1628,29 @@ File: ./figures/perceptron.jpeg Graphic file (type bmp)
 File: ./figures/mlp.jpeg Graphic file (type bmp)
 <./figures/mlp.jpeg>
 
-Underfull \hbox (badness 1552) in paragraph at lines 388--396
+Underfull \hbox (badness 1552) in paragraph at lines 387--395
  []\TU/CMUSerif(0)/b/n/12 Θεώρημα Καθολικής Προσέγγισης.[] \TU/CMUSerif(0)/m/n/12 Η θεωρητική δικαιολόγηση της ισχύος
  []
 
 [18] [19]
-Underfull \hbox (badness 1210) in paragraph at lines 473--481
+Underfull \hbox (badness 1210) in paragraph at lines 472--480
 \TU/CMUSerif(0)/m/n/12 ποποιημένης κανονικής κατανομής, αποτελεί την προεπιλεγμένη ενεργοποίηση στους
  []
 
 [20] [21]
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <8> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 586.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 585.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 586.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 585.
 File: ./figures/descent.jpeg Graphic file (type bmp)
 <./figures/descent.jpeg>
 
-Underfull \hbox (badness 10000) in paragraph at lines 615--621
+Underfull \hbox (badness 10000) in paragraph at lines 614--620
  []\TU/CMUSerif(0)/b/n/12 Ο βελτιστοποιητής Adam.[] \TU/CMUSerif(0)/m/n/12 Ο αλγόριθμος Adam (Adaptive Moment
  []
 
 [22] [23]
-Underfull \hbox (badness 1226) in paragraph at lines 679--684
+Underfull \hbox (badness 1226) in paragraph at lines 678--683
  []\TU/CMUSerif(0)/b/n/12 Αναδρομικά Νευρωνικά Δίκτυα.[] \TU/CMUSerif(0)/m/n/12 Τα δίκτυα πρόσθιας τροφοδότησης υποθέ-
  []
 
@@ -1670,12 +1663,12 @@ File: ./figures/gru.png Graphic file (type bmp)
 File: ./figures/actor-critic.png Graphic file (type bmp)
 <./figures/actor-critic.png>
  [31] [32]
-Underfull \hbox (badness 10000) in paragraph at lines 1169--1170
+Underfull \hbox (badness 10000) in paragraph at lines 1168--1169
 []|\TU/CMUSerif(0)/m/n/12 A2C/A3C, TRPO,
  []
 
 
-Underfull \hbox (badness 6592) in paragraph at lines 1175--1176
+Underfull \hbox (badness 6592) in paragraph at lines 1174--1175
 []|\TU/CMUSerif(0)/m/n/12 World Models, I2A,
  []
 
@@ -1683,12 +1676,12 @@ Underfull \hbox (badness 6592) in paragraph at lines 1175--1176
 File: ./figures/transformer.png Graphic file (type bmp)
 <./figures/transformer.png>
  [37] [38] [39] [40] [41]
-Underfull \hbox (badness 3049) in paragraph at lines 1648--1663
+Underfull \hbox (badness 3049) in paragraph at lines 1647--1662
  []\TU/CMUSerif(0)/b/n/12 Υπόθεση Αποτελεσματικής Αγοράς.[] \TU/CMUSerif(0)/m/n/12 Η \TU/CMUSerif(0)/m/it/12 Υπόθεση Αποτελεσματικής Αγοράς
  []
 
 [42] [43] [44] [45] [46]
-Underfull \hbox (badness 1354) in paragraph at lines 1901--1909
+Underfull \hbox (badness 1354) in paragraph at lines 1900--1908
 []\TU/CMUSerif(0)/m/n/12 Δεύτερη ιδιαιτερότητα είναι ο κίνδυνος \TU/CMUSerif(0)/m/it/12 υπερπροσαρμογής στο παρελθόν \TU/CMUSerif(0)/m/n/12 (backtest
  []
 
@@ -1713,12 +1706,7 @@ Class scrreprt Warning: Redefinition of \@makechapterhead detected.
 
 
 
-] [50] [51] [52] [53] [54] [55] [56]
-Underfull \hbox (badness 3942) in paragraph at lines 431--441
-[]\TU/CMUSerif(0)/m/n/12 Δεδομένου του αυξημένου κινδύνου υπερπροσαρμογής στο παρελθόν (backtest
- []
-
-[57]) [58]
+] [50] [51] [52] [53] [54] [55] [56] [57] [58] [59] [60]) [61]
 \openout2 = `chapter5/chapter5.aux'.
 
  (./chapter5/chapter5.tex
@@ -1734,7 +1722,7 @@ Class scrreprt Warning: Redefinition of \@makechapterhead detected.
 (scrreprt)              KOMA-Script and will not work with a coming version,
 (scrreprt)              that will remove this deprecated code.
 
-) [59
+) [62
 
 
 
@@ -1755,7 +1743,7 @@ Class scrreprt Warning: Redefinition of \@makechapterhead detected.
 (scrreprt)              KOMA-Script and will not work with a coming version,
 (scrreprt)              that will remove this deprecated code.
 
-) [60
+) [63
 
 
 
@@ -1777,25 +1765,35 @@ Class scrreprt Warning: Redefinition of \@makeschapterhead detected.
 (scrreprt)              that will remove this deprecated code.
 
 
-Underfull \hbox (badness 1210) in paragraph at lines 52--52
+Underfull \hbox (badness 1275) in paragraph at lines 7--7
+[]\TU/CMUSerif(0)/m/n/10.95 Joshua Achiam, David Held, Aviv Tamar, and Pieter Abbeel.  Constrained policy
+ []
+
+
+Underfull \hbox (badness 1210) in paragraph at lines 62--62
 []\TU/CMUSerif(0)/m/n/10.95 Michael A. Benjamin, Robert A. Rigby, and D. Mikis Stasinopoulos.  Generalized
  []
 
-[61
+[64
 
 
 
 ]
-Underfull \hbox (badness 2245) in paragraph at lines 107--107
+Underfull \hbox (badness 2245) in paragraph at lines 117--117
 []\TU/CMUSerif(0)/m/n/10.95 Will Dabney, Mark Rowland, Marc Bellemare, and Rémi Munos.  Distributional
  []
 
-[62] [63] [64] [65]
-Underfull \hbox (badness 3780) in paragraph at lines 404--404
+[65] [66] [67] [68] [69]
+Underfull \hbox (badness 3780) in paragraph at lines 429--429
 []\TU/CMUSerif(0)/m/n/10.95 Nitish Srivastava, Geoffrey Hinton, Alex Krizhevsky, Ilya Sutskever, and Ruslan
  []
 
-[66]) [67]
+
+Underfull \hbox (badness 1097) in paragraph at lines 445--445
+[]\TU/CMUSerif(0)/m/n/10.95 Chen Tessler, Daniel J. Mankowitz, and Shie Mannor.  Reward constrained policy
+ []
+
+[70]) [71]
 \openout2 = `appendix/appendix.aux'.
 
  (./appendix/appendix.tex
@@ -1813,7 +1811,7 @@ Class scrreprt Warning: Redefinition of \@makechapterhead detected.
 
 LaTeX Info: Redefining \anw@print on input line 7.
 Missing character: There is no ʹ (U+0374) in font [lmroman17-regular]:mapping=tex-text;!
-) [68
+) [72
 
 
 
@@ -1826,21 +1824,18 @@ L3 programming layer <2020/03/25>
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were multiply-defined labels.
-
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package rerunfilecheck Info: File `main.brf' has not changed.
-(rerunfilecheck)             Checksum: CABF54E48348A43B24F3DD962AC92701;9155.
+(rerunfilecheck)             Checksum: 2B45C9EA855CA6E24EA001D089887F14;10028.
  ) 
 Here is how much of TeX's memory you used:
- 43665 strings out of 474878
- 907241 string characters out of 5762516
+ 43689 strings out of 474878
+ 907705 string characters out of 5762516
  1934627 words of memory out of 5000000
- 64847 multiletter control sequences out of 15000+600000
+ 64871 multiletter control sequences out of 15000+600000
  567400 words of font info for 126 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 131i,14n,125p,10954b,928s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 131i,14n,125p,10954b,926s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (80 pages).
+Output written on main.pdf (84 pages).

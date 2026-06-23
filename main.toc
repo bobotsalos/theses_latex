@@ -90,13 +90,13 @@
 \contentsline {subsection}{\numberline {3.5.6}Τεχνητή Νοημοσύνη στις Συναλλαγές}{47}{subsection.3.5.6}%
 \contentsline {chapter}{\numberline {4}Προτεινόμενη Μέθοδος}{49}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Επισκόπηση της Προτεινόμενης Προσέγγισης}{50}{section.4.1}%
-\contentsline {paragraph}{\nonumberline Σχέση με το FinRL-DeepSeek και συνεισφορά της εργασίας.}{50}{paragraph*.97}%
-\contentsline {section}{\numberline {4.2}Δεδομένα και Εξαγωγή Χαρακτηριστικών}{51}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Αρχιτεκτονική του Πράκτορα}{52}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Περιβάλλον Συναλλαγών}{53}{section.4.4}%
-\contentsline {section}{\numberline {4.5}Αλγόριθμος Εκπαίδευσης}{55}{section.4.5}%
-\contentsline {section}{\numberline {4.6}Μεθοδολογία Επικύρωσης και Επιλογής Μοντέλου}{57}{section.4.6}%
-\contentsline {chapter}{\numberline {5}Πειράματα - Αποτελέσματα}{59}{chapter.5}%
-\contentsline {chapter}{\numberline {6}Συμπεράσματα}{60}{chapter.6}%
-\contentsline {chapter}{Βιβλιογραφία}{61}{chapter*.113}%
-\contentsline {chapter}{\numberline {\MakeUppercase []{α\anw@true \anw@print \relax }}Appendix}{68}{appendix.Alph1}%
+\contentsline {paragraph}{\nonumberline Σχέση με το FinRL-DeepSeek και συνεισφορά της εργασίας.}{51}{paragraph*.99}%
+\contentsline {section}{\numberline {4.2}Δεδομένα και Εξαγωγή Χαρακτηριστικών}{52}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Αρχιτεκτονική του Πράκτορα}{53}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Περιβάλλον Συναλλαγών}{55}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Αλγόριθμος Εκπαίδευσης}{59}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Μεθοδολογία Επικύρωσης και Επιλογής Μοντέλου}{60}{section.4.6}%
+\contentsline {chapter}{\numberline {5}Πειράματα - Αποτελέσματα}{62}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Συμπεράσματα}{63}{chapter.6}%
+\contentsline {chapter}{Βιβλιογραφία}{64}{chapter*.113}%
+\contentsline {chapter}{\numberline {\MakeUppercase []{α\anw@true \anw@print \relax }}Appendix}{72}{appendix.Alph1}%
