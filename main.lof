@@ -1,10 +1,18 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Ο βασικός βρόχος αλληλεπίδρασης πράκτορα/περιβάλλοντος στην Ενισχυτική Μάθηση. Ο πράκτορας εκτελεί δράσεις και το περιβάλλον αποκρίνεται με νέα κατάσταση και ανταμοιβή.}}{13}{figure.caption.9}%
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Πολυεπίπεδο Δίκτυο Πρόσθιας Τροφοδότησης (Multi-Layer Perceptron) με ένα κρυφό στρώμα. Η πληροφορία ρέει μονόδρομα από την είσοδο προς την έξοδο.}}{14}{figure.caption.14}%
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Αρχιτεκτονική Actor/Critic. Ο Critic εκτιμά την αξία της κατάστασης και τροφοδοτεί τον Actor με το σήμα πλεονεκτήματος $A_t$, το οποίο κατευθύνει την ενημέρωση της πολιτικής.}}{25}{figure.caption.54}%
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Δομή ενός ανοδικού (αριστερά) και ενός πτωτικού (δεξιά) κεριού. Το σώμα ορίζεται από το άνοιγμα και το κλείσιμο, ενώ οι σκιές δείχνουν το εύρος υψηλότερης--χαμηλότερης τιμής εντός του διαστήματος.}}{32}{figure.caption.72}%
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Οι κατηγορίες επιβλεπόμενης μάθησης μαζί με τις μεθόδους που αντιστοιχούν σε κάθε κατηγορία.}}{13}{figure.caption.9}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Οι κατηγορίες μη επιβλεπόμενης μάθησης μαζί με τις μεθόδους που αντιστοιχούν σε κάθε κατηγορία.}}{14}{figure.caption.10}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Ο βασικός βρόχος αλληλεπίδρασης πράκτορα/περιβάλλοντος στην Ενισχυτική Μάθηση. Ο πράκτορας εκτελεί δράσεις και το περιβάλλον αποκρίνεται με νέα κατάσταση και ανταμοιβή.}}{14}{figure.caption.11}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Μια μη εξαντλητική, αλλά χρήσιμη ταξινόμηση των αλγορίθμων στη σύγχρονη RL από το \href {https://spinningup.openai.com/en/latest/spinningup/rl_intro2.html}{SpinningUp}}}{16}{figure.caption.12}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Η αναπαράσταση του perceptron}}{17}{figure.caption.15}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Μια αναπαράσταση ενός πολυεπίπεδου νευρωνικού δικτύου.}}{18}{figure.caption.20}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Aναπαράσταση Κατάβαση Κλίσης (Gradient Descent).}}{22}{figure.caption.40}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Η δομή ενός Δικτύου Μακράς Βραχύχρονης Μνήμης.}}{24}{figure.caption.49}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Η δομή ενός GRU.}}{26}{figure.caption.56}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Αρχιτεκτονική Actor/Critic που χρησιμοποιείται στις μεθόδους βελτιστοποίησης πολιτικής. Ο Critic εκτιμά την αξία της κατάστασης και τροφοδοτεί τον Actor με το σήμα πλεονεκτήματος At, το οποίο κατευθύνει την ενημέρωση της πολιτικής.}}{31}{figure.caption.59}%
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Αρχιτεκτονική Transformer από το \cite {jeremy2011}}}{38}{figure.caption.81}%
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Δομή ενός ανοδικού (αριστερά) και ενός πτωτικού (δεξιά) κεριού. Το σώμα ορίζεται από το άνοιγμα και το κλείσιμο, ενώ οι σκιές δείχνουν το εύρος υψηλότερης--χαμηλότερης τιμής εντός του διαστήματος.}}{44}{figure.caption.88}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }

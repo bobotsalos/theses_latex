@@ -1,3 +1,23 @@
+@book{russell2020ai,
+  title     = {Artificial Intelligence: A Modern Approach},
+  author    = {Russell, Stuart J. and Norvig, Peter},
+  edition   = {4th},
+  year      = {2020},
+  publisher = {Pearson},
+  address   = {Hoboken, NJ}
+}
+
+@article{jordan2015ml,
+  title   = {Machine learning: Trends, perspectives, and prospects},
+  author  = {Jordan, Michael I. and Mitchell, Tom M.},
+  journal = {Science},
+  volume  = {349},
+  number  = {6245},
+  pages   = {255--260},
+  year    = {2015},
+  doi     = {10.1126/science.aaa8415}
+}
+
 @book{mitchell1997,
   title     = {Machine Learning},
   author    = {Mitchell, Tom M.},
@@ -52,6 +72,24 @@
   number  = {6},
   pages   = {386--408},
   year    = {1958}
+}
+
+@article{mcculloch1943,
+  title   = {A logical calculus of the ideas immanent in nervous activity},
+  author  = {McCulloch, Warren S. and Pitts, Walter},
+  journal = {The Bulletin of Mathematical Biophysics},
+  volume  = {5},
+  number  = {4},
+  pages   = {115--133},
+  year    = {1943}
+}
+
+@book{minsky1969perceptrons,
+  title     = {Perceptrons: An Introduction to Computational Geometry},
+  author    = {Minsky, Marvin and Papert, Seymour},
+  year      = {1969},
+  publisher = {MIT Press},
+  address   = {Cambridge, MA}
 }
 
 @article{cybenko1989,
@@ -120,6 +158,17 @@
   author    = {Kingma, Diederik P. and Ba, Jimmy},
   booktitle = {3rd International Conference on Learning Representations (ICLR)},
   year      = {2015}
+}
+
+@incollection{bottou2010sgd,
+  title     = {Large-Scale Machine Learning with Stochastic Gradient Descent},
+  author    = {Bottou, L{\'e}on},
+  booktitle = {Proceedings of COMPSTAT'2010},
+  editor    = {Lechevallier, Yves and Saporta, Gilbert},
+  pages     = {177--186},
+  publisher = {Physica-Verlag HD},
+  address   = {Heidelberg},
+  year      = {2010}
 }
 
 @article{srivastava2014dropout,
@@ -293,6 +342,111 @@
   year    = {2017}
 }
 
+@inproceedings{henderson2018deep,
+  title={Deep reinforcement learning that matters},
+  author={Henderson, Peter and Islam, Riashat and Bachman, Philip and Pineau, Joelle and Precup, Doina and Meger, David},
+  booktitle={Proceedings of the AAAI conference on artificial intelligence},
+  volume={32},
+  number={1},
+  year={2018}
+}
+
+% RL algorithm taxonomy (SpinningUp)
+@article{mnih2013dqn,
+  title={Playing atari with deep reinforcement learning},
+  author={Mnih, Volodymyr and Kavukcuoglu, Koray and Silver, David and Graves, Alex and Antonoglou, Ioannis and Wierstra, Daan and Riedmiller, Martin},
+  journal={arXiv preprint arXiv:1312.5602},
+  year={2013}
+}
+
+@article{lillicrap2015ddpg,
+  title={Continuous control with deep reinforcement learning},
+  author={Lillicrap, Timothy P and Hunt, Jonathan J and Pritzel, Alexander and Heess, Nicolas and Erez, Tom and Tassa, Yuval and Silver, David and Wierstra, Daan},
+  journal={arXiv preprint arXiv:1509.02971},
+  year={2015}
+}
+
+@inproceedings{fujimoto2018td3,
+  title={Addressing function approximation error in actor-critic methods},
+  author={Fujimoto, Scott and Hoof, Herke and Meger, David},
+  booktitle={International conference on machine learning},
+  pages={1587--1596},
+  year={2018},
+  organization={PMLR}
+}
+
+@inproceedings{haarnoja2018sac,
+  title={Soft actor-critic: Off-policy maximum entropy deep reinforcement learning with a stochastic actor},
+  author={Haarnoja, Tuomas and Zhou, Aurick and Abbeel, Pieter and Levine, Sergey},
+  booktitle={International conference on machine learning},
+  pages={1861--1870},
+  year={2018},
+  organization={PMLR}
+}
+
+@inproceedings{bellemare2017c51,
+  title={A distributional perspective on reinforcement learning},
+  author={Bellemare, Marc G and Dabney, Will and Munos, R{\'e}mi},
+  booktitle={International conference on machine learning},
+  pages={449--458},
+  year={2017},
+  organization={PMLR}
+}
+
+@inproceedings{dabney2018qrdqn,
+  title={Distributional reinforcement learning with quantile regression},
+  author={Dabney, Will and Rowland, Mark and Bellemare, Marc and Munos, R{\'e}mi},
+  booktitle={Proceedings of the AAAI conference on artificial intelligence},
+  volume={32},
+  number={1},
+  year={2018}
+}
+
+@article{andrychowicz2017her,
+  title={Hindsight experience replay},
+  author={Andrychowicz, Marcin and Wolski, Filip and Ray, Alex and Schneider, Jonas and Fong, Rachel and Welinder, Peter and McGrew, Bob and Tobin, Josh and Abbeel, Pieter and Zaremba, Wojciech},
+  journal={Advances in neural information processing systems},
+  volume={30},
+  year={2017}
+}
+
+@article{ha2018worldmodels,
+  title={World models},
+  author={Ha, David and Schmidhuber, J{\"u}rgen},
+  journal={arXiv preprint arXiv:1803.10122},
+  year={2018}
+}
+
+@article{weber2017i2a,
+  title={Imagination-augmented agents for deep reinforcement learning},
+  author={Weber, Th{\'e}ophane and Racani{\`e}re, S{\'e}bastien and Reichert, David P and Buesing, Lars and Guez, Arthur and Rezende, Danilo Jimenez and Badia, Adria Puigdomenech and Vinyals, Oriol and Heess, Nicolas and Li, Yujia and others},
+  journal={arXiv preprint arXiv:1707.06203},
+  year={2017}
+}
+
+@inproceedings{nagabandi2018mbmf,
+  title={Neural network dynamics for model-based deep reinforcement learning with model-free fine-tuning},
+  author={Nagabandi, Anusha and Kahn, Gregory and Fearing, Ronald S and Levine, Sergey},
+  booktitle={2018 IEEE international conference on robotics and automation (ICRA)},
+  pages={7559--7566},
+  year={2018},
+  organization={IEEE}
+}
+
+@article{feinberg2018mbve,
+  title={Model-based value estimation for efficient model-free reinforcement learning},
+  author={Feinberg, Vladimir and Wan, Alvin and Stoica, Ion and Jordan, Michael I and Gonzalez, Joseph E and Levine, Sergey},
+  journal={arXiv preprint arXiv:1803.00101},
+  year={2018}
+}
+
+@article{silver2017alphazero,
+  title={Mastering chess and shogi by self-play with a general reinforcement learning algorithm},
+  author={Silver, David and Hubert, Thomas and Schrittwieser, Julian and Antonoglou, Ioannis and Lai, Matthew and Guez, Arthur and Lanctot, Marc and Sifre, Laurent and Kumaran, Dharshan and Graepel, Thore and others},
+  journal={arXiv preprint arXiv:1712.01815},
+  year={2017}
+}
+
 % ---------------------------------------------------------------------
 %  NLP / Large Language Models / sentiment
 % ---------------------------------------------------------------------
@@ -352,9 +506,79 @@
   year    = {2011}
 }
 
+@misc{jeremy2011,
+  title   = {Understanding the Transformer architecture for neural networks},
+  author  = {Jeremy Jordan},
+  year    = {2023},
+  url    = {https://www.jeremyjordan.me/transformer-architecture/},
+}
+@misc{transformer-visualized,
+  title   = {Transformer Explainer},
+  url    = {https://poloclub.github.io/transformer-explainer/},
+  author  = {Many},
+}
+@misc{llm-visualized,
+  title   = {LLM Visualized},
+  url    = {https://www.llm-visualized.com/?token=4&generation=0&kvCache=0},
+  author  = {Many},
+}
+
 % ---------------------------------------------------------------------
 %  Finance: markets, efficiency, anomalies, sentiment, risk metrics
 % ---------------------------------------------------------------------
+@book{boxjenkins1976,
+  title     = {Time Series Analysis: Forecasting and Control},
+  author    = {Box, George E. P. and Jenkins, Gwilym M.},
+  edition   = {revised},
+  year      = {1976},
+  publisher = {Holden-Day},
+  address   = {San Francisco}
+}
+
+@article{benjamin2003generalized,
+  title   = {Generalized autoregressive moving average models},
+  author  = {Benjamin, Michael A. and Rigby, Robert A. and Stasinopoulos, D. Mikis},
+  journal = {Journal of the American Statistical Association},
+  volume  = {98},
+  number  = {461},
+  pages   = {214--223},
+  year    = {2003},
+  publisher = {Taylor \& Francis}
+}
+
+@article{zheng2022generalized,
+  title   = {Generalized autoregressive moving average models with {GARCH} errors},
+  author  = {Zheng, Tingguo and Xiao, Han and Chen, Rong},
+  journal = {Journal of Time Series Analysis},
+  volume  = {43},
+  number  = {1},
+  pages   = {125--146},
+  year    = {2022},
+  publisher = {Wiley}
+}
+
+@article{engle1982arch,
+  title   = {Autoregressive conditional heteroscedasticity with estimates of the variance of {United Kingdom} inflation},
+  author  = {Engle, Robert F.},
+  journal = {Econometrica},
+  volume  = {50},
+  number  = {4},
+  pages   = {987--1007},
+  year    = {1982},
+  doi     = {10.2307/1912773}
+}
+
+@article{bollerslev1986garch,
+  title   = {Generalized autoregressive conditional heteroskedasticity},
+  author  = {Bollerslev, Tim},
+  journal = {Journal of Econometrics},
+  volume  = {31},
+  number  = {3},
+  pages   = {307--327},
+  year    = {1986},
+  doi     = {10.1016/0304-4076(86)90063-1}
+}
+
 @article{fama1970emh,
   title   = {Efficient capital markets: A review of theory and empirical work},
   author  = {Fama, Eugene F.},
@@ -507,6 +731,74 @@
   booktitle = {Proceedings of the First ACM International Conference on AI in Finance (ICAIF)},
   pages     = {1--8},
   year      = {2020}
+}
+
+@article{hambly2023rlfinance,
+  title   = {Recent advances in reinforcement learning in finance},
+  author  = {Hambly, Ben and Xu, Renyuan and Yang, Huining},
+  journal = {Mathematical Finance},
+  volume  = {33},
+  number  = {3},
+  pages   = {437--503},
+  year    = {2023},
+  doi     = {10.1111/mafi.12382}
+}
+
+@article{benhenda2025finrldeepseek,
+  title   = {FinRL-DeepSeek: LLM-infused risk-sensitive reinforcement learning for trading agents},
+  author  = {Benhenda, Mostapha},
+  journal = {arXiv preprint arXiv:2502.07393},
+  year    = {2025}
+}
+
+@article{gort2022finrlcrypto,
+  title   = {Deep reinforcement learning for cryptocurrency trading: Practical approach to address backtest overfitting},
+  author  = {Gort, Berend Jelmer Dirk and Liu, Xiao-Yang and Sun, Xinghang and Gao, Jiechao and Chen, Shuaiyu and Wang, Christina Dan},
+  journal = {arXiv preprint arXiv:2209.05559},
+  year    = {2022}
+}
+
+% ---------------------------------------------------------------------
+%  EMH, AMH, Market Efficiency
+% ---------------------------------------------------------------------
+@article{fama1969adjustment,
+  title={The adjustment of stock prices to new information},
+  author={Fama, Eugene F and Fisher, Lawrence and Jensen, Michael C and Roll, Richard},
+  journal={International economic review},
+  volume={10},
+  number={1},
+  pages={1--21},
+  year={1969},
+  publisher={JSTOR}
+}
+@article{malkiel2003efficient,
+  title={The efficient market hypothesis and its critics},
+  author={Malkiel, Burton G},
+  journal={Journal of economic perspectives},
+  volume={17},
+  number={1},
+  pages={59--82},
+  year={2003},
+  publisher={American Economic Association}
+}
+@article{brilhante2024efficient,
+  title={The Efficient Market Hypothesis: A Mirror Of Infinite Reflections},
+  author={Brilhante, Gerson},
+  journal={Available at SSRN 5202947},
+  year={2024}
+}
+@incollection{lo2011non,
+  title={A non-random walk down Wall Street},
+  author={Lo, Andrew W and MacKinlay, A Craig},
+  booktitle={A Non-Random Walk Down Wall Street},
+  year={2011},
+  publisher={Princeton University Press}
+}
+@book{lo2017adaptive,
+  title={Adaptive Markets: Financial Evolution at the Speed of Thought},
+  author={Lo, Andrew W},
+  year={2017},
+  publisher={Princeton University Press}
 }
 
 % ---------------------------------------------------------------------
