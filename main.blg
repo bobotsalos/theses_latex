@@ -12,49 +12,48 @@ A level-1 auxiliary file: chapter4/chapter4.aux
 A level-1 auxiliary file: chapter5/chapter5.aux
 A level-1 auxiliary file: chapter6/chapter6.aux
 The style file: plain.bst
-A level-1 auxiliary file: appendix/appendix.aux
 Database file #1: references.bib
 Warning--can't use both volume and number fields in dabney2018qrdqn
 Warning--can't use both volume and number fields in henderson2018deep
-You've used 97 entries,
+You've used 113 entries,
             2118 wiz_defined-function locations,
-            1027 strings with 21049 characters,
-and the built_in function-call counts, 35186 in all, are:
-= -- 3391
-> -- 1904
-< -- 20
-+ -- 762
-- -- 654
-* -- 2534
-:= -- 5853
-add.period$ -- 296
-call.type$ -- 97
-change.case$ -- 603
+            1105 strings with 23327 characters,
+and the built_in function-call counts, 40647 in all, are:
+= -- 3932
+> -- 2150
+< -- 24
++ -- 859
+- -- 734
+* -- 2926
+:= -- 6747
+add.period$ -- 344
+call.type$ -- 113
+change.case$ -- 690
 chr.to.int$ -- 0
-cite$ -- 99
-duplicate$ -- 1285
-empty$ -- 2620
-format.name$ -- 654
-if$ -- 7274
+cite$ -- 115
+duplicate$ -- 1492
+empty$ -- 3062
+format.name$ -- 734
+if$ -- 8413
 int.to.chr$ -- 0
-int.to.str$ -- 97
-missing$ -- 107
-newline$ -- 486
-num.names$ -- 196
-pop$ -- 656
+int.to.str$ -- 113
+missing$ -- 125
+newline$ -- 566
+num.names$ -- 228
+pop$ -- 744
 preamble$ -- 1
-purify$ -- 515
+purify$ -- 587
 quote$ -- 0
-skip$ -- 917
+skip$ -- 1061
 stack$ -- 0
-substring$ -- 2028
-swap$ -- 282
-text.length$ -- 20
+substring$ -- 2398
+swap$ -- 322
+text.length$ -- 24
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 362
+type$ -- 422
 warning$ -- 2
-while$ -- 322
-width$ -- 99
-write$ -- 1050
+while$ -- 378
+width$ -- 116
+write$ -- 1225
 (There were 2 warnings)

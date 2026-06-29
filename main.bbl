@@ -1,4 +1,4 @@
-\begin{thebibliography}{10}
+\begin{thebibliography}{100}
 
 \bibitem{achiam2017cpo}
 Joshua Achiam, David Held, Aviv Tamar, and Pieter Abbeel.
@@ -95,10 +95,20 @@ Gerson Brilhante.
 \newblock The efficient market hypothesis: A mirror of infinite reflections.
 \newblock {\em Available at SSRN 5202947}, 2024.
 
+\bibitem{brock1992}
+William Brock, Josef Lakonishok, and Blake LeBaron.
+\newblock Simple technical trading rules and the stochastic properties of stock returns.
+\newblock {\em The Journal of Finance}, 47(5):1731--1764, 1992.
+
 \bibitem{brown2020gpt3}
 Tom~B. Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared Kaplan, Prafulla Dhariwal, Arvind Neelakantan, Pranav Shyam, Girish Sastry, Amanda Askell, et~al.
 \newblock Language models are few-shot learners.
 \newblock In {\em Advances in Neural Information Processing Systems (NeurIPS)}, volume~33, pages 1877--1901, 2020.
+
+\bibitem{caginalplaurent1998}
+Gunduz Caginalp and Henri Laurent.
+\newblock The predictive power of price patterns.
+\newblock {\em Applied Mathematical Finance}, 5(3--4):181--205, 1998.
 
 \bibitem{cho2014gru}
 Kyunghyun Cho, Bart van Merri{\"e}nboer, Caglar Gulcehre, Dzmitry Bahdanau, Fethi Bougares, Holger Schwenk, and Yoshua Bengio.
@@ -175,6 +185,21 @@ Berend Jelmer~Dirk Gort, Xiao-Yang Liu, Xinghang Sun, Jiechao Gao, Shuaiyu Chen,
 \newblock Deep reinforcement learning for cryptocurrency trading: Practical approach to address backtest overfitting.
 \newblock {\em arXiv preprint arXiv:2209.05559}, 2022.
 
+\bibitem{griffin2020bitcoin}
+John~M. Griffin and Amin Shams.
+\newblock Is bitcoin really untethered?
+\newblock {\em The Journal of Finance}, 75(4):1913--1964, 2020.
+
+\bibitem{grinoldkahn1999}
+Richard~C. Grinold and Ronald~N. Kahn.
+\newblock {\em Active Portfolio Management}.
+\newblock McGraw-Hill, 2nd edition, 1999.
+
+\bibitem{gukelly2020}
+Shihao Gu, Bryan Kelly, and Dacheng Xiu.
+\newblock Empirical asset pricing via machine learning.
+\newblock {\em The Review of Financial Studies}, 33(5):2223--2273, 2020.
+
 \bibitem{ha2018worldmodels}
 David Ha and J{\"u}rgen Schmidhuber.
 \newblock World models.
@@ -199,6 +224,11 @@ Trevor Hastie, Robert Tibshirani, and Jerome Friedman.
 Matthew Hausknecht and Peter Stone.
 \newblock Deep recurrent q-learning for partially observable mdps.
 \newblock In {\em AAAI Fall Symposium Series}, 2015.
+
+\bibitem{hendershott2011algtrading}
+Terrence Hendershott, Charles~M. Jones, and Albert~J. Menkveld.
+\newblock Does algorithmic trading improve liquidity?
+\newblock {\em The Journal of Finance}, 66(1):1--33, 2011.
 
 \bibitem{henderson2018deep}
 Peter Henderson, Riashat Islam, Philip Bachman, Joelle Pineau, Doina Precup, and David Meger.
@@ -225,10 +255,20 @@ Edward~J. Hu, Yelong Shen, Phillip Wallis, Zeyuan Allen-Zhu, Yuanzhi Li, Shean W
 \newblock Lora: Low-rank adaptation of large language models.
 \newblock In {\em 10th International Conference on Learning Representations (ICLR)}, 2022.
 
+\bibitem{huber1964robust}
+Peter~J. Huber.
+\newblock Robust estimation of a location parameter.
+\newblock {\em The Annals of Mathematical Statistics}, 35(1):73--101, 1964.
+
 \bibitem{ioffe2015batchnorm}
 Sergey Ioffe and Christian Szegedy.
 \newblock Batch normalization: Accelerating deep network training by reducing internal covariate shift.
 \newblock In {\em Proceedings of the 32nd International Conference on Machine Learning (ICML)}, pages 448--456, 2015.
+
+\bibitem{jegadeesh1993}
+Narasimhan Jegadeesh and Sheridan Titman.
+\newblock Returns to buying winners and selling losers: Implications for stock market efficiency.
+\newblock {\em The Journal of Finance}, 48(1):65--91, 1993.
 
 \bibitem{jensen1968alpha}
 Michael~C. Jensen.
@@ -284,6 +324,11 @@ Xiao-Yang Liu, Zhuoran Xiong, Shan Zhong, Hongyang Yang, and Anwar Walid.
 \newblock Practical deep reinforcement learning approach for stock trading.
 \newblock {\em arXiv preprint arXiv:1811.07522}, 2018.
 
+\bibitem{liutsyvinski2021}
+Yukun Liu and Aleh Tsyvinski.
+\newblock Risks and returns of cryptocurrency.
+\newblock {\em The Review of Financial Studies}, 34(6):2689--2727, 2021.
+
 \bibitem{lo2017adaptive}
 Andrew~W Lo.
 \newblock {\em Adaptive Markets: Financial Evolution at the Speed of Thought}.
@@ -298,6 +343,11 @@ Andrew~W Lo and A~Craig MacKinlay.
 Marcos L{\'o}pez~de Prado.
 \newblock {\em Advances in Financial Machine Learning}.
 \newblock John Wiley \& Sons, Hoboken, NJ, 2018.
+
+\bibitem{lopezlira2023chatgpt}
+Alejandro Lopez-Lira and Yuehua Tang.
+\newblock Can {ChatGPT} forecast stock price movements? {Return} predictability and large language models.
+\newblock {\em SSRN Working Paper 4412788}, 2023.
 
 \bibitem{loughran2011}
 Tim Loughran and Bill McDonald.
@@ -321,6 +371,11 @@ Many.
 Warren~S. McCulloch and Walter Pitts.
 \newblock A logical calculus of the ideas immanent in nervous activity.
 \newblock {\em The Bulletin of Mathematical Biophysics}, 5(4):115--133, 1943.
+
+\bibitem{mikolov2013word2vec}
+Tomas Mikolov, Ilya Sutskever, Kai Chen, Greg~S. Corrado, and Jeff Dean.
+\newblock Distributed representations of words and phrases and their compositionality.
+\newblock In {\em Advances in Neural Information Processing Systems}, volume~26, 2013.
 
 \bibitem{minsky1969perceptrons}
 Marvin Minsky and Seymour Papert.
@@ -362,10 +417,20 @@ Vinod Nair and Geoffrey~E. Hinton.
 \newblock Rectified linear units improve restricted boltzmann machines.
 \newblock In {\em Proceedings of the 27th International Conference on Machine Learning (ICML)}, pages 807--814, 2010.
 
+\bibitem{pang2002sentiment}
+Bo~Pang, Lillian Lee, and Shivakumar Vaithyanathan.
+\newblock Thumbs up? sentiment classification using machine learning techniques.
+\newblock In {\em Proceedings of the 2002 Conference on Empirical Methods in Natural Language Processing (EMNLP)}, pages 79--86, 2002.
+
 \bibitem{patel2015}
 Jigar Patel, Sahil Shah, Priyank Thakkar, and K.~Kotecha.
 \newblock Predicting stock and stock price index movement using trend deterministic data preparation and machine learning techniques.
 \newblock {\em Expert Systems with Applications}, 42(1):259--268, 2015.
+
+\bibitem{pennington2014glove}
+Jeffrey Pennington, Richard Socher, and Christopher~D. Manning.
+\newblock {GloVe}: Global vectors for word representation.
+\newblock In {\em Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP)}, pages 1532--1543, 2014.
 
 \bibitem{ramachandran2017swish}
 Prajit Ramachandran, Barret Zoph, and Quoc~V. Le.
@@ -422,6 +487,11 @@ David Silver, Thomas Hubert, Julian Schrittwieser, Ioannis Antonoglou, Matthew L
 \newblock Mastering chess and shogi by self-play with a general reinforcement learning algorithm.
 \newblock {\em arXiv preprint arXiv:1712.01815}, 2017.
 
+\bibitem{sortino1991downside}
+Frank~A. Sortino and Robert van~der Meer.
+\newblock Downside risk.
+\newblock {\em The Journal of Portfolio Management}, 17(4):27--31, 1991.
+
 \bibitem{srivastava2014dropout}
 Nitish Srivastava, Geoffrey Hinton, Alex Krizhevsky, Ilya Sutskever, and Ruslan Salakhutdinov.
 \newblock Dropout: A simple way to prevent neural networks from overfitting.
@@ -431,6 +501,11 @@ Nitish Srivastava, Geoffrey Hinton, Alex Krizhevsky, Ilya Sutskever, and Ruslan 
 Richard~S. Sutton and Andrew~G. Barto.
 \newblock {\em Reinforcement Learning: An Introduction}.
 \newblock MIT Press, Cambridge, MA, 2nd edition, 2018.
+
+\bibitem{sutton1999policygradient}
+Richard~S. Sutton, David McAllester, Satinder Singh, and Yishay Mansour.
+\newblock Policy gradient methods for reinforcement learning with function approximation.
+\newblock In {\em Advances in Neural Information Processing Systems}, volume~12, 1999.
 
 \bibitem{teall2022financial}
 John~L. Teall.
@@ -457,6 +532,11 @@ Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan~N
 Th{\'e}ophane Weber, S{\'e}bastien Racani{\`e}re, David~P Reichert, Lars Buesing, Arthur Guez, Danilo~Jimenez Rezende, Adria~Puigdomenech Badia, Oriol Vinyals, Nicolas Heess, Yujia Li, et~al.
 \newblock Imagination-augmented agents for deep reinforcement learning.
 \newblock {\em arXiv preprint arXiv:1707.06203}, 2017.
+
+\bibitem{wilder1978}
+J.~Welles Wilder.
+\newblock {\em New Concepts in Technical Trading Systems}.
+\newblock Trend Research, Greensboro, NC, 1978.
 
 \bibitem{williams1992reinforce}
 Ronald~J. Williams.
