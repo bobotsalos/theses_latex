@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2025.9.20)  29 JUN 2026 21:38
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2025.9.20)  30 JUN 2026 02:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1450,12 +1450,12 @@ Class scrreprt Warning: Redefinition of \@makeschapterhead detected.
 
 ] [6] [7]
 Overfull \hbox (2.09996pt too wide) detected at line 197
- \TU/CMUSerif(0)/b/n/12 109
+ \TU/CMUSerif(0)/b/n/12 110
  []
 
 
 Overfull \hbox (2.09996pt too wide) detected at line 198
- \TU/CMUSerif(0)/b/n/12 112
+ \TU/CMUSerif(0)/b/n/12 113
  []
 
 )
@@ -1712,43 +1712,42 @@ Class scrreprt Warning: Redefinition of \@makechapterhead detected.
 
 
 
-] [51] [52] [53] [54] [55] [56] [57] [58]
-Overfull \hbox (5.0569pt too wide) in paragraph at lines 450--480
+] [51] [52] [53] [54] [55] [56] [57] [58] [59]
+Overfull \hbox (5.0569pt too wide) in paragraph at lines 534--564
  [][] 
  []
 
-[59] [60]
-Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on input line 564.
+[60] [61]
+Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on input line 643.
 
-Underfull \hbox (badness 6526) in paragraph at lines 592--610
+Underfull \hbox (badness 6526) in paragraph at lines 671--689
  []\TU/CMUSerif(0)/b/n/12 Ταξινόμηση με FinGPT και LoRA.[] \TU/CMUSerif(0)/m/n/12 Η ταξινόμηση του συναισθήματος
  []
 
 
-Underfull \hbox (badness 2042) in paragraph at lines 592--610
+Underfull \hbox (badness 2042) in paragraph at lines 671--689
 \TU/CMUSerif(0)/m/n/12 κάθε άρθρου εκτελείται από ένα μεγάλο γλωσσικό μοντέλο βασισμένο στη βάση
  []
 
-[61]
+[62]
 LaTeX Font Info:    Font shape `TU/CMUSerif(0)/b/sl' in size <10.95> not available
-(Font)              Font shape `TU/CMUSerif(0)/b/it' tried instead on input line 644.
- [62]
+(Font)              Font shape `TU/CMUSerif(0)/b/it' tried instead on input line 723.
+ [63]
 File: ./figures/fingpt_score_distribution.png Graphic file (type bmp)
 <./figures/fingpt_score_distribution.png>
 File: ./figures/fingpt_monthly_volume.png Graphic file (type bmp)
 <./figures/fingpt_monthly_volume.png>
- [63] [64] [65]
+ [64] [65] [66]
 File: ./figures/fingpt_signal_composition.png Graphic file (type bmp)
 <./figures/fingpt_signal_composition.png>
- [66]
 File: ./figures/fingpt_onehot_distribution.png Graphic file (type bmp)
 <./figures/fingpt_onehot_distribution.png>
- [67] [68]
-Underfull \hbox (badness 2980) in paragraph at lines 912--917
+ [67] [68] [69]
+Underfull \hbox (badness 2980) in paragraph at lines 1008--1013
 []\TU/CMUSerif(0)/m/n/12 Το περιβάλλον μοντελοποιεί τη διαχείριση χαρτοφυλακίου $\OML/cmm/m/it/12 N$ \TU/CMUSerif(0)/m/n/12 κρυπτονομισμάτων
  []
 
-[69] [70] [71] [72] [73] [74]) [75]
+[70] [71] [72] [73] [74] [75]) [76]
 \openout2 = `chapter5/chapter5.aux'.
 
  (./chapter5/chapter5.tex
@@ -1799,25 +1798,25 @@ Underfull \hbox (badness 2717) in paragraph at lines 58--58
 \TU/CMUSerif(0)/m/n/10.95 στασης έναντι σύζευξης με
  []
 
-[76
+[77
 
 
 
 
-] [77] [78]
+] [78] [79]
 File: ./figures/../../out/final_groups/trade/g2/cumulative_returns_mean.png Graphic file (type bmp)
 <./figures/../../out/final_groups/trade/g2/cumulative_returns_mean.png>
 File: ./figures/../../out/final_groups/train/g2/cumulative_returns_mean.png Graphic file (type bmp)
 <./figures/../../out/final_groups/train/g2/cumulative_returns_mean.png>
- [79] [80]
+ [80] [81]
 File: ./figures/../../out/final_groups/trade/g1/cumulative_returns_mean.png Graphic file (type bmp)
 <./figures/../../out/final_groups/trade/g1/cumulative_returns_mean.png>
- [81] [82]
+ [82] [83]
 File: ./figures/../../out/final_groups/train/g1/cumulative_returns_mean.png Graphic file (type bmp)
 <./figures/../../out/final_groups/train/g1/cumulative_returns_mean.png>
 File: ./figures/../../out/evaluate_training_groups/g1/convergence_plot.png Graphic file (type bmp)
 <./figures/../../out/evaluate_training_groups/g1/convergence_plot.png>
- [83] [84]
+ [84] [85]
 File: ./figures/../figures/diagnostics_g1/lstm_pnl_cash-01.png Graphic file (type bmp)
 <./figures/../figures/diagnostics_g1/lstm_pnl_cash-01.png>
 LaTeX Info: Redefining \anw@print on input line 397.
@@ -1838,71 +1837,71 @@ File: ./figures/../../out/final_groups/trade/g3/cumulative_returns_mean.png Grap
 <./figures/../../out/final_groups/trade/g3/cumulative_returns_mean.png>
 File: ./figures/../../out/final_groups/trade/g3/cumulative_returns_relative_bnh.png Graphic file (type bmp)
 <./figures/../../out/final_groups/trade/g3/cumulative_returns_relative_bnh.png>
- [85]
+ [86]
 File: ./figures/../figures/diagnostics_g3/active_actions-06.png Graphic file (type bmp)
 <./figures/../figures/diagnostics_g3/active_actions-06.png>
- [86] [87] [88]
+ [87] [88] [89]
 File: ./figures/../../out/final_groups/trade/g4/cumulative_returns_mean.png Graphic file (type bmp)
 <./figures/../../out/final_groups/trade/g4/cumulative_returns_mean.png>
- [89]
+ [90]
 File: ./figures/../../out/final_groups/trade/g5/cumulative_returns_mean.png Graphic file (type bmp)
 <./figures/../../out/final_groups/trade/g5/cumulative_returns_mean.png>
- [90] [91]
+ [91] [92]
 File: ./figures/../../out/final_groups/trade/g6/cumulative_returns_mean.png Graphic file (type bmp)
 <./figures/../../out/final_groups/trade/g6/cumulative_returns_mean.png>
- [92]
+ [93]
 File: ./figures/../../out/final_groups/trade/g7/cumulative_returns_mean.png Graphic file (type bmp)
 <./figures/../../out/final_groups/trade/g7/cumulative_returns_mean.png>
- [93]
+ [94]
 File: ./figures/../../out/final_groups/trade/g8_1/cumulative_returns_mean.png Graphic file (type bmp)
 <./figures/../../out/final_groups/trade/g8_1/cumulative_returns_mean.png>
- [94] [95]
+ [95] [96]
 File: ./figures/../../out/final_groups/trade/g8_2/cumulative_returns_mean.png Graphic file (type bmp)
 <./figures/../../out/final_groups/trade/g8_2/cumulative_returns_mean.png>
- [96]
+ [97]
 File: ./figures/../figures/diagnostics_g8_2/ema_cash-01.png Graphic file (type bmp)
 <./figures/../figures/diagnostics_g8_2/ema_cash-01.png>
-LaTeX Info: Redefining \anw@print on input line 798.
-LaTeX Info: Redefining \anw@print on input line 798.
+LaTeX Info: Redefining \anw@print on input line 794.
+LaTeX Info: Redefining \anw@print on input line 794.
 File: ./figures/../figures/diagnostics_g8_2/ema_actions-06.png Graphic file (type bmp)
 <./figures/../figures/diagnostics_g8_2/ema_actions-06.png>
-LaTeX Info: Redefining \anw@print on input line 800.
-LaTeX Info: Redefining \anw@print on input line 800.
- [97]
-Underfull \hbox (badness 1616) in paragraph at lines 817--825
+LaTeX Info: Redefining \anw@print on input line 796.
+LaTeX Info: Redefining \anw@print on input line 796.
+ [98]
+Underfull \hbox (badness 1616) in paragraph at lines 812--819
 []\TU/CMUSerif(0)/m/n/12 Η ομάδα βελτιστοποίησης CPCV δεν εισάγει νέο μοντέλο αλλά μια διαδικασία
  []
 
-[98]
+[99]
 LaTeX Font Info:    Font shape `TU/CMUTypewriterText(0)/m/sl' in size <10.95> not available
-(Font)              Font shape `TU/CMUTypewriterText(0)/m/it' tried instead on input line 833.
+(Font)              Font shape `TU/CMUTypewriterText(0)/m/it' tried instead on input line 827.
 File: ./figures/../../out/final_groups/trade/g9/cumulative_returns_mean.png Graphic file (type bmp)
 <./figures/../../out/final_groups/trade/g9/cumulative_returns_mean.png>
 File: ./figures/../../out/final_groups/trade/g9/cumulative_returns_relative_bnh.png Graphic file (type bmp)
 <./figures/../../out/final_groups/trade/g9/cumulative_returns_relative_bnh.png>
- [99] [100]
+ [100] [101]
 File: ./figures/../../out/final_groups/trade/g12/cumulative_returns_mean.png Graphic file (type bmp)
 <./figures/../../out/final_groups/trade/g12/cumulative_returns_mean.png>
 File: ./figures/../../out/final_groups/trade/g12/cumulative_returns_relative_bnh.png Graphic file (type bmp)
 <./figures/../../out/final_groups/trade/g12/cumulative_returns_relative_bnh.png>
- [101]
-Underfull \hbox (badness 1902) in paragraph at lines 947--948
+ [102]
+Underfull \hbox (badness 1902) in paragraph at lines 939--940
 []\TU/CMUSerif(0)/m/n/12 Τα διαγνωστικά γραφήματα του πράκτορα Lagr. liquify 15/70% με συναίσθημα
  []
 
-[102]
+[103]
 File: ./figures/../figures/diagnostics_g12/liquify_fraction-04.png Graphic file (type bmp)
 <./figures/../figures/diagnostics_g12/liquify_fraction-04.png>
-LaTeX Info: Redefining \anw@print on input line 958.
-LaTeX Info: Redefining \anw@print on input line 958.
+LaTeX Info: Redefining \anw@print on input line 950.
+LaTeX Info: Redefining \anw@print on input line 950.
 File: ./figures/../figures/diagnostics_g12/liquify_cash-01.png Graphic file (type bmp)
 <./figures/../figures/diagnostics_g12/liquify_cash-01.png>
-LaTeX Info: Redefining \anw@print on input line 960.
-LaTeX Info: Redefining \anw@print on input line 960.
- [103] [104]
+LaTeX Info: Redefining \anw@print on input line 952.
+LaTeX Info: Redefining \anw@print on input line 952.
+ [104] [105]
 File: ./figures/../../out/final_groups/trade/g13/cumulative_returns_mean.png Graphic file (type bmp)
 <./figures/../../out/final_groups/trade/g13/cumulative_returns_mean.png>
- [105] [106]) [107] [108]
+ [106] [107]) [108] [109]
 \openout2 = `chapter6/chapter6.aux'.
 
  (./chapter6/chapter6.tex
@@ -1918,12 +1917,12 @@ Class scrreprt Warning: Redefinition of \@makechapterhead detected.
 (scrreprt)              KOMA-Script and will not work with a coming version,
 (scrreprt)              that will remove this deprecated code.
 
-[109
+[110
 
 
 
 
-]) [110] [111] (./main.bbl (./main.brf)
+]) [111] [112] (./main.bbl (./main.brf)
 \tf@brf=\write10
 \openout10 = `main.brf'.
 
@@ -1939,7 +1938,7 @@ Class scrreprt Warning: Redefinition of \@makeschapterhead detected.
 (scrreprt)              KOMA-Script and will not work with a coming version,
 (scrreprt)              that will remove this deprecated code.
 
-[112
+[113
 
 
 
@@ -1948,12 +1947,12 @@ Underfull \hbox (badness 1655) in paragraph at lines 127--127
 []\TU/CMUSerif(0)/m/n/10.95 Will Dabney, Mark Rowland, Marc Bellemare, and Rémi Munos.  Distributional
  []
 
-[113] [114] [115] [116] [117] [118]
+[114] [115] [116] [117] [118] [119]
 Underfull \hbox (badness 2762) in paragraph at lines 499--499
 []\TU/CMUSerif(0)/m/n/10.95 Nitish Srivastava, Geoffrey Hinton, Alex Krizhevsky, Ilya Sutskever, and Ruslan
  []
 
-[119]) [120] (./main.aux (./title/title.aux) (./declaration/declaration.aux) (./abstract/abstract.aux) (./acknowledgements/acknowledgements.aux) (./chapter1/chapter1.aux) (./chapter2/chapter2.aux) (./chapter3/chapter3.aux) (./chapter4/chapter4.aux) (./chapter5/chapter5.aux) (./chapter6/chapter6.aux))
+[120]) [121] (./main.aux (./title/title.aux) (./declaration/declaration.aux) (./abstract/abstract.aux) (./acknowledgements/acknowledgements.aux) (./chapter1/chapter1.aux) (./chapter2/chapter2.aux) (./chapter3/chapter3.aux) (./chapter4/chapter4.aux) (./chapter5/chapter5.aux) (./chapter6/chapter6.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
@@ -1967,21 +1966,16 @@ LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-
-Package rerunfilecheck Warning: File `main.brf' has changed.
-(rerunfilecheck)                Rerun to get bibliographical references right.
-
-Package rerunfilecheck Info: Checksums for `main.brf':
-(rerunfilecheck)             Before: FA8C8E64477F396F0F3FDC06A544F8A7;11925
-(rerunfilecheck)             After:  6911708156A6F11AA841AE8B593D3829;11987.
+Package rerunfilecheck Info: File `main.brf' has not changed.
+(rerunfilecheck)             Checksum: 97F903D324125738F8889E3E95420FC5;11990.
  ) 
 Here is how much of TeX's memory you used:
- 43949 strings out of 474878
- 927712 string characters out of 5762516
+ 43951 strings out of 474878
+ 927774 string characters out of 5762516
  1936627 words of memory out of 5000000
- 65077 multiletter control sequences out of 15000+600000
+ 65079 multiletter control sequences out of 15000+600000
  572226 words of font info for 164 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  131i,14n,125p,10954b,946s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (137 pages).
+Output written on main.pdf (138 pages).
