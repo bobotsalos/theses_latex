@@ -1,0 +1,59 @@
+This is BibTeX, Version 0.99d (TeX Live 2023/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+A level-1 auxiliary file: title/title.aux
+A level-1 auxiliary file: declaration/declaration.aux
+A level-1 auxiliary file: abstract/abstract.aux
+A level-1 auxiliary file: acknowledgements/acknowledgements.aux
+A level-1 auxiliary file: chapter1/chapter1.aux
+A level-1 auxiliary file: chapter2/chapter2.aux
+A level-1 auxiliary file: chapter3/chapter3.aux
+A level-1 auxiliary file: chapter4/chapter4.aux
+A level-1 auxiliary file: chapter5/chapter5.aux
+A level-1 auxiliary file: chapter6/chapter6.aux
+The style file: plain.bst
+Database file #1: references.bib
+Warning--can't use both volume and number fields in dabney2018qrdqn
+Warning--can't use both volume and number fields in henderson2018deep
+You've used 114 entries,
+            2118 wiz_defined-function locations,
+            1110 strings with 23426 characters,
+and the built_in function-call counts, 40898 in all, are:
+= -- 3954
+> -- 2163
+< -- 24
++ -- 864
+- -- 738
+* -- 2938
+:= -- 6791
+add.period$ -- 347
+call.type$ -- 114
+change.case$ -- 694
+chr.to.int$ -- 0
+cite$ -- 116
+duplicate$ -- 1504
+empty$ -- 3084
+format.name$ -- 738
+if$ -- 8466
+int.to.chr$ -- 0
+int.to.str$ -- 114
+missing$ -- 127
+newline$ -- 571
+num.names$ -- 230
+pop$ -- 753
+preamble$ -- 1
+purify$ -- 591
+quote$ -- 0
+skip$ -- 1068
+stack$ -- 0
+substring$ -- 2403
+swap$ -- 323
+text.length$ -- 24
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 424
+warning$ -- 2
+while$ -- 380
+width$ -- 117
+write$ -- 1235
+(There were 2 warnings)

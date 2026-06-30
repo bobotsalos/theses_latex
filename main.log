@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2025.9.20)  30 JUN 2026 02:40
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2025.9.20)  30 JUN 2026 16:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1449,13 +1449,13 @@ Class scrreprt Warning: Redefinition of \@makeschapterhead detected.
 
 
 ] [6] [7]
-Overfull \hbox (2.09996pt too wide) detected at line 197
- \TU/CMUSerif(0)/b/n/12 110
+Overfull \hbox (2.09996pt too wide) detected at line 195
+ \TU/CMUSerif(0)/b/n/12 109
  []
 
 
-Overfull \hbox (2.09996pt too wide) detected at line 198
- \TU/CMUSerif(0)/b/n/12 113
+Overfull \hbox (2.09996pt too wide) detected at line 196
+ \TU/CMUSerif(0)/b/n/12 112
  []
 
 )
@@ -1474,34 +1474,19 @@ Class scrreprt Warning: Redefinition of \@makeschapterhead detected.
 (scrreprt)              KOMA-Script and will not work with a coming version,
 (scrreprt)              that will remove this deprecated code.
 
-(./main.lof [9
-
-
-]
-Underfull \hbox (badness 1303) in paragraph at lines 24--24
+(./main.lof
+Underfull \hbox (badness 1303) in paragraph at lines 21--21
  [][] [][][]\TU/CMUSerif(0)/m/n/12 Συσσωρευμένες αποδόσεις κατά την περίοδο εκπαίδευσης (2019–2024) 
  []
 
+[9
 
-Underfull \hbox (badness 1590) in paragraph at lines 35--35
- [][] [][][]\TU/CMUSerif(0)/m/n/12 Συσσωρευμένες αποδόσεις σχετικά με τη βασική γραμμή αγοράς-και- 
- []
 
-[10]
-Underfull \hbox (badness 1590) in paragraph at lines 47--47
- [][] [][][]\TU/CMUSerif(0)/m/n/12 Συσσωρευμένες αποδόσεις σχετικά με τη βασική γραμμή αγοράς-και- 
- []
-
-[11]
-Underfull \hbox (badness 1590) in paragraph at lines 49--49
- [][] [][][]\TU/CMUSerif(0)/m/n/12 Συσσωρευμένες αποδόσεις σχετικά με τη βασική γραμμή αγοράς-και- 
- []
-
-)
+] [10])
 \tf@lof=\write8
 \openout8 = `main.lof'.
 
- [12]
+ [11] [12]
 
 Class scrreprt Warning: Redefinition of \@makeschapterhead detected.
 (scrreprt)              Note: KOMA-Script does use styles for commands like
@@ -1517,12 +1502,12 @@ Class scrreprt Warning: Redefinition of \@makeschapterhead detected.
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 24--24
+Underfull \hbox (badness 10000) in paragraph at lines 23--23
  [][] [][][]\TU/CMUSerif(0)/m/n/12 Αποτελέσματα ομάδας FinGPT (χαρακτηριστικά 
  []
 
 
-Underfull \hbox (badness 3302) in paragraph at lines 24--24
+Underfull \hbox (badness 3302) in paragraph at lines 23--23
  \TU/CMUTypewriterText(0)/m/n/12 base_momentum_fingpt_onehot\TU/CMUSerif(0)/m/n/12 , CPCV/Optuna, κόστος $\OT1/cmr/m/n/12 10[]$\TU/CMUSerif(0)/m/n/12 , περί- 
  []
 
@@ -1567,12 +1552,7 @@ Class scrreprt Warning: Redefinition of \@makechapterhead detected.
 
 
 
-] [2]
-Underfull \hbox (badness 1248) in paragraph at lines 127--130
-[]\TU/CMUSerif(0)/m/n/12 ως πρόσθετο χαρακτηριστικό εισόδου (feature) του μοντέλου DRL, ώστε να
- []
-
-[3]) [4]
+] [2] [3]) [4]
 \openout2 = `chapter2/chapter2.aux'.
 
  (./chapter2/chapter2.tex
@@ -1639,343 +1619,4 @@ File: ./figures/perceptron.jpeg Graphic file (type bmp)
 File: ./figures/mlp.jpeg Graphic file (type bmp)
 <./figures/mlp.jpeg>
 
-Underfull \hbox (badness 1552) in paragraph at lines 387--395
- []\TU/CMUSerif(0)/b/n/12 Θεώρημα Καθολικής Προσέγγισης.[] \TU/CMUSerif(0)/m/n/12 Η θεωρητική δικαιολόγηση της ισχύος
- []
-
-[18] [19]
-Underfull \hbox (badness 1210) in paragraph at lines 472--480
-\TU/CMUSerif(0)/m/n/12 ποποιημένης κανονικής κατανομής, αποτελεί την προεπιλεγμένη ενεργοποίηση στους
- []
-
-[20] [21]
-LaTeX Font Info:    Font shape `U/lasy/b/n' in size <8> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 601.
-LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 601.
-File: ./figures/descent.jpeg Graphic file (type bmp)
-<./figures/descent.jpeg>
- [22] [23]
-Underfull \hbox (badness 1226) in paragraph at lines 695--700
- []\TU/CMUSerif(0)/b/n/12 Αναδρομικά Νευρωνικά Δίκτυα.[] \TU/CMUSerif(0)/m/n/12 Τα δίκτυα πρόσθιας τροφοδότησης υποθέ-
- []
-
-File: ./figures/lstm.png Graphic file (type bmp)
-<./figures/lstm.png>
-[24] [25]
-File: ./figures/gru.png Graphic file (type bmp)
-<./figures/gru.png>
- [26] [27] [28] [29] [30]
-File: ./figures/actor-critic.png Graphic file (type bmp)
-<./figures/actor-critic.png>
- [31] [32]
-Underfull \hbox (badness 10000) in paragraph at lines 1186--1187
-[]|\TU/CMUSerif(0)/m/n/12 A2C/A3C, TRPO,
- []
-
-
-Underfull \hbox (badness 6592) in paragraph at lines 1192--1193
-[]|\TU/CMUSerif(0)/m/n/12 World Models, I2A,
- []
-
-[33] [34] [35] [36]
-File: ./figures/transformer.png Graphic file (type bmp)
-<./figures/transformer.png>
- [37] [38] [39] [40] [41] [42]
-Underfull \hbox (badness 3049) in paragraph at lines 1695--1710
- []\TU/CMUSerif(0)/b/n/12 Υπόθεση Αποτελεσματικής Αγοράς.[] \TU/CMUSerif(0)/m/n/12 Η \TU/CMUSerif(0)/m/it/12 Υπόθεση Αποτελεσματικής Αγοράς
- []
-
-[43] [44] [45] [46] [47]
-Underfull \hbox (badness 1354) in paragraph at lines 1954--1962
-[]\TU/CMUSerif(0)/m/n/12 Δεύτερη ιδιαιτερότητα είναι ο κίνδυνος \TU/CMUSerif(0)/m/it/12 υπερπροσαρμογής στο παρελθόν \TU/CMUSerif(0)/m/n/12 (backtest
- []
-
-) [48] [49]
-\openout2 = `chapter4/chapter4.aux'.
-
- (./chapter4/chapter4.tex
-chapter 4.
-
-Class scrreprt Warning: Redefinition of \@makechapterhead detected.
-(scrreprt)              Note: KOMA-Script does use styles for commands like
-(scrreprt)              \chapter. Currently it internally still provides and
-(scrreprt)              uses \@makechapterhead, but a completely different
-(scrreprt)              definition compared to the standard classes.
-(scrreprt)              So redefining or using internal \@makechapterhead
-(scrreprt)              by users or package authors may already break
-(scrreprt)              KOMA-Script and will not work with a coming version,
-(scrreprt)              that will remove this deprecated code.
-
-[50
-
-
-
-
-] [51] [52] [53] [54] [55] [56] [57] [58] [59]
-Overfull \hbox (5.0569pt too wide) in paragraph at lines 534--564
- [][] 
- []
-
-[60] [61]
-Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on input line 643.
-
-Underfull \hbox (badness 6526) in paragraph at lines 671--689
- []\TU/CMUSerif(0)/b/n/12 Ταξινόμηση με FinGPT και LoRA.[] \TU/CMUSerif(0)/m/n/12 Η ταξινόμηση του συναισθήματος
- []
-
-
-Underfull \hbox (badness 2042) in paragraph at lines 671--689
-\TU/CMUSerif(0)/m/n/12 κάθε άρθρου εκτελείται από ένα μεγάλο γλωσσικό μοντέλο βασισμένο στη βάση
- []
-
-[62]
-LaTeX Font Info:    Font shape `TU/CMUSerif(0)/b/sl' in size <10.95> not available
-(Font)              Font shape `TU/CMUSerif(0)/b/it' tried instead on input line 723.
- [63]
-File: ./figures/fingpt_score_distribution.png Graphic file (type bmp)
-<./figures/fingpt_score_distribution.png>
-File: ./figures/fingpt_monthly_volume.png Graphic file (type bmp)
-<./figures/fingpt_monthly_volume.png>
- [64] [65] [66]
-File: ./figures/fingpt_signal_composition.png Graphic file (type bmp)
-<./figures/fingpt_signal_composition.png>
-File: ./figures/fingpt_onehot_distribution.png Graphic file (type bmp)
-<./figures/fingpt_onehot_distribution.png>
- [67] [68] [69]
-Underfull \hbox (badness 2980) in paragraph at lines 1008--1013
-[]\TU/CMUSerif(0)/m/n/12 Το περιβάλλον μοντελοποιεί τη διαχείριση χαρτοφυλακίου $\OML/cmm/m/it/12 N$ \TU/CMUSerif(0)/m/n/12 κρυπτονομισμάτων
- []
-
-[70] [71] [72] [73] [74] [75]) [76]
-\openout2 = `chapter5/chapter5.aux'.
-
- (./chapter5/chapter5.tex
-chapter 5.
-
-Class scrreprt Warning: Redefinition of \@makechapterhead detected.
-(scrreprt)              Note: KOMA-Script does use styles for commands like
-(scrreprt)              \chapter. Currently it internally still provides and
-(scrreprt)              uses \@makechapterhead, but a completely different
-(scrreprt)              definition compared to the standard classes.
-(scrreprt)              So redefining or using internal \@makechapterhead
-(scrreprt)              by users or package authors may already break
-(scrreprt)              KOMA-Script and will not work with a coming version,
-(scrreprt)              that will remove this deprecated code.
-
-
-Underfull \hbox (badness 4316) in paragraph at lines 58--58
-[]|\TU/CMUSerif(0)/m/n/10.95 Αποτροπή παθητικής κατάρ-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 58--58
-[]|\TU/CMUSerif(0)/m/n/10.95 Ευαισθησία βέλτιστου πρά-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 58--58
-[]|\TU/CMUSerif(0)/m/n/10.95 Επίδραση μηχανισμού αντι-
- []
-
-
-Underfull \hbox (badness 2150) in paragraph at lines 58--58
-[]|\TU/CMUSerif(0)/m/n/10.95 Ανταλλαγή μεταξύ χρονικού
- []
-
-
-Underfull \hbox (badness 2671) in paragraph at lines 58--58
-\TU/CMUSerif(0)/m/n/10.95 ορίζοντα και ποικιλομορφίας
- []
-
-
-Underfull \hbox (badness 1609) in paragraph at lines 58--58
-\TU/CMUSerif(0)/m/n/10.95 λογίες Λαγκρανζιανής χαλά-
- []
-
-
-Underfull \hbox (badness 2717) in paragraph at lines 58--58
-\TU/CMUSerif(0)/m/n/10.95 στασης έναντι σύζευξης με
- []
-
-[77
-
-
-
-
-] [78] [79]
-File: ./figures/../../out/final_groups/trade/g2/cumulative_returns_mean.png Graphic file (type bmp)
-<./figures/../../out/final_groups/trade/g2/cumulative_returns_mean.png>
-File: ./figures/../../out/final_groups/train/g2/cumulative_returns_mean.png Graphic file (type bmp)
-<./figures/../../out/final_groups/train/g2/cumulative_returns_mean.png>
- [80] [81]
-File: ./figures/../../out/final_groups/trade/g1/cumulative_returns_mean.png Graphic file (type bmp)
-<./figures/../../out/final_groups/trade/g1/cumulative_returns_mean.png>
- [82] [83]
-File: ./figures/../../out/final_groups/train/g1/cumulative_returns_mean.png Graphic file (type bmp)
-<./figures/../../out/final_groups/train/g1/cumulative_returns_mean.png>
-File: ./figures/../../out/evaluate_training_groups/g1/convergence_plot.png Graphic file (type bmp)
-<./figures/../../out/evaluate_training_groups/g1/convergence_plot.png>
- [84] [85]
-File: ./figures/../figures/diagnostics_g1/lstm_pnl_cash-01.png Graphic file (type bmp)
-<./figures/../figures/diagnostics_g1/lstm_pnl_cash-01.png>
-LaTeX Info: Redefining \anw@print on input line 397.
-LaTeX Info: Redefining \anw@print on input line 397.
-File: ./figures/../figures/diagnostics_g1/lstm_pnl_fraction-04.png Graphic file (type bmp)
-<./figures/../figures/diagnostics_g1/lstm_pnl_fraction-04.png>
-LaTeX Info: Redefining \anw@print on input line 399.
-LaTeX Info: Redefining \anw@print on input line 399.
-File: ./figures/../figures/diagnostics_g1/mlp_pnl_cash-01.png Graphic file (type bmp)
-<./figures/../figures/diagnostics_g1/mlp_pnl_cash-01.png>
-LaTeX Info: Redefining \anw@print on input line 410.
-LaTeX Info: Redefining \anw@print on input line 410.
-File: ./figures/../figures/diagnostics_g1/mlp_pnl_fraction-04.png Graphic file (type bmp)
-<./figures/../figures/diagnostics_g1/mlp_pnl_fraction-04.png>
-LaTeX Info: Redefining \anw@print on input line 412.
-LaTeX Info: Redefining \anw@print on input line 412.
-File: ./figures/../../out/final_groups/trade/g3/cumulative_returns_mean.png Graphic file (type bmp)
-<./figures/../../out/final_groups/trade/g3/cumulative_returns_mean.png>
-File: ./figures/../../out/final_groups/trade/g3/cumulative_returns_relative_bnh.png Graphic file (type bmp)
-<./figures/../../out/final_groups/trade/g3/cumulative_returns_relative_bnh.png>
- [86]
-File: ./figures/../figures/diagnostics_g3/active_actions-06.png Graphic file (type bmp)
-<./figures/../figures/diagnostics_g3/active_actions-06.png>
- [87] [88] [89]
-File: ./figures/../../out/final_groups/trade/g4/cumulative_returns_mean.png Graphic file (type bmp)
-<./figures/../../out/final_groups/trade/g4/cumulative_returns_mean.png>
- [90]
-File: ./figures/../../out/final_groups/trade/g5/cumulative_returns_mean.png Graphic file (type bmp)
-<./figures/../../out/final_groups/trade/g5/cumulative_returns_mean.png>
- [91] [92]
-File: ./figures/../../out/final_groups/trade/g6/cumulative_returns_mean.png Graphic file (type bmp)
-<./figures/../../out/final_groups/trade/g6/cumulative_returns_mean.png>
- [93]
-File: ./figures/../../out/final_groups/trade/g7/cumulative_returns_mean.png Graphic file (type bmp)
-<./figures/../../out/final_groups/trade/g7/cumulative_returns_mean.png>
- [94]
-File: ./figures/../../out/final_groups/trade/g8_1/cumulative_returns_mean.png Graphic file (type bmp)
-<./figures/../../out/final_groups/trade/g8_1/cumulative_returns_mean.png>
- [95] [96]
-File: ./figures/../../out/final_groups/trade/g8_2/cumulative_returns_mean.png Graphic file (type bmp)
-<./figures/../../out/final_groups/trade/g8_2/cumulative_returns_mean.png>
- [97]
-File: ./figures/../figures/diagnostics_g8_2/ema_cash-01.png Graphic file (type bmp)
-<./figures/../figures/diagnostics_g8_2/ema_cash-01.png>
-LaTeX Info: Redefining \anw@print on input line 794.
-LaTeX Info: Redefining \anw@print on input line 794.
-File: ./figures/../figures/diagnostics_g8_2/ema_actions-06.png Graphic file (type bmp)
-<./figures/../figures/diagnostics_g8_2/ema_actions-06.png>
-LaTeX Info: Redefining \anw@print on input line 796.
-LaTeX Info: Redefining \anw@print on input line 796.
- [98]
-Underfull \hbox (badness 1616) in paragraph at lines 812--819
-[]\TU/CMUSerif(0)/m/n/12 Η ομάδα βελτιστοποίησης CPCV δεν εισάγει νέο μοντέλο αλλά μια διαδικασία
- []
-
-[99]
-LaTeX Font Info:    Font shape `TU/CMUTypewriterText(0)/m/sl' in size <10.95> not available
-(Font)              Font shape `TU/CMUTypewriterText(0)/m/it' tried instead on input line 827.
-File: ./figures/../../out/final_groups/trade/g9/cumulative_returns_mean.png Graphic file (type bmp)
-<./figures/../../out/final_groups/trade/g9/cumulative_returns_mean.png>
-File: ./figures/../../out/final_groups/trade/g9/cumulative_returns_relative_bnh.png Graphic file (type bmp)
-<./figures/../../out/final_groups/trade/g9/cumulative_returns_relative_bnh.png>
- [100] [101]
-File: ./figures/../../out/final_groups/trade/g12/cumulative_returns_mean.png Graphic file (type bmp)
-<./figures/../../out/final_groups/trade/g12/cumulative_returns_mean.png>
-File: ./figures/../../out/final_groups/trade/g12/cumulative_returns_relative_bnh.png Graphic file (type bmp)
-<./figures/../../out/final_groups/trade/g12/cumulative_returns_relative_bnh.png>
- [102]
-Underfull \hbox (badness 1902) in paragraph at lines 939--940
-[]\TU/CMUSerif(0)/m/n/12 Τα διαγνωστικά γραφήματα του πράκτορα Lagr. liquify 15/70% με συναίσθημα
- []
-
-[103]
-File: ./figures/../figures/diagnostics_g12/liquify_fraction-04.png Graphic file (type bmp)
-<./figures/../figures/diagnostics_g12/liquify_fraction-04.png>
-LaTeX Info: Redefining \anw@print on input line 950.
-LaTeX Info: Redefining \anw@print on input line 950.
-File: ./figures/../figures/diagnostics_g12/liquify_cash-01.png Graphic file (type bmp)
-<./figures/../figures/diagnostics_g12/liquify_cash-01.png>
-LaTeX Info: Redefining \anw@print on input line 952.
-LaTeX Info: Redefining \anw@print on input line 952.
- [104] [105]
-File: ./figures/../../out/final_groups/trade/g13/cumulative_returns_mean.png Graphic file (type bmp)
-<./figures/../../out/final_groups/trade/g13/cumulative_returns_mean.png>
- [106] [107]) [108] [109]
-\openout2 = `chapter6/chapter6.aux'.
-
- (./chapter6/chapter6.tex
-chapter 6.
-
-Class scrreprt Warning: Redefinition of \@makechapterhead detected.
-(scrreprt)              Note: KOMA-Script does use styles for commands like
-(scrreprt)              \chapter. Currently it internally still provides and
-(scrreprt)              uses \@makechapterhead, but a completely different
-(scrreprt)              definition compared to the standard classes.
-(scrreprt)              So redefining or using internal \@makechapterhead
-(scrreprt)              by users or package authors may already break
-(scrreprt)              KOMA-Script and will not work with a coming version,
-(scrreprt)              that will remove this deprecated code.
-
-[110
-
-
-
-
-]) [111] [112] (./main.bbl (./main.brf)
-\tf@brf=\write10
-\openout10 = `main.brf'.
-
-
-
-Class scrreprt Warning: Redefinition of \@makeschapterhead detected.
-(scrreprt)              Note: KOMA-Script does use styles for commands like
-(scrreprt)              \chapter. Currently it internally still provides and
-(scrreprt)              uses \@makeschapterhead, but a completely different
-(scrreprt)              definition compared to the standard classes.
-(scrreprt)              So redefining or using internal \@makeschapterhead
-(scrreprt)              by users or package authors may already break
-(scrreprt)              KOMA-Script and will not work with a coming version,
-(scrreprt)              that will remove this deprecated code.
-
-[113
-
-
-
-]
-Underfull \hbox (badness 1655) in paragraph at lines 127--127
-[]\TU/CMUSerif(0)/m/n/10.95 Will Dabney, Mark Rowland, Marc Bellemare, and Rémi Munos.  Distributional
- []
-
-[114] [115] [116] [117] [118] [119]
-Underfull \hbox (badness 2762) in paragraph at lines 499--499
-[]\TU/CMUSerif(0)/m/n/10.95 Nitish Srivastava, Geoffrey Hinton, Alex Krizhevsky, Ilya Sutskever, and Ruslan
- []
-
-[120]) [121] (./main.aux (./title/title.aux) (./declaration/declaration.aux) (./abstract/abstract.aux) (./acknowledgements/acknowledgements.aux) (./chapter1/chapter1.aux) (./chapter2/chapter2.aux) (./chapter3/chapter3.aux) (./chapter4/chapter4.aux) (./chapter5/chapter5.aux) (./chapter6/chapter6.aux))
- ***********
-LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2020/03/25>
- ***********
-
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
-
-LaTeX Warning: There were multiply-defined labels.
-
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package rerunfilecheck Info: File `main.brf' has not changed.
-(rerunfilecheck)             Checksum: 97F903D324125738F8889E3E95420FC5;11990.
- ) 
-Here is how much of TeX's memory you used:
- 43951 strings out of 474878
- 927774 string characters out of 5762516
- 1936627 words of memory out of 5000000
- 65079 multiletter control sequences out of 15000+600000
- 572226 words of font info for 164 fonts, out of 8000000 for 9000
- 1348 hyphenation exceptions out of 8191
- 131i,14n,125p,10954b,946s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-Output written on main.pdf (138 pages).
+Underfull \hbox (badness 1552) in paragr

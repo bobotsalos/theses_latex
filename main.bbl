@@ -417,6 +417,11 @@ Vinod Nair and Geoffrey~E. Hinton.
 \newblock Rectified linear units improve restricted boltzmann machines.
 \newblock In {\em Proceedings of the 27th International Conference on Machine Learning (ICML)}, pages 807--814, 2010.
 
+\bibitem{pang2008opinion}
+Bo~Pang and Lillian Lee.
+\newblock {\em Opinion mining and sentiment analysis}.
+\newblock Now Publishers Inc, 2008.
+
 \bibitem{pang2002sentiment}
 Bo~Pang, Lillian Lee, and Shivakumar Vaithyanathan.
 \newblock Thumbs up? sentiment classification using machine learning techniques.
