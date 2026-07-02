@@ -30,6 +30,11 @@ Kai Arulkumaran, Marc~Peter Deisenroth, Miles Brundage, and Anil~Anthony Bharath
 \newblock Deep reinforcement learning: A brief survey.
 \newblock {\em IEEE Signal Processing Magazine}, 34(6):26--38, 2017.
 
+\bibitem{avramelou2024deep}
+Loukia Avramelou, Paraskevi Nousi, Nikolaos Passalis, and Anastasios Tefas.
+\newblock Deep reinforcement learning for financial trading using multi-modal features.
+\newblock {\em Expert Systems with Applications}, 238:121849, 2024.
+
 \bibitem{bekiros2010}
 Stelios~D. Bekiros.
 \newblock Fuzzy adaptive decision-making for boundedly rational traders in speculative stock markets.
@@ -114,6 +119,11 @@ Gunduz Caginalp and Henri Laurent.
 Kyunghyun Cho, Bart van Merri{\"e}nboer, Caglar Gulcehre, Dzmitry Bahdanau, Fethi Bougares, Holger Schwenk, and Yoshua Bengio.
 \newblock Learning phrase representations using rnn encoder--decoder for statistical machine translation.
 \newblock In {\em Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP)}, pages 1724--1734, 2014.
+
+\bibitem{chung2014gru}
+Junyoung Chung, Caglar Gulcehre, KyungHyun Cho, and Yoshua Bengio.
+\newblock Empirical evaluation of gated recurrent neural networks on sequence modeling.
+\newblock {\em arXiv preprint arXiv:1412.3555}, 2014.
 
 \bibitem{cybenko1989}
 George Cybenko.
@@ -215,6 +225,11 @@ Ben Hambly, Renyuan Xu, and Huining Yang.
 \newblock Recent advances in reinforcement learning in finance.
 \newblock {\em Mathematical Finance}, 33(3):437--503, 2023.
 
+\bibitem{harris2003trading}
+Larry Harris.
+\newblock {\em Trading and Exchanges: Market Microstructure for Practitioners}.
+\newblock Oxford University Press, 2003.
+
 \bibitem{hastie2009}
 Trevor Hastie, Robert Tibshirani, and Jerome Friedman.
 \newblock {\em The Elements of Statistical Learning: Data Mining, Inference, and Prediction}.
@@ -294,6 +309,11 @@ Leslie~Pack Kaelbling, Michael~L. Littman, and Anthony~R. Cassandra.
 \newblock Planning and acting in partially observable stochastic domains.
 \newblock {\em Artificial Intelligence}, 101(1--2):99--134, 1998.
 
+\bibitem{kaplan2020scaling}
+Jared Kaplan, Sam McCandlish, Tom Henighan, Tom~B. Brown, Benjamin Chess, Rewon Child, Scott Gray, Alec Radford, Jeffrey Wu, and Dario Amodei.
+\newblock Scaling laws for neural language models.
+\newblock {\em arXiv preprint arXiv:2001.08361}, 2020.
+
 \bibitem{kingma2014adam}
 Diederik~P. Kingma and Jimmy Ba.
 \newblock Adam: A method for stochastic optimization.
@@ -333,6 +353,11 @@ Yukun Liu and Aleh Tsyvinski.
 Yukun Liu, Aleh Tsyvinski, and Xi~Wu.
 \newblock Common risk factors in cryptocurrency.
 \newblock {\em The Journal of Finance}, 77(2):1133--1177, 2022.
+
+\bibitem{lo2004adaptive}
+Andrew~W. Lo.
+\newblock The adaptive markets hypothesis: Market efficiency from an evolutionary perspective.
+\newblock {\em The Journal of Portfolio Management}, 30(5):15--29, 2004.
 
 \bibitem{lo2017adaptive}
 Andrew~W Lo.
@@ -412,6 +437,11 @@ John Moody and Matthew Saffell.
 \newblock Learning to trade via direct reinforcement.
 \newblock {\em IEEE Transactions on Neural Networks}, 12(4):875--889, 2001.
 
+\bibitem{murphy1999technical}
+John~J. Murphy.
+\newblock {\em Technical Analysis of the Financial Markets: A Comprehensive Guide to Trading Methods and Applications}.
+\newblock New York Institute of Finance, 1999.
+
 \bibitem{nagabandi2018mbmf}
 Anusha Nagabandi, Gregory Kahn, Ronald~S Fearing, and Sergey Levine.
 \newblock Neural network dynamics for model-based deep reinforcement learning with model-free fine-tuning.
@@ -421,6 +451,16 @@ Anusha Nagabandi, Gregory Kahn, Ronald~S Fearing, and Sergey Levine.
 Vinod Nair and Geoffrey~E. Hinton.
 \newblock Rectified linear units improve restricted boltzmann machines.
 \newblock In {\em Proceedings of the 27th International Conference on Machine Learning (ICML)}, pages 807--814, 2010.
+
+\bibitem{neuneier1996asset}
+Ralph Neuneier.
+\newblock Optimal asset allocation using adaptive dynamic programming.
+\newblock In {\em Advances in Neural Information Processing Systems (NIPS)}, volume~8, pages 952--958. MIT Press, 1996.
+
+\bibitem{neuneier1998qlearning}
+Ralph Neuneier.
+\newblock Enhancing q-learning for optimal asset allocation.
+\newblock In {\em Advances in Neural Information Processing Systems (NIPS)}, volume~10, pages 936--942. MIT Press, 1998.
 
 \bibitem{pang2008opinion}
 Bo~Pang and Lillian Lee.
@@ -538,6 +578,11 @@ Paul~C. Tetlock.
 \newblock Giving content to investor sentiment: The role of media in the stock market.
 \newblock {\em The Journal of Finance}, 62(3):1139--1168, 2007.
 
+\bibitem{touvron2023llama}
+Hugo Touvron, Thibaut Lavril, Gautier Izacard, Xavier Martinet, Marie-Anne Lachaux, Timoth{\'e}e Lacroix, Baptiste Rozi{\`e}re, Naman Goyal, Eric Hambro, Faisal Azhar, Aurelien Rodriguez, Armand Joulin, Edouard Grave, and Guillaume Lample.
+\newblock Llama: Open and efficient foundation language models.
+\newblock {\em arXiv preprint arXiv:2302.13971}, 2023.
+
 \bibitem{vaswani2017attention}
 Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan~N. Gomez, {\L}ukasz Kaiser, and Illia Polosukhin.
 \newblock Attention is all you need.
@@ -567,6 +612,11 @@ Hongyang Yang, Xiao-Yang Liu, and Christina~Dan Wang.
 Hongyang Yang, Xiao-Yang Liu, Shan Zhong, and Anwar Walid.
 \newblock Deep reinforcement learning for automated stock trading: An ensemble strategy.
 \newblock In {\em Proceedings of the First ACM International Conference on AI in Finance (ICAIF)}, pages 1--8, 2020.
+
+\bibitem{yu2021healthcare}
+Chao Yu, Jiming Liu, Shamim Nemati, and Guosheng Yin.
+\newblock Reinforcement learning in healthcare: A survey.
+\newblock {\em ACM Computing Surveys}, 55(1):1--36, 2021.
 
 \bibitem{zhang2019deeplob}
 Zihao Zhang, Stefan Zohren, and Stephen Roberts.

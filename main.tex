@@ -10,6 +10,12 @@
 \sloppy
 % -------------------------------------------------------------
 
+% Title and declaration pages carry no page numbering at all (not even
+% hidden roman numerals), so their pages must not receive PDF page
+% anchors either -- otherwise they collide with the later anchors of
+% the arabic-numbered main matter and hyperlinks/backrefs resolve to
+% the wrong page.
+\hypersetup{pageanchor=false}
 
 % -------------------------------------------------------------
 % Title page
@@ -17,14 +23,15 @@
 \include{title/title}
 % -------------------------------------------------------------
 
-\pagenumbering{roman}
-
 % -------------------------------------------------------------
 % Declaration
 % -------------------------------------------------------------
 \include{declaration/declaration}
 \newpage
 %--------------------------------------------------------------
+
+\hypersetup{pageanchor=true}
+\pagenumbering{roman}
 
 %--------------------------------------------------------------
 % Acknowledgements
@@ -146,4 +153,4 @@
 
 % -------------------------------------------------------------
 
- \end{document}
+\end{document}

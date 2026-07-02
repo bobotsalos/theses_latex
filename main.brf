@@ -1,9 +1,9 @@
-\backcite {vaswani2017attention}{{xi}{(document)}{Doc-Start}}
+\backcite {vaswani2017attention}{{x}{(document)}{Doc-Start}}
 \backcite {russell2020ai, jordan2015ml}{{1}{1.1}{section.1.1}}
 \backcite {mitchell1997}{{1}{1.1}{section.1.1}}
 \backcite {lecun2015deeplearning}{{1}{1.1}{section.1.1}}
 \backcite {sutton2018rl}{{1}{1.1}{section.1.1}}
-\backcite {arulkumaran2017drlsurvey, henderson2018deep, kober2013robotics}{{1}{1.1}{section.1.1}}
+\backcite {arulkumaran2017drlsurvey, yu2021healthcare, kober2013robotics}{{1}{1.1}{section.1.1}}
 \backcite {goodfellow2016}{{1}{1.1}{section.1.1}}
 \backcite {hambly2023rlfinance, lopezdeprado2018}{{1}{1.1}{section.1.1}}
 \backcite {lopezdeprado2018, hambly2023rlfinance}{{2}{1.1}{section.1.1}}
@@ -13,7 +13,7 @@
 \backcite {bollen2011twitter}{{2}{1.1}{section.1.1}}
 \backcite {brown2020gpt3}{{2}{1.1}{section.1.1}}
 \backcite {moody2001rltrading, deng2016drltrading, hambly2023rlfinance}{{2}{1.2}{section.1.2}}
-\backcite {tetlock2007, bollen2011twitter}{{3}{1.2}{section.1.2}}
+\backcite {kraaijeveld2020twitter}{{3}{1.2}{section.1.2}}
 \backcite {mnih2015dqn}{{6}{2.1}{section.2.1}}
 \backcite {silver2016alphago}{{6}{2.1}{section.2.1}}
 \backcite {kober2013robotics}{{6}{2.1}{section.2.1}}
@@ -28,10 +28,10 @@
 \backcite {sezer2018cnn}{{7}{2.3}{section.2.3}}
 \backcite {zhang2019deeplob}{{7}{2.3}{section.2.3}}
 \backcite {moody2001rltrading}{{7}{2.3}{section.2.3}}
-\backcite {moody2001rltrading}{{8}{2.4}{section.2.4}}
+\backcite {neuneier1998qlearning}{{8}{2.4}{section.2.4}}
 \backcite {liu2018finrl}{{8}{2.4}{section.2.4}}
 \backcite {yang2020ensemble}{{8}{2.4}{section.2.4}}
-\backcite {kaelbling1998pomdp, hausknecht2015drqn, gort2022finrlcrypto}{{8}{2.4}{section.2.4}}
+\backcite {kaelbling1998pomdp, hausknecht2015drqn}{{8}{2.4}{section.2.4}}
 \backcite {tetlock2007, benhenda2025finrldeepseek}{{8}{2.5}{section.2.5}}
 \backcite {fama1970emh, fama1969adjustment, malkiel2003efficient, brilhante2024efficient}{{8}{2.5}{section.2.5}}
 \backcite {bernard1989pead}{{8}{2.5}{section.2.5}}
@@ -39,6 +39,7 @@
 \backcite {bollen2011twitter, kraaijeveld2020twitter}{{9}{2}{Item.4}}
 \backcite {loughran2011}{{9}{2.5.2}{subsection.2.5.2}}
 \backcite {araci2019finbert}{{9}{2.5.2}{subsection.2.5.2}}
+\backcite {touvron2023llama}{{9}{2.5.2}{subsection.2.5.2}}
 \backcite {yang2023fingpt}{{9}{2.5.2}{subsection.2.5.2}}
 \backcite {hu2021lora}{{9}{2.5.2}{subsection.2.5.2}}
 \backcite {yang2023fingpt}{{9}{2.5.2}{subsection.2.5.2}}
@@ -91,12 +92,13 @@
 \backcite {cho2014gru}{{26}{3.2.5}{equation.3.2.28}}
 \backcite {hambly2023rlfinance}{{26}{3.2.5}{paragraph*.56}}
 \backcite {cho2014gru}{{27}{3.2.5}{paragraph*.58}}
+\backcite {chung2014gru}{{27}{3.2.5}{equation.3.2.32}}
 \backcite {sutton2018rl}{{28}{3.3.1}{subsection.3.3.1}}
 \backcite {bellman1957}{{29}{3.3.2}{equation.3.3.36}}
 \backcite {kaelbling1998pomdp}{{30}{3.3.3}{subsection.3.3.3}}
 \backcite {hausknecht2015drqn}{{30}{3.3.4}{subsection.3.3.4}}
 \backcite {altman1999cmdp}{{31}{3.3.5}{subsection.3.3.5}}
-\backcite {achiam2017cpo}{{31}{3.3.5}{equation.3.3.41}}
+\backcite {tessler2018rcpo, altman1999cmdp}{{31}{3.3.5}{equation.3.3.41}}
 \backcite {sutton1999policygradient}{{32}{3.3.6}{paragraph*.61}}
 \backcite {williams1992reinforce}{{32}{3.3.6}{equation.3.3.43}}
 \backcite {mnih2016a3c}{{32}{3.3.6}{equation.3.3.44}}
@@ -128,7 +130,7 @@
 \backcite {brown2020gpt3}{{38}{3.4.3}{equation.3.4.54}}
 \backcite {vaswani2017attention}{{39}{3.11}{figure.caption.84}}
 \backcite {araci2019finbert}{{39}{3.4.4}{subsection.3.4.4}}
-\backcite {brown2020gpt3}{{40}{3.4.5}{subsection.3.4.5}}
+\backcite {kaplan2020scaling, brown2020gpt3}{{40}{3.4.5}{subsection.3.4.5}}
 \backcite {brown2020gpt3}{{40}{3.4.5}{subsection.3.4.5}}
 \backcite {brown2020gpt3}{{40}{1}{Item.5}}
 \backcite {devlin2019bert}{{40}{1}{Item.5}}
@@ -144,14 +146,14 @@
 \backcite {bernard1989pead}{{44}{3.5.1}{paragraph*.90}}
 \backcite {lo2011non}{{45}{3.5.1}{paragraph*.90}}
 \backcite {malkiel2003efficient, griffin2020bitcoin}{{45}{3.5.1}{paragraph*.90}}
-\backcite {lo2017adaptive}{{45}{3.5.1}{paragraph*.90}}
+\backcite {lo2004adaptive, lo2017adaptive}{{45}{3.5.1}{paragraph*.90}}
 \backcite {teall2022financial}{{45}{3.5.2}{paragraph*.92}}
 \backcite {hambly2023rlfinance}{{46}{3.5.3}{equation.3.5.60}}
 \backcite {jensen1968alpha}{{47}{3.5.4}{equation.3.5.61}}
 \backcite {sharpe1966}{{47}{3.5.4}{paragraph*.99}}
 \backcite {sortino1991downside}{{47}{3.5.4}{equation.3.5.62}}
-\backcite {hendershott2011algtrading}{{48}{3.5.5}{subsection.3.5.5}}
-\backcite {moody2001rltrading}{{48}{3.5.5}{subsection.3.5.5}}
+\backcite {harris2003trading}{{48}{3.5.5}{subsection.3.5.5}}
+\backcite {neuneier1996asset}{{48}{3.5.5}{subsection.3.5.5}}
 \backcite {moody2001rltrading,deng2016drltrading}{{49}{3.5.6}{subsection.3.5.6}}
 \backcite {lopezdeprado2018}{{49}{3.5.6}{subsection.3.5.6}}
 \backcite {lopezdeprado2018}{{49}{3.5.6}{subsection.3.5.6}}
@@ -167,27 +169,28 @@
 \backcite {gort2022finrlcrypto}{{51}{4}{chapter.4}}
 \backcite {benhenda2025finrldeepseek}{{51}{4}{chapter.4}}
 \backcite {yang2023fingpt}{{51}{4}{chapter.4}}
+\backcite {liutsyvinski2021, griffin2020bitcoin}{{52}{4.1.1}{subsection.4.1.1}}
 \backcite {yang2023fingpt}{{54}{4.1.2}{paragraph*.107}}
 \backcite {benhenda2025finrldeepseek}{{54}{4.1.3}{subsection.4.1.3}}
 \backcite {liu2018finrl}{{54}{4.1.3}{subsection.4.1.3}}
+\backcite {liutsyvinski2021, griffin2020bitcoin}{{54}{4.1.3}{subsection.4.1.3}}
 \backcite {gort2022finrlcrypto}{{56}{4.2.2}{subsection.4.2.2}}
-\backcite {brock1992}{{56}{4.2.2}{equation.4.2.1}}
-\backcite {brock1992}{{56}{4.2.2}{equation.4.2.4}}
+\backcite {murphy1999technical}{{56}{4.2.2}{equation.4.2.1}}
+\backcite {murphy1999technical}{{56}{4.2.2}{equation.4.2.4}}
 \backcite {wilder1978}{{57}{4.2.2}{paragraph*.115}}
-\backcite {brock1992}{{58}{4.2.2}{equation.4.2.10}}
+\backcite {murphy1999technical}{{58}{4.2.2}{equation.4.2.10}}
 \backcite {wilder1978}{{58}{4.2.2}{paragraph*.119}}
-\backcite {caginalplaurent1998}{{59}{4.2.2}{equation.4.2.20}}
+\backcite {avramelou2024deep}{{59}{4.2.2}{equation.4.2.20}}
 \backcite {liutsyvinski2021}{{60}{4.2.2}{equation.4.2.27}}
 \backcite {liutsyvinski2021}{{60}{4.2.2}{equation.4.2.27}}
 \backcite {wilder1978}{{61}{4.2.2}{paragraph*.135}}
 \backcite {jegadeesh1993}{{61}{4.2.2}{equation.4.2.30}}
 \backcite {liu2022common}{{61}{4.2.2}{equation.4.2.30}}
 \backcite {grinoldkahn1999}{{61}{4.2.2}{equation.4.2.30}}
-\backcite {gukelly2020}{{63}{4.2.3}{equation.4.2.31}}
-\backcite {gukelly2020}{{63}{4.2.3}{equation.4.2.32}}
 \backcite {hu2021lora}{{64}{4.2.4}{paragraph*.148}}
 \backcite {yang2023fingpt}{{64}{4.2.4}{paragraph*.148}}
 \backcite {pang2008opinion}{{66}{4.2.5}{subsection.4.2.5}}
+\backcite {tetlock2007, loughran2011}{{66}{4.2.5}{subsection.4.2.5}}
 \backcite {kaelbling1998pomdp}{{70}{4.4}{section.4.4}}
 \backcite {sutton2018rl}{{71}{4.4.3}{subsection.4.4.3}}
 \backcite {garcia2015safe,tessler2018rcpo}{{71}{4.4.3}{subsection.4.4.3}}

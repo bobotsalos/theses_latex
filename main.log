@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2025.9.20)  2 JUL 2026 00:12
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2025.9.20)  2 JUL 2026 20:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1026,6 +1026,8 @@ File: puenc-greek.def 2023-09-12 2.5 Greek LICRs for PDF strings
  (/usr/share/texlive/texmf-dist/tex/latex/greek-fontenc/greek-fontenc.def
 File: greek-fontenc.def 2023-09-12 2.5 Common Greek font encoding definitions
 )))
+Package hyperref Info: Option `plainpages' set `false' on input line 4062.
+Package hyperref Info: Option `pdfpagelabels' set `true' on input line 4062.
 Package hyperref Info: Hyper figures OFF on input line 4179.
 Package hyperref Info: Link nesting OFF on input line 4184.
 Package hyperref Info: Hyper index ON on input line 4187.
@@ -1332,6 +1334,7 @@ Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
 File: bkm-dvipdfm.def 2023-12-10 v1.31 bookmark driver for dvipdfm (HO)
 \BKM@id=\count416
 ))
+Package hyperref Info: Option `pageanchor' set `false' on input line 18.
 \openout2 = `title/title.aux'.
 
  (./title/title.tex
@@ -1374,11 +1377,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 85--90
 [3])
 \openout2 = `declaration/declaration.aux'.
 
- (./declaration/declaration.tex) [1
+ (./declaration/declaration.tex) [4
 
 
 
 ]
+Package hyperref Info: Option `pageanchor' set `true' on input line 33.
 \openout2 = `acknowledgements/acknowledgements.aux'.
 
  (./acknowledgements/acknowledgements.tex
@@ -1399,7 +1403,7 @@ LaTeX Font Info:    No file TUput.fd. on input line 10.
 LaTeX Font Warning: Font shape `TU/put/b/n' undefined
 (Font)              using `TU/lmr/m/n' instead on input line 10.
 
-) [2
+) [1
 
 
 
@@ -1419,26 +1423,12 @@ Class scrreprt Warning: Redefinition of \@makeschapterhead detected.
 (scrreprt)              KOMA-Script and will not work with a coming version,
 (scrreprt)              that will remove this deprecated code.
 
-[3
+[2
 
 
 
 
-] [4]
-
-Class scrreprt Warning: Redefinition of \@makeschapterhead detected.
-(scrreprt)              Note: KOMA-Script does use styles for commands like
-(scrreprt)              \chapter. Currently it internally still provides and
-(scrreprt)              uses \@makeschapterhead, but a completely different
-(scrreprt)              definition compared to the standard classes.
-(scrreprt)              So redefining or using internal \@makeschapterhead
-(scrreprt)              by users or package authors may already break
-(scrreprt)              KOMA-Script and will not work with a coming version,
-(scrreprt)              that will remove this deprecated code.
-
-[5
-
-]) [6]
+] [3]
 
 Class scrreprt Warning: Redefinition of \@makeschapterhead detected.
 (scrreprt)              Note: KOMA-Script does use styles for commands like
@@ -1450,11 +1440,25 @@ Class scrreprt Warning: Redefinition of \@makeschapterhead detected.
 (scrreprt)              KOMA-Script and will not work with a coming version,
 (scrreprt)              that will remove this deprecated code.
 
-(./main.toc [7
+[4
+
+]) [5]
+
+Class scrreprt Warning: Redefinition of \@makeschapterhead detected.
+(scrreprt)              Note: KOMA-Script does use styles for commands like
+(scrreprt)              \chapter. Currently it internally still provides and
+(scrreprt)              uses \@makeschapterhead, but a completely different
+(scrreprt)              definition compared to the standard classes.
+(scrreprt)              So redefining or using internal \@makeschapterhead
+(scrreprt)              by users or package authors may already break
+(scrreprt)              KOMA-Script and will not work with a coming version,
+(scrreprt)              that will remove this deprecated code.
+
+(./main.toc [6
 
 
 
-] [8] [9]
+] [7] [8]
 Overfull \hbox (2.09996pt too wide) detected at line 189
  \TU/CMUSerif(0)/b/n/12 115
  []
@@ -1468,7 +1472,7 @@ Overfull \hbox (2.09996pt too wide) detected at line 190
 \tf@toc=\write7
 \openout7 = `main.toc'.
 
- [10]
+ [9]
 
 Class scrreprt Warning: Redefinition of \@makeschapterhead detected.
 (scrreprt)              Note: KOMA-Script does use styles for commands like
@@ -1480,14 +1484,14 @@ Class scrreprt Warning: Redefinition of \@makeschapterhead detected.
 (scrreprt)              KOMA-Script and will not work with a coming version,
 (scrreprt)              that will remove this deprecated code.
 
-(./main.lof [11
+(./main.lof [10
 
 
-] [12])
+] [11])
 \tf@lof=\write8
 \openout8 = `main.lof'.
 
- [13]
+ [12]
 
 Class scrreprt Warning: Redefinition of \@makeschapterhead detected.
 (scrreprt)              Note: KOMA-Script does use styles for commands like
@@ -1499,7 +1503,7 @@ Class scrreprt Warning: Redefinition of \@makeschapterhead detected.
 (scrreprt)              KOMA-Script and will not work with a coming version,
 (scrreprt)              that will remove this deprecated code.
 
-(./main.lot [14
+(./main.lot [13
 
 
 ]
@@ -1516,7 +1520,7 @@ Underfull \hbox (badness 3302) in paragraph at lines 24--24
 \tf@lot=\write9
 \openout9 = `main.lot'.
 
- [15]
+ [14]
 \openout2 = `chapter1/chapter1.aux'.
 
  (./chapter1/chapter1.tex
@@ -1950,17 +1954,17 @@ Class scrreprt Warning: Redefinition of \@makeschapterhead detected.
 
 
 
-]
-Underfull \hbox (badness 1655) in paragraph at lines 127--127
+] [119]
+Underfull \hbox (badness 1655) in paragraph at lines 137--137
 []\TU/CMUSerif(0)/m/n/10.95 Will Dabney, Mark Rowland, Marc Bellemare, and Rémi Munos.  Distributional
  []
 
-[119] [120] [121] [122] [123] [124]
-Underfull \hbox (badness 2762) in paragraph at lines 514--514
+[120] [121] [122] [123] [124] [125]
+Underfull \hbox (badness 2762) in paragraph at lines 554--554
 []\TU/CMUSerif(0)/m/n/10.95 Nitish Srivastava, Geoffrey Hinton, Alex Krizhevsky, Ilya Sutskever, and Ruslan
  []
 
-[125]) [126] (./main.aux (./title/title.aux) (./declaration/declaration.aux) (./acknowledgements/acknowledgements.aux) (./abstract/abstract.aux) (./chapter1/chapter1.aux) (./chapter2/chapter2.aux) (./chapter3/chapter3.aux) (./chapter4/chapter4.aux) (./chapter5/chapter5.aux) (./chapter6/chapter6.aux))
+[126]) [127] (./main.aux (./title/title.aux) (./declaration/declaration.aux) (./acknowledgements/acknowledgements.aux) (./abstract/abstract.aux) (./chapter1/chapter1.aux) (./chapter2/chapter2.aux) (./chapter3/chapter3.aux) (./chapter4/chapter4.aux) (./chapter5/chapter5.aux) (./chapter6/chapter6.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
@@ -1975,15 +1979,15 @@ LaTeX Warning: There were multiply-defined labels.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package rerunfilecheck Info: File `main.brf' has not changed.
-(rerunfilecheck)             Checksum: F443F8E31286EEF65A3D0C2B9024AFF7;12100.
+(rerunfilecheck)             Checksum: 4B116638D937AD7F7269504FDD9C6B06;12379.
  ) 
 Here is how much of TeX's memory you used:
- 43936 strings out of 474878
- 928607 string characters out of 5762516
- 1937627 words of memory out of 5000000
- 65068 multiletter control sequences out of 15000+600000
+ 43976 strings out of 474878
+ 929411 string characters out of 5762516
+ 1938627 words of memory out of 5000000
+ 65108 multiletter control sequences out of 15000+600000
  572234 words of font info for 165 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  131i,14n,125p,10954b,925s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (144 pages).
+Output written on main.pdf (145 pages).
