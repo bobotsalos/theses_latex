@@ -1,0 +1,190 @@
+\contentsline {chapter}{Ευχαριστίες}{ii}{chapter*.4}%
+\contentsline {chapter}{Περίληψη}{iii}{chapter*.5}%
+\contentsline {chapter}{Abstract}{v}{chapter*.6}%
+\contentsline {chapter}{Περιεχόμενα}{vii}{chapter*.7}%
+\contentsline {chapter}{Κατάλογος Σχημάτων}{xi}{chapter*.8}%
+\contentsline {chapter}{Κατάλογος πινάκων}{xiv}{chapter*.9}%
+\contentsline {chapter}{\numberline {1}Εισαγωγή}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Πλαίσιο \& Κίνητρο}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Διατύπωση προβλήματος}{2}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Στόχος και προτεινόμενη προσέγγιση}{3}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Συνεισφορές}{4}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Δομή Εργασίας}{5}{section.1.5}%
+\contentsline {chapter}{\numberline {2}Επισκόπηση της Ερευνητικής Περιοχής}{6}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Από τα Κλειστά Προσομοιωμένα Περιβάλλοντα στα Ανοιχτά Στοχαστικά Συστήματα}{6}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Μηχανική Μάθηση στις Αγορές}{7}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Βαθιά Μάθηση στις Χρηματοοικονομικές Συναλλαγές}{7}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Ενισχυτική Μάθηση και Ακολουθιακή Λήψη Αποφάσεων}{8}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Ανάλυση Συναισθήματος και Εναλλακτικά Δεδομένα}{8}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}Οικονομικές Ειδήσεις και Μέσα Κοινωνικής Δικτύωσης}{9}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.2}Από τα Λεξικά στα Μεγάλα Γλωσσικά Μοντέλα (LLMs)}{9}{subsection.2.5.2}%
+\contentsline {chapter}{\numberline {3}Θεωρητικό Υπόβαθρο}{11}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Μηχανική Μάθηση}{12}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Επιβλεπόμενη Μάθηση}{12}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Μη Επιβλεπόμενη Μάθηση}{13}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}Ενισχυτική Μάθηση}{14}{subsection.3.1.3}%
+\contentsline {section}{\numberline {3.2}Νευρωνικά Δίκτυα και Βαθιά Μάθηση}{16}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Μονοεπίπεδα και Πολυεπίπεδα Δίκτυα Πρόσθιας Τροφοδότησης}{17}{subsection.3.2.1}%
+\contentsline {paragraph}{\nonumberline Ο τεχνητός νευρώνας.}{17}{paragraph*.15}%
+\contentsline {paragraph}{\nonumberline Ο περιορισμός της γραμμικής διαχωρισιμότητας.}{18}{paragraph*.18}%
+\contentsline {paragraph}{\nonumberline Πολυεπίπεδα Δίκτυα Πρόσθιας Τροφοδότησης.}{18}{paragraph*.20}%
+\contentsline {paragraph}{\nonumberline Θεώρημα Καθολικής Προσέγγισης.}{19}{paragraph*.23}%
+\contentsline {subsection}{\numberline {3.2.2}Συναρτήσεις Ενεργοποίησης}{20}{subsection.3.2.2}%
+\contentsline {paragraph}{\nonumberline Λογιστική / Σιγμοειδής (Sigmoid).}{20}{paragraph*.25}%
+\contentsline {paragraph}{\nonumberline Υπερβολική Εφαπτομένη (Tanh).}{20}{paragraph*.27}%
+\contentsline {paragraph}{\nonumberline Διορθωμένη Γραμμική Μονάδα (ReLU).}{20}{paragraph*.29}%
+\contentsline {paragraph}{\nonumberline Σιγμοειδής Γραμμική Μονάδα (SiLU / Swish).}{21}{paragraph*.31}%
+\contentsline {paragraph}{\nonumberline GELU και Softmax.}{21}{paragraph*.33}%
+\contentsline {paragraph}{\nonumberline Softplus.}{21}{paragraph*.35}%
+\contentsline {subsection}{\numberline {3.2.3}Συναρτήσεις Σφάλματος / Κόστους}{21}{subsection.3.2.3}%
+\contentsline {paragraph}{\nonumberline Προβλήματα παλινδρόμησης.}{22}{paragraph*.38}%
+\contentsline {paragraph}{\nonumberline Προβλήματα ταξινόμησης.}{22}{paragraph*.40}%
+\contentsline {subsection}{\numberline {3.2.4}Εκπαίδευση Νευρωνικών Δικτύων}{23}{subsection.3.2.4}%
+\contentsline {paragraph}{\nonumberline Κατάβαση Κλίσης και Οπισθοδιάδοση.}{23}{paragraph*.42}%
+\contentsline {paragraph}{\nonumberline Στοχαστική και κατά παρτίδες κατάβαση.}{23}{paragraph*.45}%
+\contentsline {paragraph}{\nonumberline Βελτιστοποιητής Adam.}{24}{paragraph*.47}%
+\contentsline {paragraph}{\nonumberline Κανονικοποίηση και αντιμετώπιση της υπερπροσαρμογής.}{24}{paragraph*.49}%
+\contentsline {subsection}{\numberline {3.2.5}Αναδρομικά Δίκτυα και Δίκτυα Μακράς Βραχύχρονης Μνήμης (LSTM)}{25}{subsection.3.2.5}%
+\contentsline {paragraph}{\nonumberline Αναδρομικά Νευρωνικά Δίκτυα.}{25}{paragraph*.51}%
+\contentsline {paragraph}{\nonumberline Η αρχιτεκτονική LSTM.}{26}{paragraph*.54}%
+\contentsline {paragraph}{\nonumberline Σημασία για μερικώς παρατηρήσιμα περιβάλλοντα.}{26}{paragraph*.56}%
+\contentsline {paragraph}{\nonumberline Πυλωτή Αναδρομική Μονάδα (GRU).}{27}{paragraph*.58}%
+\contentsline {section}{\numberline {3.3}Βαθιά Ενισχυτική Μάθηση}{27}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Μαρκοβιανές Διαδικασίες Απόφασης (MDP)}{28}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Εξισώσεις Bellman}{29}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Μερικώς Παρατηρήσιμη Μαρκοβιανή Διαδικασία Απόφασης (POMDP)}{29}{subsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.3.4}Πράκτορες που Λαμβάνουν Υπόψη τη Μερική Παρατηρησιμότητα}{30}{subsection.3.3.4}%
+\contentsline {subsection}{\numberline {3.3.5}Περιορισμένες Μαρκοβιανές Διαδικασίες Απόφασης (CMDP)}{31}{subsection.3.3.5}%
+\contentsline {subsection}{\numberline {3.3.6}Μέθοδοι Βαθιάς Ενισχυτικής Μάθησης}{31}{subsection.3.3.6}%
+\contentsline {paragraph}{\nonumberline Μέθοδοι Βελτιστοποίησης Πολιτικής (Policy Optimization).}{31}{paragraph*.61}%
+\contentsline {paragraph}{\nonumberline Μέθοδοι Q-Μάθησης (Q-Learning).}{32}{paragraph*.64}%
+\contentsline {paragraph}{\nonumberline Παρεμβολικές Μέθοδοι (Interpolating Methods).}{33}{paragraph*.66}%
+\contentsline {paragraph}{\nonumberline Μέθοδοι Βασισμένες σε Μοντέλο (Model-Based).}{34}{paragraph*.68}%
+\contentsline {subsection}{\numberline {3.3.7}Αλγόριθμος Proximal Policy Optimization (PPO)}{34}{subsection.3.3.7}%
+\contentsline {paragraph}{\nonumberline 1.\ Αποκομμένη υποκατάστατη απώλεια (Actor).}{35}{paragraph*.71}%
+\contentsline {paragraph}{\nonumberline 2.\ Απώλεια αξίας (Critic).}{35}{paragraph*.73}%
+\contentsline {paragraph}{\nonumberline 3.\ Όρος εντροπίας.}{35}{paragraph*.75}%
+\contentsline {paragraph}{\nonumberline Συνολική αντικειμενική συνάρτηση.}{35}{paragraph*.77}%
+\contentsline {section}{\numberline {3.4}Μεγάλα Γλωσσικά Μοντέλα και Ανάλυση Συναισθήματος}{36}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Επεξεργασία Φυσικής Γλώσσας (NLP)}{36}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Ανάλυση Συναισθήματος πριν τους Transformers}{36}{subsection.3.4.2}%
+\contentsline {paragraph}{\nonumberline Μέθοδοι Λεξικού.}{36}{paragraph*.79}%
+\contentsline {paragraph}{\nonumberline Μέθοδοι Μηχανικής Μάθησης με παραδοσιακά χαρακτηριστικά.}{37}{paragraph*.81}%
+\contentsline {paragraph}{\nonumberline Νευρωνικές προσεγγίσεις με LSTM.}{37}{paragraph*.83}%
+\contentsline {subsection}{\numberline {3.4.3}Αρχιτεκτονική Transformer}{37}{subsection.3.4.3}%
+\contentsline {subsection}{\numberline {3.4.4}Ανάλυση Συναισθήματος με Transformers}{39}{subsection.3.4.4}%
+\contentsline {subsection}{\numberline {3.4.5}Μεγάλα Γλωσσικά Μοντέλα (LLMs)}{40}{subsection.3.4.5}%
+\contentsline {subsection}{\numberline {3.4.6}Ανάλυση Συναισθήματος με LLM}{41}{subsection.3.4.6}%
+\contentsline {subsection}{\numberline {3.4.7}Μικρο-Προσαρμογή και Αποδοτική Προσαρμογή (LoRA)}{41}{subsection.3.4.7}%
+\contentsline {paragraph}{\nonumberline Εποπτευόμενη Μικρο-Προσαρμογή (SFT).}{42}{paragraph*.86}%
+\contentsline {paragraph}{\nonumberline Αποδοτική Μικρο-Προσαρμογή: LoRA.}{42}{paragraph*.88}%
+\contentsline {section}{\numberline {3.5}Χρηματοοικονομικές Συναλλαγές}{43}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Βασικές Έννοιες στις Χρηματοοικονομικές Αγορές}{43}{subsection.3.5.1}%
+\contentsline {paragraph}{\nonumberline Υπόθεση Αποτελεσματικής Αγοράς.}{44}{paragraph*.90}%
+\contentsline {subsection}{\numberline {3.5.2}Χρηματοοικονομικά Δεδομένα, Κεριά και Θέσεις}{45}{subsection.3.5.2}%
+\contentsline {paragraph}{\nonumberline Δεδομένα OHLCV και κεριά.}{45}{paragraph*.92}%
+\contentsline {paragraph}{\nonumberline Θέσεις.}{45}{paragraph*.95}%
+\contentsline {subsection}{\numberline {3.5.3}Κέρδος και Ζημία (Profit and Loss)}{46}{subsection.3.5.3}%
+\contentsline {subsection}{\numberline {3.5.4}Ενεργό Κέρδος (Alpha) και Μέτρα Προσαρμοσμένα στον Κίνδυνο}{47}{subsection.3.5.4}%
+\contentsline {paragraph}{\nonumberline Ενεργό κέρδος (alpha).}{47}{paragraph*.97}%
+\contentsline {paragraph}{\nonumberline Μέτρα προσαρμοσμένα στον κίνδυνο.}{47}{paragraph*.99}%
+\contentsline {subsection}{\numberline {3.5.5}Αλγοριθμικές Συναλλαγές}{48}{subsection.3.5.5}%
+\contentsline {subsection}{\numberline {3.5.6}Τεχνητή Νοημοσύνη στις Συναλλαγές}{49}{subsection.3.5.6}%
+\contentsline {chapter}{\numberline {4}Προτεινόμενη Μέθοδος}{51}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Επισκόπηση της Προτεινόμενης Προσέγγισης}{52}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Το πρόβλημα: παθητική κατάρρευση και μερική παρατηρησιμότητα}{52}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Η συνεισφορά}{53}{subsection.4.1.2}%
+\contentsline {paragraph}{\nonumberline Πρώτον, ένας αναδρομικός πράκτορας POMDP.}{53}{paragraph*.103}%
+\contentsline {paragraph}{\nonumberline Δεύτερον, διαμόρφωση ρευστότητας μέσω CMDP.}{53}{paragraph*.105}%
+\contentsline {paragraph}{\nonumberline Τρίτον, διττή αξιοποίηση σήματος συναισθήματος από LLM.}{54}{paragraph*.107}%
+\contentsline {subsection}{\numberline {4.1.3}Σχέση με το FinRL-DeepSeek και συνεισφορά της εργασίας}{54}{subsection.4.1.3}%
+\contentsline {section}{\numberline {4.2}Δεδομένα και Εξαγωγή Χαρακτηριστικών}{55}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Σύνολο Δεδομένων}{55}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Εξαγωγή Τεχνικών Χαρακτηριστικών}{55}{subsection.4.2.2}%
+\contentsline {paragraph}{\nonumberline MACD.}{56}{paragraph*.109}%
+\contentsline {paragraph}{\nonumberline Άνω όριο Bollinger ($\mathtt {boll\_ub}$).}{56}{paragraph*.111}%
+\contentsline {paragraph}{\nonumberline Κάτω όριο Bollinger ($\mathtt {boll\_lb}$).}{57}{paragraph*.113}%
+\contentsline {paragraph}{\nonumberline RSI-30 ($\mathtt {rsi\_30}$).}{57}{paragraph*.115}%
+\contentsline {paragraph}{\nonumberline CCI-30 ($\mathtt {cci\_30}$).}{57}{paragraph*.117}%
+\contentsline {paragraph}{\nonumberline DX-30 ($\mathtt {dx\_30}$).}{58}{paragraph*.119}%
+\contentsline {paragraph}{\nonumberline SMA-30/60 ($\mathtt {close\_30/60\_sma}$).}{59}{paragraph*.121}%
+\contentsline {paragraph}{\nonumberline $\mathtt {high\_diff}$.}{59}{paragraph*.123}%
+\contentsline {paragraph}{\nonumberline $\mathtt {low\_diff}$.}{59}{paragraph*.125}%
+\contentsline {paragraph}{\nonumberline $\mathtt {return\_volatility\_6h}$.}{60}{paragraph*.127}%
+\contentsline {paragraph}{\nonumberline $\mathtt {hl\_volatility\_6h}$.}{60}{paragraph*.129}%
+\contentsline {paragraph}{\nonumberline Πολυκλιμακικές αποδόσεις ($\mathtt {return\_1h/6h/24h/168h}$).}{60}{paragraph*.131}%
+\contentsline {paragraph}{\nonumberline $\mathtt {momentum\_ratio\_24h}$.}{61}{paragraph*.133}%
+\contentsline {paragraph}{\nonumberline $\mathtt {rsi\_divergence\_24h}$.}{61}{paragraph*.135}%
+\contentsline {paragraph}{\nonumberline $\mathtt {relative\_strength\_24h}$.}{61}{paragraph*.137}%
+\contentsline {subsection}{\numberline {4.2.3}Διαδικασία Προεπεξεργασίας}{62}{subsection.4.2.3}%
+\contentsline {paragraph}{\nonumberline Στάδιο 1 - Winsorization.}{62}{paragraph*.140}%
+\contentsline {paragraph}{\nonumberline Στάδιο 2 - Τυποποίηση z-score ανά κρυπτονόμισμα.}{63}{paragraph*.142}%
+\contentsline {paragraph}{\nonumberline Στάδιο 3 - Περιορισμός z-score.}{63}{paragraph*.144}%
+\contentsline {paragraph}{\nonumberline Χειρισμός τιμών NaN.}{64}{paragraph*.146}%
+\contentsline {subsection}{\numberline {4.2.4}Κειμενική Πληροφορία και Αποδοτική Μικρο-Προσαρμογή}{64}{subsection.4.2.4}%
+\contentsline {paragraph}{\nonumberline Ταξινόμηση με FinGPT και LoRA.}{64}{paragraph*.148}%
+\contentsline {subsection}{\numberline {4.2.5}Εξαγωγή Σήματος Συναισθήματος}{66}{subsection.4.2.5}%
+\contentsline {paragraph}{\nonumberline Ωριαία συνάθροιση.}{66}{paragraph*.152}%
+\contentsline {paragraph}{\nonumberline Χειρισμός ωρών χωρίς κάλυψη.}{67}{paragraph*.154}%
+\contentsline {paragraph}{\nonumberline Κλιμάκωση και αναπαράσταση σήματος.}{67}{paragraph*.156}%
+\contentsline {paragraph}{\nonumberline Αποφυγή διαρροής μελλοντικής πληροφορίας.}{68}{paragraph*.158}%
+\contentsline {section}{\numberline {4.3}Αρχιτεκτονική του Πράκτορα}{68}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Δομή δικτύου}{69}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Παράλληλη εκπαίδευση με διανυσματικοποιημένα περιβάλλοντα}{69}{subsection.4.3.2}%
+\contentsline {section}{\numberline {4.4}Περιβάλλον Συναλλαγών}{70}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Χώρος καταστάσεων}{70}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}Χώρος δράσεων}{70}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.3}Αρχική κατάσταση και εργοδικότητα της πολιτικής}{71}{subsection.4.4.3}%
+\contentsline {subsection}{\numberline {4.4.4}Συνάρτηση Ανταμοιβής}{71}{subsection.4.4.4}%
+\contentsline {subsection}{\numberline {4.4.5}Περιορισμοί Ρευστότητας μέσω CMDP}{72}{subsection.4.4.5}%
+\contentsline {subsection}{\numberline {4.4.6}Διττή Αξιοποίηση του Σήματος Συναισθήματος}{73}{subsection.4.4.6}%
+\contentsline {section}{\numberline {4.5}Αλγόριθμος Εκπαίδευσης}{74}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}Εκτίμηση πλεονεκτήματος με αναδρομικό εκτιμητή αξίας}{75}{subsection.4.5.1}%
+\contentsline {subsection}{\numberline {4.5.2}Αποκομμένη οπισθοδιάδοση στον χρόνο}{75}{subsection.4.5.2}%
+\contentsline {subsection}{\numberline {4.5.3}Επέκταση CMDP και ενημέρωση του πολλαπλασιαστή}{75}{subsection.4.5.3}%
+\contentsline {section}{\numberline {4.6}Μεθοδολογία Επικύρωσης και Επιλογής Μοντέλου}{76}{section.4.6}%
+\contentsline {chapter}{\numberline {5}Πειράματα και Αποτελέσματα}{78}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Επισκόπηση και Μεθοδολογία Αξιολόγησης}{78}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Πειραματικές Ομάδες}{78}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}Μεθοδολογία Αξιολόγησης}{78}{subsection.5.1.2}%
+\contentsline {subsection}{\numberline {5.1.3}Μετρικές Αξιολόγησης}{80}{subsection.5.1.3}%
+\contentsline {subsection}{\numberline {5.1.4}Στρατηγική Αναφοράς}{80}{subsection.5.1.4}%
+\contentsline {section}{\numberline {5.2}Σύγκριση Βιβλιοθηκών Ενισχυτικής Μάθησης}{81}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Κίνητρο και Πειραματικός Σχεδιασμός}{81}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Ανάλυση Αποτελεσμάτων}{81}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}Παθολογία Υπερπροσαρμογής}{81}{subsection.5.2.3}%
+\contentsline {section}{\numberline {5.3}Αρχιτεκτονική Πράκτορα: MLP έναντι LSTM}{83}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}Κίνητρο και Πειραματικός Σχεδιασμός}{83}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}Ανάλυση Αποτελεσμάτων}{83}{subsection.5.3.2}%
+\contentsline {section}{\numberline {5.4}Σχεδιασμός Συνάρτησης Ανταμοιβής}{85}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}Κίνητρο}{87}{subsection.5.4.1}%
+\contentsline {subsection}{\numberline {5.4.2}Ανάλυση Αποτελεσμάτων}{88}{subsection.5.4.2}%
+\contentsline {section}{\numberline {5.5}Σύνολο Χαρακτηριστικών Εισόδου}{90}{section.5.5}%
+\contentsline {subsection}{\numberline {5.5.1}Κίνητρο και Πειραματικός Σχεδιασμός}{90}{subsection.5.5.1}%
+\contentsline {subsection}{\numberline {5.5.2}Ανάλυση Αποτελεσμάτων}{91}{subsection.5.5.2}%
+\contentsline {section}{\numberline {5.6}Ευαισθησία σε Κόστος Συναλλαγής}{92}{section.5.6}%
+\contentsline {subsection}{\numberline {5.6.1}Κίνητρο και Αποτελέσματα}{93}{subsection.5.6.1}%
+\contentsline {subsection}{\numberline {5.6.2}Ανάλυση}{93}{subsection.5.6.2}%
+\contentsline {section}{\numberline {5.7}Έλεγχος Δράσεων και Έκθεσης}{93}{section.5.7}%
+\contentsline {subsection}{\numberline {5.7.1}Ανάλυση Αποτελεσμάτων}{96}{subsection.5.7.1}%
+\contentsline {section}{\numberline {5.8}Μήκος Επεισοδίου και Παράλληλα Περιβάλλοντα}{97}{section.5.8}%
+\contentsline {subsection}{\numberline {5.8.1}Ανάλυση Αποτελεσμάτων}{98}{subsection.5.8.1}%
+\contentsline {section}{\numberline {5.9}Περιορισμοί Ρευστότητας μέσω Μη Παραμετροποιήσιμης Ποινής}{99}{section.5.9}%
+\contentsline {subsection}{\numberline {5.9.1}Ανάλυση Αποτελεσμάτων}{99}{subsection.5.9.1}%
+\contentsline {section}{\numberline {5.10}Λαγκρανζιανή Διαμόρφωση Ρευστότητας}{100}{section.5.10}%
+\contentsline {subsection}{\numberline {5.10.1}Ανάλυση Αποτελεσμάτων}{102}{subsection.5.10.1}%
+\contentsline {section}{\numberline {5.11}Βελτιστοποίηση Υπερπαραμέτρων μέσω CPCV}{103}{section.5.11}%
+\contentsline {subsection}{\numberline {5.11.1}Κίνητρο και Πειραματικός Σχεδιασμός}{104}{subsection.5.11.1}%
+\contentsline {subsection}{\numberline {5.11.2}Ανάλυση}{105}{subsection.5.11.2}%
+\contentsline {section}{\numberline {5.12}Ενσωμάτωση Σήματος Συναισθήματος FinGPT}{105}{section.5.12}%
+\contentsline {subsection}{\numberline {5.12.1}Αποτελέσματα: Σήμα Συναισθήματος μόνο στον Χώρο Καταστάσεων}{107}{subsection.5.12.1}%
+\contentsline {subsection}{\numberline {5.12.2}Αποτελέσματα: Σήμα Συναισθήματος σε Κατάσταση και Δράσεις}{109}{subsection.5.12.2}%
+\contentsline {subsection}{\numberline {5.12.3}Σύγκριση των Δύο Προσεγγίσεων}{109}{subsection.5.12.3}%
+\contentsline {subsection}{\numberline {5.12.4}Συμπεριφορική Ανάλυση Βέλτιστου Πράκτορα}{110}{subsection.5.12.4}%
+\contentsline {subsection}{\numberline {5.12.5}Ερμηνεία των Αποτελεσμάτων}{111}{subsection.5.12.5}%
+\contentsline {section}{\numberline {5.13}Συνολική Σύγκριση και Συμπεράσματα}{112}{section.5.13}%
+\contentsline {subsection}{\numberline {5.13.1}Συγκεντρωτικός Πίνακας Αποτελεσμάτων}{112}{subsection.5.13.1}%
+\contentsline {subsection}{\numberline {5.13.2}Πρόοδος μεταξύ Ομάδων}{112}{subsection.5.13.2}%
+\contentsline {subsection}{\numberline {5.13.3}Συνολικά Συμπεράσματα}{113}{subsection.5.13.3}%
+\contentsline {chapter}{\numberline {6}Συμπεράσματα}{115}{chapter.6}%
+\contentsline {chapter}{Βιβλιογραφία}{118}{chapter*.193}%

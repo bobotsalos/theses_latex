@@ -10,6 +10,39 @@
 
 \chapter*{Περίληψη}
 \addcontentsline{toc}{chapter}{Περίληψη}
+Η Βαθιά Ενισχυτική Μάθηση (Deep Reinforcement Learning, DRL) αποτελεί μία από τις πλέον υποσχόμενες προσεγγίσεις για την ανάπτυξη αυτόνομων 
+συστημάτων λήψης αποφάσεων σε σύνθετα και αβέβαια περιβάλλοντα. Στον τομέα των χρηματοοικονομικών συναλλαγών, οι πράκτορες DRL έχουν τη 
+δυνατότητα να αλληλεπιδρούν δυναμικά με την αγορά και να βελτιστοποιούν άμεσα τη διαδικασία διαχείρισης χαρτοφυλακίου μέσω της μεγιστοποίησης 
+μιας συνάρτησης ανταμοιβής. Παρά τη σημαντική πρόοδο που έχει σημειωθεί τα τελευταία χρόνια, οι χρηματοοικονομικές αγορές εξακολουθούν να παρουσιάζουν 
+σημαντικές προκλήσεις λόγω της υψηλής μεταβλητότητας, της μη στασιμότητας, της μερικής παρατηρησιμότητας και των σημαντικών κοστών συναλλαγών. 
+Επιπλέον, οι περισσότερες υπάρχουσες προσεγγίσεις βασίζονται αποκλειστικά σε αριθμητικά δεδομένα αγοράς, παραβλέποντας πληροφορίες που προέρχονται 
+από ειδησεογραφικές πηγές και το επενδυτικό κλίμα.
+
+Η παρούσα διπλωματική εργασία διερευνά την ανάπτυξη ενός προσαρμοστικού πράκτορα χρηματοοικονομικών συναλλαγών που συνδυάζει τεχνικές Βαθιάς 
+Ενισχυτικής Μάθησης με πληροφορία συναισθήματος προερχόμενη από χρηματοοικονομικά κείμενα. Για τον σκοπό αυτό υλοποιείται ένα ολοκληρωμένο 
+πλαίσιο συναλλαγών βασισμένο στον αλγόριθμο Proximal Policy Optimization (PPO) και σε αναδρομική αρχιτεκτονική Long Short-Term Memory (LSTM), 
+η οποία επιτρέπει την αξιοποίηση χρονικών εξαρτήσεων και την αντιμετώπιση της μερικής παρατηρησιμότητας των χρηματοοικονομικών αγορών. 
+Παράλληλα, αναπτύσσεται μηχανισμός εξαγωγής σήματος συναισθήματος μέσω προσαρμογής μεγάλου γλωσσικού μοντέλου (LLM) με χρήση της τεχνικής Low-Rank 
+Adaptation (LoRA), αξιοποιώντας χρηματοοικονομικές ειδήσεις και κείμενα.
+
+Κεντρική συνεισφορά της εργασίας αποτελεί η ενοποίηση πληροφοριών αγοράς, συναισθήματος και περιορισμών διαχείρισης ρευστότητας σε ένα κοινό πλαίσιο 
+λήψης αποφάσεων. Συγκεκριμένα, διερευνάται η αξιοποίηση του σήματος συναισθήματος τόσο ως πρόσθετου χαρακτηριστικού στον χώρο καταστάσεων όσο και ως 
+μηχανισμού άμεσης προσαρμογής των ενεργειών του πράκτορα. Επιπλέον, εισάγεται μηχανισμός ελέγχου ρευστότητας βασισμένος σε Περιορισμένες Μαρκοβιανές 
+Διαδικασίες Απόφασης (Constrained Markov Decision Processes, CMDPs) με χρήση δυναμικά εκπαιδευόμενου πολλαπλασιαστή Lagrange, επιτρέποντας την ταυτόχρονη 
+βελτιστοποίηση απόδοσης και διαχείρισης κινδύνου.
+
+Η αξιολόγηση πραγματοποιείται σε περιβάλλον συναλλαγών κρυπτονομισμάτων μεγάλης κλίμακας και περιλαμβάνει εκτενή πειραματική ανάλυση διαφορετικών 
+αρχιτεκτονικών, συναρτήσεων ανταμοιβής, συνόλων χαρακτηριστικών, μηχανισμών ελέγχου έκθεσης, περιορισμών ρευστότητας και στρατηγικών βελτιστοποίησης 
+υπερπαραμέτρων μέσω Combinatorial Purged Cross Validation (CPCV). Τα αποτελέσματα δείχνουν ότι οι συμβατικές υλοποιήσεις πρακτόρων PPO παρουσιάζουν 
+συχνά φαινόμενα υπερπροσαρμογής ή παθητικής κατάρρευσης έναντι της στρατηγικής αγοράς και διακράτησης. Αντίθετα, η χρήση αρχιτεκτονικής PPO-LSTM, 
+η υιοθέτηση ανταμοιβής ενεργής απόδοσης, η επιβολή περιορισμών ρευστότητας και η ενσωμάτωση σήματος συναισθήματος οδηγούν σε σταθερότερη συμπεριφορά 
+και βελτιωμένες εκτός δείγματος επιδόσεις. Ιδιαίτερα, η συνδυαστική αξιοποίηση των περιορισμών ρευστότητας και της πληροφορίας συναισθήματος 
+παράγει τον βέλτιστο πράκτορα της εργασίας, ο οποίος επιτυγχάνει ανώτερη απόδοση και αποτελεσματικότερη διαχείριση κεφαλαίου σε σχέση με τις βασικές προσεγγίσεις αναφοράς.
+
+Τα ευρήματα της εργασίας υποδεικνύουν ότι η ενσωμάτωση εναλλακτικών πηγών πληροφορίας μέσω Μεγάλων Γλωσσικών Μοντέλων, σε συνδυασμό με κατάλληλα 
+σχεδιασμένους μηχανισμούς περιορισμών και διαχείρισης κινδύνου, μπορεί να βελτιώσει ουσιαστικά την αποτελεσματικότητα και τη γενικευσιμότητα 
+πρακτόρων Βαθιάς Ενισχυτικής Μάθησης σε πραγματικά χρηματοοικονομικά περιβάλλοντα.
+
 
 
 
@@ -17,3 +50,30 @@
 \chapter*{Abstract}
 \addcontentsline{toc}{chapter}{Abstract}
 
+Deep Reinforcement Learning (DRL) is one of the most promising approaches for developing autonomous decision-making systems in complex and uncertain environments. 
+In the field of financial trading, DRL agents are capable of dynamically interacting with the market and directly optimizing the portfolio management process 
+by maximizing a reward function. Despite the significant progress made in recent years, financial markets continue to present significant challenges due to high 
+volatility, non-stationarity, partial observability, and significant transaction costs. Furthermore, most existing approaches rely exclusively on numerical market 
+data, overlooking information derived from news sources and the investment climate.
+
+This thesis investigates the development of an adaptive financial trading agent that combines deep reinforcement learning techniques with sentiment information 
+derived from financial texts. To this end, a comprehensive trading framework is implemented based on the Proximal Policy Optimization (PPO) algorithm and a Long 
+Short-Term Memory (LSTM) recurrent architecture, which allows for the exploitation of temporal dependencies and addresses the partial observability of financial 
+markets. At the same time, a mechanism for extracting sentiment signals is being developed by fine-tuning a large language model (LLM) using the Low-Rank Adaptation 
+(LoRA) technique, leveraging financial news and texts.
+
+The key contribution of this study is the integration of market information, sentiment, and liquidity management constraints into a common decision-making framework. 
+Specifically, the study explores the use of the sentiment signal both as an additional feature in the state space and as a mechanism for directly adjusting the 
+agent’s actions. Furthermore, a fluidity control mechanism based on Constrained Markov Decision Processes (Constrained Markov Decision Processes, CMDPs) 
+using a dynamically trained Lagrange multiplier, enabling the simultaneous optimization of performance and risk management.
+
+The evaluation is conducted in a large-scale cryptocurrency trading environment and includes extensive experimental analysis of different architectures, 
+reward functions, feature sets, exposure control mechanisms, liquidity constraints, and hyperparameter optimization strategies using Combinatorial Purged Cross 
+Validation (CPCV). The results show that conventional PPO agent implementations often exhibit overfitting or passive collapse compared to the buy-and-hold strategy. 
+In contrast, the use of a PPO-LSTM architecture, the adoption of an active return reward, the enforcement of liquidity constraints, and the incorporation of sentiment 
+signals lead to more stable behavior and improved out-of-sample performance. In particular, the combined use of liquidity constraints and sentiment information 
+produces the optimal trading agent, which achieves superior performance and more efficient capital management compared to the baseline approaches.
+
+The findings of this study suggest that the integration of alternative information sources through Large Language Models, in combination with appropriately 
+designed constraint and risk management mechanisms, can substantially improve the effectiveness and generalizability of Deep Reinforcement Learning agents 
+in real-world financial environments.

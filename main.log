@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2025.9.20)  30 JUN 2026 16:50
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2025.9.20)  2 JUL 2026 00:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1177,7 +1177,7 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 214.
 Package hyperref Info: Option `bookmarksopen' set `true' on input line 220.
 )
 Package translations Info: No language package found. I am going to use `english' as default language. on input line 9.
- (./main.aux (./title/title.aux) (./declaration/declaration.aux) (./abstract/abstract.aux) (./acknowledgements/acknowledgements.aux) (./chapter1/chapter1.aux) (./chapter2/chapter2.aux) (./chapter3/chapter3.aux) (./chapter4/chapter4.aux
+ (./main.aux (./title/title.aux) (./declaration/declaration.aux) (./acknowledgements/acknowledgements.aux) (./abstract/abstract.aux) (./chapter1/chapter1.aux) (./chapter2/chapter2.aux) (./chapter3/chapter3.aux) (./chapter4/chapter4.aux
 
 LaTeX Warning: Label `eq:returns' multiply defined.
 
@@ -1342,75 +1342,41 @@ File: preamble/UniversityCrest.pdf Graphic file (type pdf)
 
 
 
-] [2]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 45.
+]
+File: preamble/UniversityCrest.pdf Graphic file (type pdf)
+<use preamble/UniversityCrest.pdf>
+ [2]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 80.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 45.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 80.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 File: preamble/UniversityCrest.pdf Graphic file (type pdf)
 <use preamble/UniversityCrest.pdf>
 
-Overfull \hbox (3.16719pt too wide) in paragraph at lines 49--50
+Overfull \hbox (3.16719pt too wide) in paragraph at lines 84--85
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 50--55
+Underfull \hbox (badness 10000) in paragraph at lines 85--90
+\TU/CMUSerif(0)/m/n/12 Τμήμα Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογι-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--90
 
  []
 
 [3])
 \openout2 = `declaration/declaration.aux'.
 
- (./declaration/declaration.tex [1
+ (./declaration/declaration.tex) [1
 
 
-
-
-
-])
-\openout2 = `abstract/abstract.aux'.
-
- (./abstract/abstract.tex
-
-Class scrreprt Warning: Redefinition of \@makeschapterhead detected.
-(scrreprt)              Note: KOMA-Script does use styles for commands like
-(scrreprt)              \chapter. Currently it internally still provides and
-(scrreprt)              uses \@makeschapterhead, but a completely different
-(scrreprt)              definition compared to the standard classes.
-(scrreprt)              So redefining or using internal \@makeschapterhead
-(scrreprt)              by users or package authors may already break
-(scrreprt)              KOMA-Script and will not work with a coming version,
-(scrreprt)              that will remove this deprecated code.
-
-LaTeX Font Info:    Trying to load font information for TU+put on input line 11.
-LaTeX Font Info:    No file TUput.fd. on input line 11.
-
-LaTeX Font Warning: Font shape `TU/put/b/n' undefined
-(Font)              using `TU/lmr/m/n' instead on input line 11.
-
-[2
-
-
-
-
-]
-
-Class scrreprt Warning: Redefinition of \@makeschapterhead detected.
-(scrreprt)              Note: KOMA-Script does use styles for commands like
-(scrreprt)              \chapter. Currently it internally still provides and
-(scrreprt)              uses \@makeschapterhead, but a completely different
-(scrreprt)              definition compared to the standard classes.
-(scrreprt)              So redefining or using internal \@makeschapterhead
-(scrreprt)              by users or package authors may already break
-(scrreprt)              KOMA-Script and will not work with a coming version,
-(scrreprt)              that will remove this deprecated code.
-
-) [3
 
 ]
 \openout2 = `acknowledgements/acknowledgements.aux'.
@@ -1427,12 +1393,21 @@ Class scrreprt Warning: Redefinition of \@makeschapterhead detected.
 (scrreprt)              KOMA-Script and will not work with a coming version,
 (scrreprt)              that will remove this deprecated code.
 
-) [4
+LaTeX Font Info:    Trying to load font information for TU+put on input line 10.
+LaTeX Font Info:    No file TUput.fd. on input line 10.
+
+LaTeX Font Warning: Font shape `TU/put/b/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 10.
+
+) [2
 
 
 
 
 ]
+\openout2 = `abstract/abstract.aux'.
+
+ (./abstract/abstract.tex
 
 Class scrreprt Warning: Redefinition of \@makeschapterhead detected.
 (scrreprt)              Note: KOMA-Script does use styles for commands like
@@ -1444,25 +1419,56 @@ Class scrreprt Warning: Redefinition of \@makeschapterhead detected.
 (scrreprt)              KOMA-Script and will not work with a coming version,
 (scrreprt)              that will remove this deprecated code.
 
-(./main.toc [5
+[3
 
 
 
-] [6] [7]
-Overfull \hbox (2.09996pt too wide) detected at line 195
- \TU/CMUSerif(0)/b/n/12 109
+
+] [4]
+
+Class scrreprt Warning: Redefinition of \@makeschapterhead detected.
+(scrreprt)              Note: KOMA-Script does use styles for commands like
+(scrreprt)              \chapter. Currently it internally still provides and
+(scrreprt)              uses \@makeschapterhead, but a completely different
+(scrreprt)              definition compared to the standard classes.
+(scrreprt)              So redefining or using internal \@makeschapterhead
+(scrreprt)              by users or package authors may already break
+(scrreprt)              KOMA-Script and will not work with a coming version,
+(scrreprt)              that will remove this deprecated code.
+
+[5
+
+]) [6]
+
+Class scrreprt Warning: Redefinition of \@makeschapterhead detected.
+(scrreprt)              Note: KOMA-Script does use styles for commands like
+(scrreprt)              \chapter. Currently it internally still provides and
+(scrreprt)              uses \@makeschapterhead, but a completely different
+(scrreprt)              definition compared to the standard classes.
+(scrreprt)              So redefining or using internal \@makeschapterhead
+(scrreprt)              by users or package authors may already break
+(scrreprt)              KOMA-Script and will not work with a coming version,
+(scrreprt)              that will remove this deprecated code.
+
+(./main.toc [7
+
+
+
+] [8] [9]
+Overfull \hbox (2.09996pt too wide) detected at line 189
+ \TU/CMUSerif(0)/b/n/12 115
  []
 
 
-Overfull \hbox (2.09996pt too wide) detected at line 196
- \TU/CMUSerif(0)/b/n/12 112
+Overfull \hbox (2.09996pt too wide) detected at line 190
+ \TU/CMUSerif(0)/b/n/12 118
  []
 
 )
 \tf@toc=\write7
 \openout7 = `main.toc'.
 
- [8]
+ [10]
 
 Class scrreprt Warning: Redefinition of \@makeschapterhead detected.
 (scrreprt)              Note: KOMA-Script does use styles for commands like
@@ -1474,19 +1480,14 @@ Class scrreprt Warning: Redefinition of \@makeschapterhead detected.
 (scrreprt)              KOMA-Script and will not work with a coming version,
 (scrreprt)              that will remove this deprecated code.
 
-(./main.lof
-Underfull \hbox (badness 1303) in paragraph at lines 21--21
- [][] [][][]\TU/CMUSerif(0)/m/n/12 Συσσωρευμένες αποδόσεις κατά την περίοδο εκπαίδευσης (2019–2024) 
- []
-
-[9
+(./main.lof [11
 
 
-] [10])
+] [12])
 \tf@lof=\write8
 \openout8 = `main.lof'.
 
- [11] [12]
+ [13]
 
 Class scrreprt Warning: Redefinition of \@makeschapterhead detected.
 (scrreprt)              Note: KOMA-Script does use styles for commands like
@@ -1498,16 +1499,16 @@ Class scrreprt Warning: Redefinition of \@makeschapterhead detected.
 (scrreprt)              KOMA-Script and will not work with a coming version,
 (scrreprt)              that will remove this deprecated code.
 
-(./main.lot [13
+(./main.lot [14
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 23--23
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
  [][] [][][]\TU/CMUSerif(0)/m/n/12 Αποτελέσματα ομάδας FinGPT (χαρακτηριστικά 
  []
 
 
-Underfull \hbox (badness 3302) in paragraph at lines 23--23
+Underfull \hbox (badness 3302) in paragraph at lines 24--24
  \TU/CMUTypewriterText(0)/m/n/12 base_momentum_fingpt_onehot\TU/CMUSerif(0)/m/n/12 , CPCV/Optuna, κόστος $\OT1/cmr/m/n/12 10[]$\TU/CMUSerif(0)/m/n/12 , περί- 
  []
 
@@ -1515,7 +1516,7 @@ Underfull \hbox (badness 3302) in paragraph at lines 23--23
 \tf@lot=\write9
 \openout9 = `main.lot'.
 
- [14]
+ [15]
 \openout2 = `chapter1/chapter1.aux'.
 
  (./chapter1/chapter1.tex
@@ -1552,7 +1553,7 @@ Class scrreprt Warning: Redefinition of \@makechapterhead detected.
 
 
 
-] [2] [3]) [4]
+] [2] [3]) [4] [5]
 \openout2 = `chapter2/chapter2.aux'.
 
  (./chapter2/chapter2.tex
@@ -1568,17 +1569,17 @@ Class scrreprt Warning: Redefinition of \@makechapterhead detected.
 (scrreprt)              KOMA-Script and will not work with a coming version,
 (scrreprt)              that will remove this deprecated code.
 
-[5
+[6
 
 
 
 
-] [6] [7]
+] [7] [8]
 Underfull \hbox (badness 1127) in paragraph at lines 113--118
 []\TU/CMUSerif(0)/b/n/12 Μέσα Κοινωνικής Δικτύωσης (Social Media): \TU/CMUSerif(0)/m/n/12 Πλατφόρμες όπως το
  []
 
-) [8] [9]
+) [9] [10]
 \openout2 = `chapter3/chapter3.aux'.
 
  (./chapter3/chapter3.tex
@@ -1594,29 +1595,395 @@ Class scrreprt Warning: Redefinition of \@makechapterhead detected.
 (scrreprt)              KOMA-Script and will not work with a coming version,
 (scrreprt)              that will remove this deprecated code.
 
-[10
+[11
 
 
 
 
-] [11]
+] [12]
 File: ./figures/supervised.png Graphic file (type bmp)
 <./figures/supervised.png>
 LaTeX Font Info:    Font shape `TU/CMUSerif(0)/m/sl' in size <10.95> not available
 (Font)              Font shape `TU/CMUSerif(0)/m/it' tried instead on input line 139.
- [12]
+ [13]
 File: ./figures/unsupervised.png Graphic file (type bmp)
 <./figures/unsupervised.png>
 File: ./figures/drl_loop.png Graphic file (type bmp)
 <./figures/drl_loop.png>
- [13] [14]
+ [14] [15]
 File: ./figures/rl_algos.png Graphic file (type bmp)
 <./figures/rl_algos.png>
- [15] [16]
+ [16] [17]
 File: ./figures/perceptron.jpeg Graphic file (type bmp)
 <./figures/perceptron.jpeg>
- [17]
+ [18]
 File: ./figures/mlp.jpeg Graphic file (type bmp)
 <./figures/mlp.jpeg>
 
-Underfull \hbox (badness 1552) in paragr
+Underfull \hbox (badness 1552) in paragraph at lines 387--395
+ []\TU/CMUSerif(0)/b/n/12 Θεώρημα Καθολικής Προσέγγισης.[] \TU/CMUSerif(0)/m/n/12 Η θεωρητική δικαιολόγηση της ισχύος
+ []
+
+[19] [20]
+Underfull \hbox (badness 1210) in paragraph at lines 472--480
+\TU/CMUSerif(0)/m/n/12 ποποιημένης κανονικής κατανομής, αποτελεί την προεπιλεγμένη ενεργοποίηση στους
+ []
+
+[21] [22]
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <8> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 597.
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 597.
+File: ./figures/descent.jpeg Graphic file (type bmp)
+<./figures/descent.jpeg>
+ [23] [24]
+Underfull \hbox (badness 1226) in paragraph at lines 691--696
+ []\TU/CMUSerif(0)/b/n/12 Αναδρομικά Νευρωνικά Δίκτυα.[] \TU/CMUSerif(0)/m/n/12 Τα δίκτυα πρόσθιας τροφοδότησης υποθέ-
+ []
+
+File: ./figures/lstm.png Graphic file (type bmp)
+<./figures/lstm.png>
+[25] [26]
+File: ./figures/gru.png Graphic file (type bmp)
+<./figures/gru.png>
+ [27] [28] [29] [30] [31]
+File: ./figures/actor-critic.png Graphic file (type bmp)
+<./figures/actor-critic.png>
+ [32] [33]
+Underfull \hbox (badness 10000) in paragraph at lines 1182--1183
+[]|\TU/CMUSerif(0)/m/n/12 A2C/A3C, TRPO,
+ []
+
+
+Underfull \hbox (badness 6592) in paragraph at lines 1188--1189
+[]|\TU/CMUSerif(0)/m/n/12 World Models, I2A,
+ []
+
+[34] [35] [36] [37]
+File: ./figures/transformer.png Graphic file (type bmp)
+<./figures/transformer.png>
+ [38] [39] [40] [41] [42] [43]
+Underfull \hbox (badness 3049) in paragraph at lines 1689--1704
+ []\TU/CMUSerif(0)/b/n/12 Υπόθεση Αποτελεσματικής Αγοράς.[] \TU/CMUSerif(0)/m/n/12 Η \TU/CMUSerif(0)/m/it/12 Υπόθεση Αποτελεσματικής Αγοράς
+ []
+
+[44] [45] [46] [47] [48]
+Underfull \hbox (badness 1354) in paragraph at lines 1948--1956
+[]\TU/CMUSerif(0)/m/n/12 Δεύτερη ιδιαιτερότητα είναι ο κίνδυνος \TU/CMUSerif(0)/m/it/12 υπερπροσαρμογής στο παρελθόν \TU/CMUSerif(0)/m/n/12 (backtest
+ []
+
+) [49] [50]
+\openout2 = `chapter4/chapter4.aux'.
+
+ (./chapter4/chapter4.tex
+chapter 4.
+
+Class scrreprt Warning: Redefinition of \@makechapterhead detected.
+(scrreprt)              Note: KOMA-Script does use styles for commands like
+(scrreprt)              \chapter. Currently it internally still provides and
+(scrreprt)              uses \@makechapterhead, but a completely different
+(scrreprt)              definition compared to the standard classes.
+(scrreprt)              So redefining or using internal \@makechapterhead
+(scrreprt)              by users or package authors may already break
+(scrreprt)              KOMA-Script and will not work with a coming version,
+(scrreprt)              that will remove this deprecated code.
+
+[51
+
+
+
+
+]
+File: ./figures/../figures/g2_baseline_trade_returns.png Graphic file (type bmp)
+<./figures/../figures/g2_baseline_trade_returns.png>
+ [52] [53] [54] [55] [56] [57] [58] [59] [60] [61]
+Overfull \hbox (5.0569pt too wide) in paragraph at lines 562--592
+ [][] 
+ []
+
+[62] [63]
+Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on input line 671.
+
+Underfull \hbox (badness 6526) in paragraph at lines 697--715
+ []\TU/CMUSerif(0)/b/n/12 Ταξινόμηση με FinGPT και LoRA.[] \TU/CMUSerif(0)/m/n/12 Η ταξινόμηση του συναισθήματος
+ []
+
+
+Underfull \hbox (badness 2042) in paragraph at lines 697--715
+\TU/CMUSerif(0)/m/n/12 κάθε άρθρου εκτελείται από ένα μεγάλο γλωσσικό μοντέλο βασισμένο στη βάση
+ []
+
+[64]
+LaTeX Font Info:    Font shape `TU/CMUSerif(0)/b/sl' in size <10.95> not available
+(Font)              Font shape `TU/CMUSerif(0)/b/it' tried instead on input line 754.
+ [65]
+File: ./figures/fingpt_score_distribution.png Graphic file (type bmp)
+<./figures/fingpt_score_distribution.png>
+ [66] [67] [68] [69]
+Underfull \hbox (badness 2980) in paragraph at lines 1046--1051
+[]\TU/CMUSerif(0)/m/n/12 Το περιβάλλον μοντελοποιεί τη διαχείριση χαρτοφυλακίου $\OML/cmm/m/it/12 N$ \TU/CMUSerif(0)/m/n/12 κρυπτονομισμάτων
+ []
+
+[70] [71] [72] [73] [74] [75] [76]) [77]
+\openout2 = `chapter5/chapter5.aux'.
+
+ (./chapter5/chapter5.tex
+chapter 5.
+
+Class scrreprt Warning: Redefinition of \@makechapterhead detected.
+(scrreprt)              Note: KOMA-Script does use styles for commands like
+(scrreprt)              \chapter. Currently it internally still provides and
+(scrreprt)              uses \@makechapterhead, but a completely different
+(scrreprt)              definition compared to the standard classes.
+(scrreprt)              So redefining or using internal \@makechapterhead
+(scrreprt)              by users or package authors may already break
+(scrreprt)              KOMA-Script and will not work with a coming version,
+(scrreprt)              that will remove this deprecated code.
+
+
+Underfull \hbox (badness 4316) in paragraph at lines 58--58
+[]|\TU/CMUSerif(0)/m/n/10.95 Αποτροπή παθητικής κατάρ-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
+[]|\TU/CMUSerif(0)/m/n/10.95 Ευαισθησία βέλτιστου πρά-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
+[]|\TU/CMUSerif(0)/m/n/10.95 Επίδραση μηχανισμού αντι-
+ []
+
+
+Underfull \hbox (badness 2150) in paragraph at lines 58--58
+[]|\TU/CMUSerif(0)/m/n/10.95 Ανταλλαγή μεταξύ χρονικού
+ []
+
+
+Underfull \hbox (badness 2671) in paragraph at lines 58--58
+\TU/CMUSerif(0)/m/n/10.95 ορίζοντα και ποικιλομορφίας
+ []
+
+
+Underfull \hbox (badness 1281) in paragraph at lines 58--58
+\TU/CMUSerif(0)/m/n/10.95 μων ορίων ρευστότητας στο
+ []
+
+
+Underfull \hbox (badness 1609) in paragraph at lines 58--58
+\TU/CMUSerif(0)/m/n/10.95 λογίες Λαγκρανζιανής χαλά-
+ []
+
+
+Underfull \hbox (badness 2717) in paragraph at lines 58--58
+\TU/CMUSerif(0)/m/n/10.95 στασης έναντι σύζευξης με
+ []
+
+[78
+
+
+
+
+] [79] [80]
+File: ./figures/../../out/final_groups/trade/g2/cumulative_returns_mean.png Graphic file (type bmp)
+<./figures/../../out/final_groups/trade/g2/cumulative_returns_mean.png>
+LaTeX Info: Redefining \anw@print on input line 195.
+LaTeX Info: Redefining \anw@print on input line 195.
+File: ./figures/../../out/final_groups/train/g2/cumulative_returns_mean.png Graphic file (type bmp)
+<./figures/../../out/final_groups/train/g2/cumulative_returns_mean.png>
+LaTeX Info: Redefining \anw@print on input line 197.
+LaTeX Info: Redefining \anw@print on input line 197.
+ [81] [82]
+File: ./figures/../../out/final_groups/trade/g1/cumulative_returns_mean.png Graphic file (type bmp)
+<./figures/../../out/final_groups/trade/g1/cumulative_returns_mean.png>
+ [83] [84]
+File: ./figures/../../out/final_groups/train/g1/cumulative_returns_mean.png Graphic file (type bmp)
+<./figures/../../out/final_groups/train/g1/cumulative_returns_mean.png>
+File: ./figures/../../out/evaluate_training_groups/g1/convergence_plot.png Graphic file (type bmp)
+<./figures/../../out/evaluate_training_groups/g1/convergence_plot.png>
+ [85] [86] [87]
+File: ./figures/../figures/diagnostics_g1/lstm_pnl_cash-01.png Graphic file (type bmp)
+<./figures/../figures/diagnostics_g1/lstm_pnl_cash-01.png>
+LaTeX Info: Redefining \anw@print on input line 419.
+LaTeX Info: Redefining \anw@print on input line 419.
+File: ./figures/../figures/diagnostics_g1/mlp_pnl_cash-01.png Graphic file (type bmp)
+<./figures/../figures/diagnostics_g1/mlp_pnl_cash-01.png>
+LaTeX Info: Redefining \anw@print on input line 421.
+LaTeX Info: Redefining \anw@print on input line 421.
+File: ./figures/../../out/final_groups/trade/g3/cumulative_returns_mean.png Graphic file (type bmp)
+<./figures/../../out/final_groups/trade/g3/cumulative_returns_mean.png>
+LaTeX Info: Redefining \anw@print on input line 465.
+File: ./figures/../../out/final_groups/trade/g3/cumulative_returns_relative_bnh.png Graphic file (type bmp)
+<./figures/../../out/final_groups/trade/g3/cumulative_returns_relative_bnh.png>
+LaTeX Info: Redefining \anw@print on input line 467.
+LaTeX Info: Redefining \anw@print on input line 467.
+ [88] [89]
+Underfull \hbox (badness 3407) in paragraph at lines 505--509
+[]\TU/CMUSerif(0)/m/n/12 4 δείκτες μικροδομής (wick differentials και με-
+ []
+
+
+Underfull \hbox (badness 4940) in paragraph at lines 505--509
+\TU/CMUSerif(0)/m/n/12 ταβλητότητα 6h) και 6 κυκλικές ημερολογιακές κωδικοποιήσεις (ημιτονοει-
+ []
+
+[90]
+File: ./figures/../../out/final_groups/trade/g4/cumulative_returns_mean.png Graphic file (type bmp)
+<./figures/../../out/final_groups/trade/g4/cumulative_returns_mean.png>
+LaTeX Info: Redefining \anw@print on input line 553.
+File: ./figures/../../out/final_groups/trade/g4/cumulative_returns_relative_bnh.png Graphic file (type bmp)
+<./figures/../../out/final_groups/trade/g4/cumulative_returns_relative_bnh.png>
+LaTeX Info: Redefining \anw@print on input line 555.
+LaTeX Info: Redefining \anw@print on input line 555.
+ [91] [92]
+File: ./figures/../../out/final_groups/trade/g5/cumulative_returns_mean.png Graphic file (type bmp)
+<./figures/../../out/final_groups/trade/g5/cumulative_returns_mean.png>
+LaTeX Info: Redefining \anw@print on input line 611.
+File: ./figures/../../out/final_groups/trade/g5/cumulative_returns_relative_bnh.png Graphic file (type bmp)
+<./figures/../../out/final_groups/trade/g5/cumulative_returns_relative_bnh.png>
+LaTeX Info: Redefining \anw@print on input line 613.
+LaTeX Info: Redefining \anw@print on input line 613.
+File: ./figures/../../out/final_groups/train/g5/cumulative_returns_mean.png Graphic file (type bmp)
+<./figures/../../out/final_groups/train/g5/cumulative_returns_mean.png>
+ [93] [94] [95]
+File: ./figures/../../out/final_groups/trade/g6/cumulative_returns_mean.png Graphic file (type bmp)
+<./figures/../../out/final_groups/trade/g6/cumulative_returns_mean.png>
+ [96] [97]
+File: ./figures/../../out/final_groups/trade/g7/cumulative_returns_mean.png Graphic file (type bmp)
+<./figures/../../out/final_groups/trade/g7/cumulative_returns_mean.png>
+ [98] [99]
+File: ./figures/../../out/final_groups/trade/g8_1/cumulative_returns_mean.png Graphic file (type bmp)
+<./figures/../../out/final_groups/trade/g8_1/cumulative_returns_mean.png>
+LaTeX Info: Redefining \anw@print on input line 899.
+File: ./figures/../../out/final_groups/trade/g8_1/cumulative_returns_relative_bnh.png Graphic file (type bmp)
+<./figures/../../out/final_groups/trade/g8_1/cumulative_returns_relative_bnh.png>
+LaTeX Info: Redefining \anw@print on input line 901.
+LaTeX Info: Redefining \anw@print on input line 901.
+ [100] [101]
+File: ./figures/../../out/final_groups/trade/g8_2/cumulative_returns_mean.png Graphic file (type bmp)
+<./figures/../../out/final_groups/trade/g8_2/cumulative_returns_mean.png>
+ [102]
+File: ./figures/diagnostics_g8_2/smooth_convex_cash_ratio.png Graphic file (type bmp)
+<./figures/diagnostics_g8_2/smooth_convex_cash_ratio.png>
+
+Underfull \hbox (badness 1314) in paragraph at lines 1042--1053
+[]\TU/CMUSerif(0)/m/n/12 Η ομάδα βελτιστοποίησης CPCV δεν εισάγει νέο μοντέλο, αλλά μία διαδικασία
+ []
+
+[103]
+LaTeX Font Info:    Font shape `TU/CMUTypewriterText(0)/m/sl' in size <10.95> not available
+(Font)              Font shape `TU/CMUTypewriterText(0)/m/it' tried instead on input line 1108.
+File: ./figures/../../out/final_groups/trade/g9/cumulative_returns_mean.png Graphic file (type bmp)
+<./figures/../../out/final_groups/trade/g9/cumulative_returns_mean.png>
+LaTeX Info: Redefining \anw@print on input line 1130.
+File: ./figures/../../out/final_groups/trade/g9/cumulative_returns_relative_bnh.png Graphic file (type bmp)
+<./figures/../../out/final_groups/trade/g9/cumulative_returns_relative_bnh.png>
+LaTeX Info: Redefining \anw@print on input line 1132.
+LaTeX Info: Redefining \anw@print on input line 1132.
+
+Underfull \hbox (badness 2762) in paragraph at lines 1135--1135
+[]\TU/CMUSerif(0)/b/n/10.95 Σχήμα 5.15:  \TU/CMUSerif(0)/m/it/10.95 Συσσωρευμένες αποδόσεις εκτός δείγματος (2024–2025) για τις CPCV-
+ []
+
+[104] [105] [106] [107]
+File: ./figures/../../out/final_groups/trade/g13/cumulative_returns_mean.png Graphic file (type bmp)
+<./figures/../../out/final_groups/trade/g13/cumulative_returns_mean.png>
+LaTeX Info: Redefining \anw@print on input line 1372.
+File: ./figures/../../out/final_groups/trade/g13/cumulative_returns_relative_bnh.png Graphic file (type bmp)
+<./figures/../../out/final_groups/trade/g13/cumulative_returns_relative_bnh.png>
+LaTeX Info: Redefining \anw@print on input line 1374.
+ [108]
+File: ./figures/../../out/final_groups/trade/g12/cumulative_returns_mean.png Graphic file (type bmp)
+<./figures/../../out/final_groups/trade/g12/cumulative_returns_mean.png>
+LaTeX Info: Redefining \anw@print on input line 1425.
+File: ./figures/../../out/final_groups/trade/g12/cumulative_returns_relative_bnh.png Graphic file (type bmp)
+<./figures/../../out/final_groups/trade/g12/cumulative_returns_relative_bnh.png>
+LaTeX Info: Redefining \anw@print on input line 1427.
+ [109]
+File: ./figures/../figures/diagnostics_g12/liquify_fraction-04.png Graphic file (type bmp)
+<./figures/../figures/diagnostics_g12/liquify_fraction-04.png>
+LaTeX Info: Redefining \anw@print on input line 1464.
+LaTeX Info: Redefining \anw@print on input line 1464.
+File: ./figures/../figures/diagnostics_g12/liquify_cash-01.png Graphic file (type bmp)
+<./figures/../figures/diagnostics_g12/liquify_cash-01.png>
+LaTeX Info: Redefining \anw@print on input line 1466.
+LaTeX Info: Redefining \anw@print on input line 1466.
+ [110] [111] [112]) [113] [114]
+\openout2 = `chapter6/chapter6.aux'.
+
+ (./chapter6/chapter6.tex
+chapter 6.
+
+Class scrreprt Warning: Redefinition of \@makechapterhead detected.
+(scrreprt)              Note: KOMA-Script does use styles for commands like
+(scrreprt)              \chapter. Currently it internally still provides and
+(scrreprt)              uses \@makechapterhead, but a completely different
+(scrreprt)              definition compared to the standard classes.
+(scrreprt)              So redefining or using internal \@makechapterhead
+(scrreprt)              by users or package authors may already break
+(scrreprt)              KOMA-Script and will not work with a coming version,
+(scrreprt)              that will remove this deprecated code.
+
+[115
+
+
+
+
+] [116]) [117] (./main.bbl (./main.brf)
+\tf@brf=\write10
+\openout10 = `main.brf'.
+
+
+
+Class scrreprt Warning: Redefinition of \@makeschapterhead detected.
+(scrreprt)              Note: KOMA-Script does use styles for commands like
+(scrreprt)              \chapter. Currently it internally still provides and
+(scrreprt)              uses \@makeschapterhead, but a completely different
+(scrreprt)              definition compared to the standard classes.
+(scrreprt)              So redefining or using internal \@makeschapterhead
+(scrreprt)              by users or package authors may already break
+(scrreprt)              KOMA-Script and will not work with a coming version,
+(scrreprt)              that will remove this deprecated code.
+
+[118
+
+
+
+]
+Underfull \hbox (badness 1655) in paragraph at lines 127--127
+[]\TU/CMUSerif(0)/m/n/10.95 Will Dabney, Mark Rowland, Marc Bellemare, and Rémi Munos.  Distributional
+ []
+
+[119] [120] [121] [122] [123] [124]
+Underfull \hbox (badness 2762) in paragraph at lines 514--514
+[]\TU/CMUSerif(0)/m/n/10.95 Nitish Srivastava, Geoffrey Hinton, Alex Krizhevsky, Ilya Sutskever, and Ruslan
+ []
+
+[125]) [126] (./main.aux (./title/title.aux) (./declaration/declaration.aux) (./acknowledgements/acknowledgements.aux) (./abstract/abstract.aux) (./chapter1/chapter1.aux) (./chapter2/chapter2.aux) (./chapter3/chapter3.aux) (./chapter4/chapter4.aux) (./chapter5/chapter5.aux) (./chapter6/chapter6.aux))
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2020/03/25>
+ ***********
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Info: File `main.brf' has not changed.
+(rerunfilecheck)             Checksum: F443F8E31286EEF65A3D0C2B9024AFF7;12100.
+ ) 
+Here is how much of TeX's memory you used:
+ 43936 strings out of 474878
+ 928607 string characters out of 5762516
+ 1937627 words of memory out of 5000000
+ 65068 multiletter control sequences out of 15000+600000
+ 572234 words of font info for 165 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 131i,14n,125p,10954b,925s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on main.pdf (144 pages).

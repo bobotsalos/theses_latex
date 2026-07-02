@@ -329,6 +329,11 @@ Yukun Liu and Aleh Tsyvinski.
 \newblock Risks and returns of cryptocurrency.
 \newblock {\em The Review of Financial Studies}, 34(6):2689--2727, 2021.
 
+\bibitem{liu2022common}
+Yukun Liu, Aleh Tsyvinski, and Xi~Wu.
+\newblock Common risk factors in cryptocurrency.
+\newblock {\em The Journal of Finance}, 77(2):1133--1177, 2022.
+
 \bibitem{lo2017adaptive}
 Andrew~W Lo.
 \newblock {\em Adaptive Markets: Financial Evolution at the Speed of Thought}.
@@ -441,6 +446,11 @@ Jeffrey Pennington, Richard Socher, and Christopher~D. Manning.
 Prajit Ramachandran, Barret Zoph, and Quoc~V. Le.
 \newblock Searching for activation functions.
 \newblock {\em arXiv preprint arXiv:1710.05941}, 2017.
+
+\bibitem{rodinos2023sharpe}
+Georgios Rodinos, Paraskevi Nousi, Nikolaos Passalis, and Anastasios Tefas.
+\newblock A sharpe ratio based reward scheme in deep reinforcement learning for financial trading.
+\newblock In {\em IFIP international conference on artificial intelligence applications and innovations}, pages 15--23. Springer, 2023.
 
 \bibitem{rosenblatt1958}
 Frank Rosenblatt.
